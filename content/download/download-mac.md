@@ -22,6 +22,24 @@ port install gcc44 # With the addition of llvm/clang as the default compiler in 
 <p>To update OpenModelica once it has been installed:</p>
 <pre>port selfupdate<br />port upgrade openmodelica-devel</pre>
 <p><a></a>To install using homebrew from source should be possible with something like the following commands:</p>
+
+```bash
+# assuming you installed into /opt/local
+echo rsync://build.openmodelica.org/macports/ >> /opt/local/etc/macports/sources.conf
+port selfupdate
+# With the addition of llvm/clang as the default compiler in XCode, many ports now fail to build unless you force GCC to be used.
+# Newer MacOS versions may require more recent gfortran compilers available
+port install gcc44
+# Show the variants macports can build using if one compiler gives you problems
+port variant openmodelica-devel
+# You could also skip choosing a compiler such as clang
+port install openmodelica-devel +libraries +clang
+# If you only want the OpenModelica core
+port install openmodelica-devel +libraries -qt
+# If you want to compile using rml-mmc instead of bootstrapping (slower and requires the rml-mmc dependency; this used to be the default)
+port install openmodelica-devel +rml
+```
+
 <p style="padding-left: 30px;">brew install omniORB<br /><span style="line-height: 1.3em;">brew install cmake<br /></span><span style="line-height: 1.3em;">brew install homebrew/science/lp_solve<br /></span><span style="line-height: 1.3em;">brew install gettext<br /></span><span style="line-height: 1.3em;">brew install libtool<br /></span><span style="line-height: 1.3em;">PATH=$PATH:/usr/local/Cellar/gettext/0.18.3.1/bin/<br /></span>./configure <span style="line-height: 19.7999992370605px;">LDFLAGS="-L/usr/local/opt/gettext/lib -L/usr/local/Cellar/lp_solve/</span><span style="line-height: 19.7999992370605px;">5.5.2.0/lib" CFLAGS="-I/usr/local/opt/gettext/include&nbsp;</span><span style="line-height: 19.7999992370605px;">-I/usr/local/Cellar/lp_solve/5.5.2.0/include"&nbsp;</span>&nbsp;--without-omniORB&nbsp;--disable-omnotebook --disable-modelica3d --without-paradiseo</p>
 <p>Note: OMNotebook does not work properly on OSX because the qt event system is different on OSX than on Linux/Windows, making the application crash when loading too large notebooks.</p>
 <p>If you have any questions about the installation, feel free to ask on&nbsp;the&nbsp;<a href="http://openmodelica.org/" style="color: #1b57b1; text-decoration: none; font-weight: normal;">forums</a>.</p>

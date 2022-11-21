@@ -44,3 +44,5 @@ mv free-and-open-source-software/modprod-2012.md events/modprod/modprod-2012.md
 mv free-and-open-source-software/modprod-workshop2011.md events/modprod/modprod-2011.md
 rm uncategorised/modprod2011.md
 mv free-and-open-source-software/modprod-workshop.md events/modprod/modprod-2010.md
+mkdir -p developersresources
+mv uncategorised/contributor-license.md developersresources/contributor-license-agreement.md
