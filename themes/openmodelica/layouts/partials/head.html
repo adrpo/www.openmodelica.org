@@ -1,0 +1,121 @@
+<title>{{ .Title }}</title>
+<style type="text/css">
+body {
+	background: #eeeeee;
+	font-size:22px;
+	color: #000000;
+	word-wrap:break-word !important;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 40pt;
+}	
+
+h3 {
+	font-size: 20pt;
+}
+
+#nav-container {
+	margin: 0 auto;
+}
+
+nav {
+	margin: 0px 0;
+	background-color: #333333;
+    width: 960px;
+}
+
+nav ul {
+	padding: 0;
+    margin: 0;
+	list-style: none;
+	position: relative;
+}
+	
+nav ul li {
+	display:inline-block;
+	background-color: #333333;
+	}
+
+nav a {
+	display:block;
+	padding:0 8pt;	
+	color:#FFF;
+	font-size:15pt;
+	line-height: 40pt;
+	text-decoration:none;
+}
+
+nav a:hover { 
+	background-color: #000000; 
+}
+
+/* Hide Dropdowns by Default */
+nav ul ul {
+	display: none;
+	position: absolute; 
+	top: 40pt; /* the height of the main nav */
+}
+	
+/* Display Dropdowns on Hover */
+nav ul li:hover > ul {
+	display:inherit;
+}
+	
+/* First Tier Dropdown */
+nav ul ul li {
+	width:240pt;
+	float:none;
+	display:list-item;
+	position: relative;
+}
+
+/* Second, Third and more Tiers	*/
+nav ul ul ul li {
+	position: relative;
+    width:300pt;
+	top:-40pt; 
+	left:240pt;
+}
+
+	
+/* Change this in order to change the Dropdown symbol */
+li > a:after { content:  ''; }
+li > a:only-child:after { content: ''; }
+
+ja-header {
+    height: 100px;
+    z-index: 999;
+}
+#ja-header .main {
+    height: 100px;
+    position: relative;
+    background-image: url(/images/stories/topbar/top.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+#om-logo {
+    background: url(/images/logo.png) no-repeat;
+    display: block;
+    height: 75px;
+    width: 450px;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 15px;
+}
+#om-logo span {
+    display:none;
+}
+#ja-footer {
+    background: #333333;
+    border-bottom: 3px solid #111111;
+    text-align: center;
+    color: #888888;
+}
+</style>
