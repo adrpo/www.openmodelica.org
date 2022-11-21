@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'openmodelica'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Raw HTML is part of the Joomla export
+      unsafe = true

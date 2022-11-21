@@ -1,0 +1,210 @@
+---
+title: "⭐ OpenModelica Annual Workshop 2022 - 31 January! Register for free to join!"
+---
+<p style="text-align: justify;">
+  <span style="color: #993366; font-size: 12pt;"><span size="1" style="font-size: xx-small;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><strong style="color: #993366; font-size: 12pt;">Final Program </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+<p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;">
+  <strong style="color: #993366; font-size: 12pt;">OpenModelica Annual Workshop January 31, 2022</strong>
+</p>
+
+<p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;">
+  <span style="font-size: 12pt;">&nbsp;&nbsp;<span style="color: #993366;"><strong>Supported by</strong></span></span>
+</p>
+
+<p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;">
+  <span style="color: #993366; font-size: 12pt;"><strong>Open Source Modelica Consortium (OSMC) and </strong></span>
+</p>
+
+<p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;">
+  <span style="color: #993366; font-size: 12pt;"><strong>Linköping&nbsp;&nbsp;</strong></span><strong style="color: #993366; font-size: 12pt; caret-color: auto;">University (LIU)</strong>
+</p>
+
+&nbsp;
+
+&nbsp;
+
+<span style="font-family: 'times new roman', times; font-size: 14pt;"><span style="font-size: 18pt; color: #0000ff;">Registration</span> :&nbsp;<a href="https://liu-se.zoom.us/webinar/register/WN_SwqwBLItQCK7aY66ZzEE2g">https://liu-se.zoom.us/webinar/register/WN_SwqwBLItQCK7aY66ZzEE2g</a></span>
+
+&nbsp;
+
+<strong style="color: #993366; font-size: 16px; text-align: center;">Program</strong>
+
+<p style="text-align: justify;">
+  <span style="color: #0000ff;">&nbsp;<span style="font-size: 11pt; font-family: Verdana, sans-serif;"><span style="font-family: 'Times New Roman'; font-size: medium;">08.45-09.00&nbsp;&nbsp;Web-meeting opens</span></span></span>
+</p>
+
+<p style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">
+  <span style="color: #800080;">&nbsp;09.00-09.10&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="color: #993300;">Martin Sjölund and Adrian Pop (Linköping University and RISE Linköping, Sweden)</span>
+</p>
+
+<div style="color: #000000; font-family: 'Times New Roman'; font-size: medium;" class="caption">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Workshop Opening
+</div>
+
+<p style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">
+  &nbsp;<span style="color: #800080;">Session Chair: Bernhard Bachmann</span>
+</p>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 09.10-09.30&nbsp; &nbsp; &nbsp;Francesco Casella, Director of OSMC (Politecnico di Milano, Italy)</span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/0910_OpenModelica2022-talk01-FrancescoCasella-OpenModelica-Workshop-StatusDirections.pdf">Status and Directions of OpenModelica</a></span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 09.35-10.00&nbsp; &nbsp; &nbsp;Karim Abdelhak and Bernhard Bachmann (University of Applied Sciences Bielefeld, Germany)</span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/0935_presentation.pdf">Status of the New Backend</a></span>
+
+<span style="font-size: 12pt; font-family: 'times new roman', times; color: #993300;">&nbsp; 10.00-10.25&nbsp; &nbsp; &nbsp;John Tinnerholm, Adrian Pop (Linköping University and RISE Linköping, Sweden)&nbsp;</span>
+
+<span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1000_OpenModelicaWorkshop2022_toAdrian.pdf">Language extensions to simulate Variable Structured Systems within a standard-compliant Modelica Compiler</a></span>
+
+<span style="font-size: 12pt; font-family: 'times new roman', times; color: #993300;">&nbsp; 10.25-10.50&nbsp; &nbsp; &nbsp;Lluc Figueras Llerins, Vinicius Lacerda, Eduardo Prieto-Araujo, Adrien Guironnet and </span>
+
+<span style="font-size: 12pt; font-family: 'times new roman', times; color: #993300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Quentin Cossart (CITCEA-UPC Barcelona, Spain and RTE Réseau de Transport d’Electricité, Paris, France)</span>
+
+<p style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">
+  <span style="font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1025_OM_Workshop_2022_CITCEA_RTE_Presentar.pdf">Modelling and Simulation of Power Systems with Grid-Connected Converters in OpenModelica</a></span>&nbsp;
+</p>
+
+&nbsp;
+
+<span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; <span style="color: #0000ff;">10.50-11.15 Coffee break</span></span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; <span style="color: #800080;">Session Chair: Lena Buffoni</span></span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 11.15-11.40&nbsp; &nbsp; &nbsp; Rüdiger Franke (ABB AG, Germany)</span>
+
+<span style="font-family: 'times new roman', times;"><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1115_OpenModelica_for_sustainable_energy_systems.pdf">Use of OpenModelica in ABB OPTIMAX for model-based control and optimization of sustainable energy systems</a></span></span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 11.40-12.05&nbsp; &nbsp; &nbsp; Peter Fritzson (Linköping University and OSMC, Sweden), Shivam Bedar, Dinkar Verma, Sunil Shah (Modelicon, India), </span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Francesco Casella (Politecnico di Milano, Italy)</span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1140_220422-Transportation-transition-Fossil-to-Electric-om-2022-v6-final.pdf">A Modelica library and scenarios for Sweden’s conversion from fossil powered to electric transportation</a></span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 12:05 -12.30&nbsp; &nbsp; Sören Kai Möller, Bernhard Bachmann and Rüdiger Franke&nbsp;&nbsp;(University of Applied Sciences Bielefeld and ABB AG, Germany)</span>
+
+<span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>[<span style="font-family: 'times new roman', times; font-size: 12pt;">Implementation of a Modelica library for modeling and simulation with neural networks in OpenModelica</span>][1]
+
+&nbsp;&nbsp;<span style="font-family: 'times new roman', times; font-size: 12pt;"><br /><span style="color: #0000ff;">&nbsp; 12.30-13.30 Lunch break</span></span>
+
+<div>
+  <p>
+    <span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="color: #0000ff;">&nbsp;&nbsp;<span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="color: #800080;">Session Chair:&nbsp;Francesco Casella</span></span></span></span>
+  </p>
+  
+  <p>
+    <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 13.30 -13.55&nbsp; &nbsp; &nbsp;Adrian Pop, OSMC Technical Coordinator (Linköping University and RISE, Sweden)</span>
+  </p>
+  
+  <p>
+    <span style="font-family: 'times new roman', times;"><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1330_adrpo-OpenModelica.pdf">Current Status and Technical Overview of OpenModelica and its Development Environment</a></span></span>
+  </p>
+  
+  <p>
+    <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 13.55-14.20&nbsp; &nbsp; &nbsp; Andreas Heuermann, Philip Hannebohm and Bernhard Bachmann (University of Applied Sciences Bielefeld, Germany)</span>
+  </p>
+  
+  <p>
+    <span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1355_Replacing_Strong_Components_with_ANN.pdf">Replacing Strong Components with Artificial Neural Network Surrogates in an Open-Source Modelica Compiler</a></span>
+  </p>
+  
+  <p>
+    <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 14:20 -14.45&nbsp; &nbsp; Digvijay Singh,&nbsp;Kannan Moudgalya and Arunkumar Palanisamy (Indian Institute of Technology Bombay, India and RISE, Sweden)<br /> </span>
+  </p>
+  
+  <p>
+    <span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1420_OMR_Interoperability.pdf">Interoperability between R and OpenModelica</a></span><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>
+  </p>
+  
+  <div class="caption">
+    &nbsp;<span style="font-family: 'times new roman', times; font-size: 12pt;"><br /><span style="color: #0000ff;">14.45-15.05 Coffee break</span></span>
+  </div>
+  
+  <div>
+    &nbsp;
+  </div>
+  
+  <div>
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="color: #0000ff;">&nbsp;&nbsp;<span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="color: #800080;">Session Chair:&nbsp;Lennart Ochel</span></span></span></span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 15.05 -15.35&nbsp; &nbsp; &nbsp;Jan Peter Axelsson (Vascaia AB, Sweden)</span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times;"><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1505_Axelsson%202022,%20Design%20aspects%20of%20FMU-explore%20a%20Python%20module%20to%20complement%20PyFMI.pdf">Design aspects of FMU-explore a Python module to complement PyFMI</a></span></span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 15.35 -15.55&nbsp; &nbsp; &nbsp;Martin Sjölund (Linköping University, Sweden)</span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1530_openmodelica2022-sjoelund-package-manager.pdf">The OpenModelica Package Manager</a></span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; 15:55 -16.15&nbsp; &nbsp; &nbsp;Peter Fritzson (Linköping University and OSMC, Sweden), Reshma R, Ajeya B, Sunil Shah (Modelicon, India), </span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt; color: #993300;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Francesco Casella (Politecnico di Milano, Italy)<br /> </span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1555_220422-Energy-electric-thermal-grid-pres-Fritzson-updated-April20-2022.pdf"><span style="font-family: 'times new roman', times;">A Modelica library and scenarios for thermal and electric solar energy and storage for cities and buildings</span></a><span style="font-size: 12pt;"></span></span>
+    </p>
+    
+    <p>
+      <span style="font-size: 12pt; color: #993300;">&nbsp;<span style="font-family: 'times new roman', times;">&nbsp;16:20 -16.50&nbsp; &nbsp; Panel Discussion Chairs: Adrian Pop and Martin Sjölund</span></span>
+    </p>
+    
+    <p>
+      <span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="images/M_images/OpenModelicaWorkshop_2022/1620_PanelDiscussion.pdf"><span style="font-size: 12pt;"><span style="font-family: 'times new roman', times;">Future Directions of OpenModelica</span></span></a>&nbsp;[<a href="images/M_images/OpenModelicaWorkshop_2022/1620_PanelDiscussion_minutes.txt">Minutes</a>]</span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+    </p>
+    
+    <div class="caption">
+      <p>
+        <span style="font-size: 12pt; color: #993300;"></span>
+      </p>
+      
+      <span style="font-family: 'times new roman', times; font-size: 12pt; color: #0000ff;">16.50-17.00 Coffee break</span>
+    </div>
+    
+    <div>
+      <p style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">
+        <span style="color: #800080;">&nbsp; &nbsp;17.00-18.00&nbsp; &nbsp;Open Source Modelica Consortium Annual Statutory Meeting</span>
+      </p>
+      
+      <p style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">
+        &nbsp;
+      </p>
+    </div>
+    
+    <div>
+      &nbsp;
+    </div>
+    
+    <div>
+      &nbsp;
+    </div>
+  </div>
+  
+  <div>
+    &nbsp;
+  </div>
+  
+  <div>
+    &nbsp;
+  </div>
+</div>
+
+<div class="caption">
+  <span style="font-family: 'times new roman', times;"></span>
+</div>
+
+ [1]: images/M_images/OpenModelicaWorkshop_2022/1205_Presentation_NeuralNetworkLibrary.pdf

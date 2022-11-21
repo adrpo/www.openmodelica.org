@@ -1,0 +1,16 @@
+---
+title: "Download Virtual Machines"
+---
+For faster installation on operating systems where there is no pre-built binary (<span style="line-height: 19.7999992370605px;">RPM-based Linux releases,&nbsp;</span>older OSX releases, or if you are unable to install the latest XCode on OSX), it is possible to install OpenModelica on a virtual machine. We provide a [pre-built VM][84]&nbsp;that contains all libraries and clients that come with OpenModelica. You will need a virtualization engine such as [VirtualBox][85]&nbsp;to run the virtual machine (remember to edit the machine settings to add more CPU cores than the default of 1, but allocate fewer than the number of physical processors in the machine to make everything feel smooth).
+
+The VM version uses 64-bit Linux, which means it can be used to run OMNotebook on OSX machines (where OMNotebook is normally not available). The "openmodelica" user has password "openmodelica".
+
+Pre-build Docker images of installed OpenModelica for different purposes are available on DockerHub, see <a class="ext-link" href="https://hub.docker.com/u/openmodelica">https://hub.docker.com/u/openmodelica.</a>
+
+&nbsp;
+
+OpenModelica includes SystemDynamics library with World modeling. [Instructions for systemdynamics World3 simulations.][86]
+
+ [84]: https://build.openmodelica.org/omc/builds/virtual_machines/
+ [85]: https://virtualbox.org
+ [86]: images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf

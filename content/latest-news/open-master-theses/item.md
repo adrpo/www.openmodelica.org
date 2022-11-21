@@ -1,0 +1,245 @@
+---
+title: "Open Master Theses Related to the OpenModelica Platform"
+---
+<div style="text-align: center;">
+  <br /> <br /> These projects are suitable for students with skill and interest in advanced programming.<br /> If you are interested in one of the projects, please send a copy of your CV and course transcript, to the contacts indicated for the project you are interested in.<br /> <br /> Updated on 2020-11-10
+</div>
+
+&nbsp;
+
+# Compiler Construction
+
+****<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Package manager</span>****
+
+We currently have a package manager in OpenModelica generating and using this [index file][233]. However, the OMEdit GUI needs to be integrated with the package manager and some new features could be interesting (such as proper dependency resolution). This work is probably suitable for a 15/16 ECTS thesis.
+
+Contact:&nbsp;[Martin Sjölund][234]
+
+****<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Investigating the language server protocol in the context of declarative Equation-Oriented languages</span>****
+
+This thesis project aims to investigate language servers in the context of simulation tools. We are interested in examining if there are any domain-specific difficulties in this context compared to other domains. Based on existing empiric knowledge and interviews with experts in simulation tools, we hope that you can investigate what guidelines and experiences are to be gained when examining language servers in the context equation oriented languages
+
+Contact: [John Tinnerholm][235]
+
+<span color="#222222" face="Arial, sans-serif" style="color: #222222; font-family: Arial, sans-serif;"><span style="font-size: 15.3333px;"><b>Julia integration</b></span></span>
+
+There is ongoing work to translate our MetaModelica code to Julia code. We have many ideas on what this could be used for, including JIT-compiling Julia code instead of generating C-code or using our own slow function interpreter. Contact us for our current thoughts and ideas of formulating a thesis for this.
+
+Contact:&nbsp;[Martin Sjölund][234]&nbsp;or [][236][Peter Fritzson][237]&nbsp;or&nbsp;[Adrian Pop][238]
+
+****<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Efficient and correct handling of arrays</span>****
+
+The current handling of arrays in OpenModelica achieves somewhat good performance, but it does so by scalarizing arrays into individual operations. A simple array operation like x = {1,2,3} + {4,5,6} will thus become x[1] = 1+4, x[2] = 2+5, etc. For large arrays, this causes lots of C-code to be emitted and compilation speed can grow to minutes (or more for very large arrays) for something that can efficiently be compiled as a simple for-loop. Work is ongoing to preserve these array operations and OpenModelica has functions in a C runtime for this void add\_real\_array(const real\_array\_t \*a,const real\_array\_t \*b,real\_array\_t\* dest), but the code generator is not advanced enough to utlize these functions (it allocates temporary arrays in many cases). The topic of this thesis would be to enhance the code generator to avoid memory allocations as much as possible (including possibly re-using memory of temporary arrays in arrX \* arrY + arrZ) and to rewrite the runtime code for arrays (there is one implementation for integers, reals, booleans, records, etc) possibly by simply writing the C-code for them directly instead of having a C-file with the implementations.
+
+Contact:&nbsp;[Martin Sjölund][234]&nbsp;or&nbsp; [][236][Peter Fritzson][237]&nbsp;or [Adrian Pop][238]
+
+<p style="line-height: 19.8px;">
+  <strong><strong><span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Prototype Implementation and Evaluation of a Model Equation Reduction Method (new, September-2016)</span></strong></strong>
+</p>
+
+<p style="line-height: 19.8px;">
+  <strong><a href="images/docs/OpenMasterThesis/Ausschreibungen_MER-Evalutation.pdf">Click for more details</a></strong>
+</p>
+
+**<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Efficient IR for the OpenModelica Compiler (2 theses finished on this topic)</span>**
+
+The master thesis project should develop a new IR for OpenModelica for more efficient code generation. While introducing a more efficient IR, it would also be advisable to make certain operations more efficient. This includes some optimizations such as dead code / use of uninitialized variables that are currently performed elsewhere in the compiler. One of the other gains would be to make interpretation of functions more efficient.&nbsp;
+
+[Click for more details][239]   
+Contact: [Martin Sjölund][234] or&nbsp; [][236][Peter Fritzson][237]&nbsp;or [Lena Buffoni][240]
+
+### Type Inferencing and Python to Modelica Translation&nbsp;
+
+The goal of this master thesis project is to design and implement a Python to Modelica translator including type inferencing techniques to infer types in dynamically typed Python programs to be used in statically typed Modelica programs. This also includes inferencing shapes of array types. The goal is to be able to call translated Python programs from Modelica. The implementation approach can with a high probability be built on the MetaModelica and OMCCp systems.   
+[Click for more details.][241]   
+Contact: [Lena Buffoni][240] or [Peter Fritzson][237]
+
+### External Function Interface Python-Modelica
+
+The goal of this master thesis project is to design and implement a Python – Modelica external function interface. It should be possible to call Python programs from Modelica, and Modelica programs from Python. The Modelica side of the external function interface may involve Modelica, MetaModelica, and C programming, whereas the Python side may involve Python and C programming.   
+[Click for more details.][242]   
+Contact: [<div style="text-align: center;">
+  <br /> <br /> These projects are suitable for students with skill and interest in advanced programming.<br /> If you are interested in one of the projects, please send a copy of your CV and course transcript, to the contacts indicated for the project you are interested in.<br /> <br /> Updated on 2020-11-10
+</div>
+
+&nbsp;
+
+# Compiler Construction
+
+****<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Package manager</span>****
+
+We currently have a package manager in OpenModelica generating and using this [index file][233]. However, the OMEdit GUI needs to be integrated with the package manager and some new features could be interesting (such as proper dependency resolution). This work is probably suitable for a 15/16 ECTS thesis.
+
+Contact:&nbsp;[Martin Sjölund][234]
+
+****<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Investigating the language server protocol in the context of declarative Equation-Oriented languages</span>****
+
+This thesis project aims to investigate language servers in the context of simulation tools. We are interested in examining if there are any domain-specific difficulties in this context compared to other domains. Based on existing empiric knowledge and interviews with experts in simulation tools, we hope that you can investigate what guidelines and experiences are to be gained when examining language servers in the context equation oriented languages
+
+Contact: [John Tinnerholm][235]
+
+<span color="#222222" face="Arial, sans-serif" style="color: #222222; font-family: Arial, sans-serif;"><span style="font-size: 15.3333px;"><b>Julia integration</b></span></span>
+
+There is ongoing work to translate our MetaModelica code to Julia code. We have many ideas on what this could be used for, including JIT-compiling Julia code instead of generating C-code or using our own slow function interpreter. Contact us for our current thoughts and ideas of formulating a thesis for this.
+
+Contact:&nbsp;[Martin Sjölund][234]&nbsp;or [][236][Peter Fritzson][237]&nbsp;or&nbsp;[Adrian Pop][238]
+
+****<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Efficient and correct handling of arrays</span>****
+
+The current handling of arrays in OpenModelica achieves somewhat good performance, but it does so by scalarizing arrays into individual operations. A simple array operation like x = {1,2,3} + {4,5,6} will thus become x[1] = 1+4, x[2] = 2+5, etc. For large arrays, this causes lots of C-code to be emitted and compilation speed can grow to minutes (or more for very large arrays) for something that can efficiently be compiled as a simple for-loop. Work is ongoing to preserve these array operations and OpenModelica has functions in a C runtime for this void add\_real\_array(const real\_array\_t \*a,const real\_array\_t \*b,real\_array\_t\* dest), but the code generator is not advanced enough to utlize these functions (it allocates temporary arrays in many cases). The topic of this thesis would be to enhance the code generator to avoid memory allocations as much as possible (including possibly re-using memory of temporary arrays in arrX \* arrY + arrZ) and to rewrite the runtime code for arrays (there is one implementation for integers, reals, booleans, records, etc) possibly by simply writing the C-code for them directly instead of having a C-file with the implementations.
+
+Contact:&nbsp;[Martin Sjölund][234]&nbsp;or&nbsp; [][236][Peter Fritzson][237]&nbsp;or [Adrian Pop][238]
+
+<p style="line-height: 19.8px;">
+  <strong><strong><span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Prototype Implementation and Evaluation of a Model Equation Reduction Method (new, September-2016)</span></strong></strong>
+</p>
+
+<p style="line-height: 19.8px;">
+  <strong><a href="images/docs/OpenMasterThesis/Ausschreibungen_MER-Evalutation.pdf">Click for more details</a></strong>
+</p>
+
+**<span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Efficient IR for the OpenModelica Compiler (2 theses finished on this topic)</span>**
+
+The master thesis project should develop a new IR for OpenModelica for more efficient code generation. While introducing a more efficient IR, it would also be advisable to make certain operations more efficient. This includes some optimizations such as dead code / use of uninitialized variables that are currently performed elsewhere in the compiler. One of the other gains would be to make interpretation of functions more efficient.&nbsp;
+
+[Click for more details][239]   
+Contact: [Martin Sjölund][234] or&nbsp; [][236][Peter Fritzson][237]&nbsp;or [Lena Buffoni][240]
+
+### Type Inferencing and Python to Modelica Translation&nbsp;
+
+The goal of this master thesis project is to design and implement a Python to Modelica translator including type inferencing techniques to infer types in dynamically typed Python programs to be used in statically typed Modelica programs. This also includes inferencing shapes of array types. The goal is to be able to call translated Python programs from Modelica. The implementation approach can with a high probability be built on the MetaModelica and OMCCp systems.   
+[Click for more details.][241]   
+Contact: [Lena Buffoni][240] or [Peter Fritzson][237]
+
+### External Function Interface Python-Modelica
+
+The goal of this master thesis project is to design and implement a Python – Modelica external function interface. It should be possible to call Python programs from Modelica, and Modelica programs from Python. The Modelica side of the external function interface may involve Modelica, MetaModelica, and C programming, whereas the Python side may involve Python and C programming.   
+[Click for more details.][242]   
+Contact:][240] or [Peter Fritzson][237]
+
+### <span style="line-height: 1.2;">OpenModelica OCAML Code Generator</span>
+
+The goal of this master thesis project is to create one more code generator using the existing C code generators as inspiration. This code generator should generate code for the functional language OCAML.   
+[Click for more details][243]   
+Contact: [Adrian Pop][238] or [Peter Fritzson][237]
+
+### <span style="line-height: 1.2;">OpenModelica Translator to Scicos</span>
+
+The goal of this master thesis is to improve the interoperability of the OpenModelica platform, by implementing export possibility of (Open)Modelica models to to a smaller Modelica subset accepted by Scicos. A transformation module that transforms (Open)Modelica AST to Scicos Modelica AST is needed.   
+[Click for more details][244]   
+Contact: [Mohsen Torabzadeh-Tari][245] or [Peter Fritzson][237]
+
+### Advanced Refactoring for Modelica in Eclipse Plugin (First part finished, second part available)
+
+A refactoring is a transformation of e program that improves its structure and understandbility. Earlier basic refac-toring support in MDT has been developed, including the unique property of preserving comments and indenta-tion. The goal of this master thesis project is to develop several advanced refactorings on top of the basic refactoring functio-nality and apply these refactorings to the 150 000 line OpenModelica compiler.   
+[Click for more details][246]   
+Contact: [Adrian Pop][238] or [Peter Fritzson][237]
+
+### CUDA Code Generation and Runtime Support for Parallel Extensions of the OpenModelica Compiler
+
+This project centers around code parallelization. The goal is to improve the existing OpenCL/CUDA style explicit programming extensions for the OpenModelica compiler and to add CUDA code generation and runtime support for these new explicit parallel programming constructs in order to achieve speedups on NVIDIA GPUs.    
+[Click for more details.][247]   
+Contact: [Mahder Gebremedhin][248] or [Peter Fritzson][237]
+
+### Parallel Autotuning Compilation for Algorithmic Modelica on Nvidia 2 teraflop 2050 GPU
+
+Currently the Open Modelca Compiler (OMC) compiles Modelica/MetaModelica into C-code via several optimizing steps. There has earlier been developed several parallel code generator prototypes in the OpenModelica system including generation of OpenCL code for Nvidia. However, static compilation schemes sometimes fail to parallelize due to conservative assumptions of dependencies.   
+The goal of this master thesis project is to design and implement an efficient parallel autotuning compilation scheme from Modelica to the NVIDIA Fermi GPGPU. The development need not be done from scratch, it can build upon existing implementations.    
+[Click for more details.][249]   
+Contact: [Mahder Gebremedhin][248], [Lena Buffoni][250]&nbsp;or [Peter Fritzson][237]
+
+# Graphical User Inferfaces
+
+### Requirement modeling in OMEdit&nbsp;
+
+An extension of Modelica for expressing requirements is being developed. It incudes a new type of relationship between Modelica components, introducing a new level of complexity to Modelica models. In order to simplify the design and visualization od such models we propose to implement different views for displaying and hiding the requirement level of the models. The goal of the thesis is to develop an interface for visualizing the new extensions as well as for hiding them from view when necessary.    
+[Click for more details][251]   
+Contact: [Lena Buffoni][250] or [Peter Fritzson][237]
+
+# ModelicaML
+
+### Moving ModelicaML to a Professional Open-source Project Level&nbsp;
+
+The ModelicaML prototype, which has been developed for the last 4 years, was primarily used as a platform for prototyping new ideas.   
+Today ModelicaML implementation has reached a good level of maturity.   
+The main objective of this project is to move the ModelicaML implementation to a professional open-source project level.    
+[Click for more details][252]   
+Contact: [Adrian Pop][238] or [Peter Fritzson][237]
+
+### Design and Implementation of the ModelicaML Support in Papyrus MDT
+
+Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of UML. This subset enables the generation of executable Modelica code. Presently, ModelicaML is implemented as a prototype that only supports the obsolete version Papyrus MDT 0.7.4. Based on this prototype, the task of this project is to design and implement the support for ModelicaML for the latest Papyrus version 1.x.   
+[Click for more details][253]   
+Contact: [Adrian Pop][238] or [Peter Fritzson][237]
+
+### FMI Support in ModelicaML (New)
+
+Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of UML. This subset enables the generation of executable Modelica code. The main task of this project is enabling the design verification by using models (system component-, scenario- or requirement-models, etc.) that were created in different tools or formalisms and were exported in the FMI format.    
+[Click for more details][254]   
+Contact: [Adrian Pop][238] or [Peter Fritzson][237]
+
+### Moving ModelicaML to a Professional, Open-Source Project Level (New)
+
+Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of UML. This subset enables the generation of executable Modelica code. The ModelicaML prototype, which has been developed for the last 4 years, was primarily used as a platform for prototyping new ideas. Today ModelicaML implementation has reached a good level of maturity. The main objective of this project is to move the ModelicaML implementation to a professional open-source project level.   
+[Click for more details][254]   
+Contact: [Adrian Pop][238] or [Peter Fritzson][237]
+
+# Advanced Applications
+
+### Automatisk Modelica kodgenerering för processimulering (New)
+
+Normal 0 14 false false false IT X-NONE X-NONE MicrosoftInternetExplorer4
+
+<p class="MsoNormal">
+  Modelica Code generation from configuration application data
+</p>
+
+<p class="MsoNormal">
+  PAID WORK
+</p>
+
+[Click for more details][255]   
+Contact: [Anders Nilsson][256]: CEO, Frontway AB&nbsp;
+
+### <span style="line-height: 1.2;">Development of a high-fidelity non-linear rotorcraft dynamics model using OpenModelica framework</span>
+
+The goal of this master thesis is to develop a high-fidelity non-linear rotorcraft dynamics model using OpenModelica framework for real-time usage under Linux on the LinkQuad platform - a Micro Air Vehicle quadrotor system.    
+[Click for more details.][257]   
+Contact: [Gianpaolo Conte][258] or [Lena Buffon][250]i&nbsp;or [Peter Fritzson][237]
+
+### &nbsp;
+
+<div id="_mcePaste" class="mcePaste" data-mce-bogus="1" style="position: absolute; left: -40px; top: 173.2px; width: 10px; height: 10px; overflow: hidden;">
+  Normal 0 false 21 false false false SV X-NONE X-NONE 
+  
+  <h1>
+    <img src="file:///C:/Users/johti17/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png" alt="Text Box: Figure 2 Using a language server, several programming environments can share syntactic & semantic information" width="267" hspace="12" height="63" align="left" /><img src="file:///C:/Users/johti17/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg" width="264" hspace="12" height="170" align="left" /><b><span style="font-size: 15.0pt; line-height: 107%; mso-ansi-language: EN-US;" lang="EN-US">Investigating the language server protocol in the context of declarative Equation-Oriented languages </span></b>
+  </h1>
+</div>
+
+ [233]: https://libraries.openmodelica.org/index/v1/index.json
+ [234]: http://www.ida.liu.se/~marsj34/
+ [235]: mailto:john.tinnerholm@liu.se
+ [236]: http://www.ida.liu.se/department/contact/search.en.shtml?NAME=lena
+ [237]: http://www.ida.liu.se/%7Epetfr/
+ [238]: http://www.ida.liu.se/%7Eadrpo/
+ [239]: images/docs/OpenMasterThesis/2016_Efficient_IR_for_OpenModelica_compiler_v1.pdf
+ [240]: http://www.ida.liu.se/department/contact/search.en.shtml?NAME=Lena+Buffoni
+ [241]: index.php/openmodelicaworld/applications/category/6-theses?download=15:type-inferencing-and-python-to-modelica-translation
+ [242]: home/olero/2012ExternalFunctionPythonModelica-v1.pdf
+ [243]: http://www.ida.liu.se/%7Epelab/xjobb/PeterFritzson/2010-OpenModelica-OCAML-codegenerator.pdf
+ [244]: http://www.ida.liu.se/%7Emohto/exjobb/2010_OpenModelica-to-scicos-translator.pdf
+ [245]: http://www.ida.liu.se/%7Emohto
+ [246]: http://www.ida.liu.se/%7Epelab/xjobb/PeterFritzson/2010ModelicaEclipseRefactoring.pdf
+ [247]: index.php/openmodelicaworld/applications/category/6-theses?download=3:cuda-code-generation-and-runtime-support-for-parallel-extensions-of-the-openmodelica-compiler
+ [248]: http://www.ida.liu.se/department/contact/contactcard.en.shtml?mahge83
+ [249]: index.php/openmodelicaworld/applications/category/6-theses?download=11:parallel-autotuning-compilation-for-algorithmic-modelica-on-nvidia-2-teraflop-2050-gpu
+ [250]: http://www.ida.liu.se/department/contact/contactcard.en.shtml?olero90
+ [251]: index.php/openmodelicaworld/applications/category/6-theses?download=2:assertion-modeling-in-omedit
+ [252]: images/docs/OpenMasterThesis/2013_02_modelicaml_product.pdf
+ [253]: index.php/openmodelicaworld/applications/category/6-theses?download=4:design-and-implementation-of-the-modelicaml-code-generator-using-acceleo-3-xindex.php/openmodelicaworld/applications/category/6-theses?download=4:design-and-implementation-of-the-modelicaml-code-generator-using-acceleo-3-xindex.php/openmodelicaworld/applications/category/6-theses?download=4:design-and-implementation-of-the-modelicaml-code-generator-using-acceleo-3-x
+ [254]: index.php/openmodelicaworld/applications/category/6-theses?download=10:modelicaml-fmi-support
+ [255]: images/docs/OpenMasterThesis/exjobbfrontwaymodelicakodgenereringv3.pdf
+ [256]: mailto:anders.nilsson@frontway.se
+ [257]: index.php/openmodelicaworld/applications/category/6-theses?download=6:development-of-a-high-fidelity-non-linear-rotorcraft-dynamics-model-using-openmodelica-framework
+ [258]: http://www.ida.liu.se/%7Egiaco/giacosite/

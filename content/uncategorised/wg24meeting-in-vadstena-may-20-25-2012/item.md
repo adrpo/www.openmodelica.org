@@ -1,0 +1,56 @@
+---
+title: "IFIP WG2.4  meeting in Vadstena, May 20-25, 2012"
+---
+<!--StartFragment-->
+
+<p class="MsoNormal">
+  <span style="font-family: 'Courier New'; color: #000000; font-size: small;"><span style="font-size: 13px; line-height: normal;"><span style="font-family: 'Times New Roman'; color: #333333; font-size: large;"><span style="font-size: 17px; line-height: 15px;"><br /></span></span></span></span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-family: 'Times New Roman'; font-size: 17px;">The next working group meeting will be on May 20-25, 2012 in Vadstena, Sweden and will be hosted by <a href="mailto:peter.fritzson@liu.se">Peter Fritzson</a>.</span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-family: 'Courier New'; color: #000000; font-size: small;"><span style="font-size: 13px; line-height: normal;"><br /></span></span>
+</p>
+
+<p class="MsoNormal">
+  <strong style="mso-bidi-font-weight: normal;"><span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;">Accommodation </span></strong>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;"> </span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;"><span style="mso-spacerun: yes;"> </span>“ </span><span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;">Vadstena Klosterhotel has comfortable accommodation in a historic environment. During the Middle Ages, Vadstena was the location of a catholic monastery for munks and nuns of the Birgittine order. The hotel is largely located in the same medieval buildings that were once the monastery, now adapted to meet the requirements of modern living. The small town of Vadstena, by lake Vättern, bears witness of many ancient Swedish celebrities, who were active in the town and its surroundings; among them Holy Bridget (Birgitta), king Gustav Vasa, prince Eugen and the author and Nobel price winner Verner von Heidenstam. The rooms of Vadstena Klosterhotel are beautifully decorated with furniture adapted to different time epochs.”</span><span style="font-size: 16.0pt; font-family: &quot;Times New Roman&quot;;"> </span><span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;"> </span><span style="font-size: 16.0pt; font-family: &quot;Times New Roman&quot;;"> </span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;"><a href="http://www.klosterhotel.se/Default.aspx?module=4&content=130&lang=EN&fwsite=2">http://www.klosterhotel.se/Default.aspx?module=4&content=130&lang=EN&fwsite=2</a></span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-size: 16.0pt; font-family: &quot;Times New Roman&quot;;"> </span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-size: 16.0pt; font-family: &quot;Times New Roman&quot;;"> </span>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-family: 'Times New Roman'; font-size: x-large;"><span style="font-size: 19px;"><strong><span style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;">Tavel</span></strong></span></strong></span></span>
+</p>
+
+<p class="MsoNormal">
+  <strong style="mso-bidi-font-weight: normal;"><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;;"> </span></strong>
+</p>
+
+<p class="MsoNormal">
+  <span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;">Linköping Airport is located about 50 kilometers from Vadstena, and Arlanda Airport outside Stockholm is located about 280 km away.</span><span style="font-size: 16.0pt; font-family: &quot;Times New Roman&quot;;"> </span><span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;">From Linköping Airport you can take a taxi to Linköping central station and then a train to Motala or Mjölby train station which are 17 km and 25 km from Vadstena, and then a taxi or bus to Vadstena. </span><span style="font-size: 16.0pt; font-family: &quot;Times New Roman&quot;;"> </span><span style="font-size: 13.0pt; font-family: &quot;Times New Roman&quot;;">At this SJ website you see the schedule for when trains leave from Linköping to Motala : <a href="https://mail.liu.se/owa/redir.aspx?C=5708e3c101ac43dd9ecaff4bc08e4a6e&URL=http%3a%2f%2fwww.sj.se%2fstart%2fstartpage%2findex.form%3fl%3den"><span style="color: #0000f6; text-decoration: none; text-underline: none;">http://www.sj.se/start/startpage/index.form?l=en</span></a> </span><span style="font-family: &quot;Times New Roman&quot;;"> </span>
+</p>
+
+<!--EndFragment-->
+
+ 

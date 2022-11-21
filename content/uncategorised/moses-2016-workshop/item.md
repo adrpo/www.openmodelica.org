@@ -1,0 +1,847 @@
+---
+title: "MOSES-2016 Workshop"
+---
+<h2 style="text-align: center;">
+  <span lang="EN-US" style="font-family: verdana, geneva;"><img width="464" height="92" alt="moses" src="images/moses.png" /></span>
+</h2>
+
+<h2 style="text-align: center;">
+  <span lang="EN-US" style="font-family: verdana, geneva;">The MOSES-2016 Workshop</span>
+</h2>
+
+<h2 style="text-align: center;">
+  <span style="font-family: verdana, geneva;"><strong style="color: #000000; font-size: 11px; line-height: 1.8;"><span style="font-size: 14pt; color: #000080;"><span style="color: #800080;" face="Calibri, sans-serif" color="#800080"><span style="line-height: normal; font-size: 15px;"><span style="color: #000000;">May 16-20</span></span></span></span></strong></span>
+</h2>
+
+<h2 style="text-align: center;">
+  <span style="font-family: verdana, geneva; font-size: 14pt; color: #000080;"><span style="color: #800080;" face="Calibri, sans-serif" color="#800080"><span style="line-height: normal; font-size: 15px;"><span style="color: #000000;"> 
+  
+  <h2 style="font-size: 19.25px;">
+    <strong><span style="font-size: 10pt;">Linköping University</span></strong>
+  </h2>
+  
+  <h2 style="font-size: 19.25px;">
+    <strong><span style="font-size: 10pt;">Department of Computer and Information Science<br /></span><span style="font-size: 10pt;">Sweden</span></strong>
+  </h2></span></span></span></span>
+</h2>
+
+## <span style="font-family: verdana, geneva;"><strong style="color: #000000; font-size: 11px; line-height: 1.8;"><span style="font-size: 14pt; color: #000080;">MOSES-2016</span></strong></span>
+
+<span style="font-family: verdana, geneva;"></span><span style="font-family: verdana, geneva; font-size: 10pt;"><strong>Welcome to the home page of the Modeling of Sustainable Economics Systems workshop 2016 !</strong></span>
+
+<p style="margin-top: 0.4em; margin-bottom: 0.5em; line-height: 19.05px; font-family: sans-serif; font-size: 12.7px;">
+  <span style="font-family: verdana, geneva; font-size: 10pt;">The workshop aims at defining new research directions for modeling and simulation-based explorations of <strong>viable transitions into a sustainable future</strong>, by bringing together&nbsp;<strong>world experts from many sustainability/related disciplines</strong>.</span>
+</p>
+
+<p style="margin-top: 0.4em; margin-bottom: 0.5em; line-height: 19.05px; font-family: sans-serif; font-size: 12.7px;">
+  &nbsp;
+</p>
+
+### <span style="text-decoration: underline;">The MOSES guiding principles</span>
+
+<span style="font-size: 10pt;">It is our predicament that we live in a finite world, and yet behave as if it were infinite. Steady exponential material growth with no limits on resource consumption and population is the dominant conceptual model used by today’s decision makers. This is an approximation of reality that is no longer accurate and has started to break down. If unsustainable behavior persists and ecological boundaries are ignored too long, societal collapse may occur.</span>
+
+<span style="font-size: 10pt;">At the same time we demand of decision makers that their decisions make good economic sense. Unchanged, the financial system with its current regulations and instruments, threatens to continue to force decision-making that undermines the wealth and prosperity it purports to support.</span>
+
+<span style="font-size: 10pt;">To avoid this and develop our society and economic systems to become sustainable, more sophisticated models are needed that include ecological and planetary boundaries as well as human social factors. The long-term success of the welfare economy depends on how well the financial system creates transparent, efficient and routine solutions to various societal problems. </span>
+
+<span style="font-size: 10pt;">Thus, we could demand of the financial system to facilitate the transformation towards a more efficient and sustainable use of finite resources. However, recurrent financial crises (financial bubbles) and various rigidities in the transition towards a circular economy are clear indications that the current financial system suffers from significant weaknesses. Instead of paving the way towards investments with long-term value, substantial private and public resources are used to cement a historic economic structure.</span>
+
+<span style="font-size: 10pt;"><strong>World Models are simulation models</strong> that integrate several aspects of ecological planetary boundaries and many detailed aspects of human society and its interaction with a resource- and pollution-limited planet. Some of such models are available in the <strong><em>Modelica equation-based language</em></strong>. The potential capabilities of these models have significantly improved when used with the recently developed advanced Modelica modeling, simulation, and control technology adapted for such applications. Uncertainty handling, sensitivity analysis, and plug-and-play of submodels are some capabilities.</span>
+
+<span style="font-size: 10pt;">It is possible to include the economy and the financial system in such an enhanced financial world model which can be used to test and evaluate many kinds of ideas and assumptions about the green economy.&nbsp;</span>
+
+<span style="font-size: 10pt;">The starting point is that <strong>the economy can be a powerful tool for the transition to sustainability</strong>. Research into this requires <strong>systems perspective and cross-disciplinary cooperation</strong>.&nbsp;</span>
+
+<div>
+  <span style="font-size: 10pt;"><em>The <strong>MOSES consortium</strong> seeks to create a cross-disciplinary programme to focus on socially sustainable development as the aim, ecological sustainability is a fundamental requirement and the economy is seen as a tool.&nbsp;</em>We identify gaps in the existing financial system and present constructive proposals for a reformed financial system, to enable a faster transition to a sustainable circular economy.</span>
+</div>
+
+<div>
+  <span style="font-size: 10pt;">A list of key tasks is the following:</span>
+</div>
+
+  * <span style="font-size: 10pt;">Create a World model to incorporate the above perspectives.</span>
+  * <span style="font-size: 10pt;">Formulate and test against the model changes to the financial system with the perspective of the following disciplines:</span>
+<li style="margin-left: 30px;">
+  <span style="font-size: 10pt;">Economics - financial performance of the green economy</span>
+</li>
+<li style="margin-left: 30px;">
+  <span style="font-size: 10pt; line-height: 1.8;">Social science - regional economic development and social cohesion</span>
+</li>
+<li style="margin-left: 30px;">
+  <span style="font-size: 10pt; line-height: 1.8;">Planetary science - ecological boundary adherence</span>
+</li>
+<li style="margin-left: 30px;">
+  <span style="font-size: 10pt; line-height: 1.8;">Business - green business development</span>
+</li>
+<li style="margin-left: 30px;">
+  <span lang="EN-US" style="color: black; font-family: 'Calibri',sans-serif; font-size: 12pt;">Create an open source flexible and configurable modeling and simulation toolbox for the abovementioned areas for use by<br />researchers and decision makers</span>
+</li>
+
+<strong style="font-family: verdana, geneva;"><span style="font-size: 14pt; color: #000080;">Presentations</span></strong>&nbsp;
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;</span><span style="color: #ff6600; font-size: 13.3333px; text-align: justify;">Peter Fritzson,&nbsp;</span><span style="font-size: 10pt;"></span><span style="color: #ff6600; font-size: 13.3333px; text-align: justify;">Director of OSMC (Linköping University)</span>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="color: #ff6600; font-size: 13.3333px; text-align: justify;"></span><a href="images/M_images/Moses206/moses2016-01-PeterFritzson-MOSES-Intro-Welcome.pdf"><span style="color: #ff6600; font-size: 13.3333px; text-align: justify;">&nbsp;</span><span style="font-size: 10pt;">Introduction:&nbsp;</span><span style="font-size: 13.3333px;">Modeling of Sustainable Economic Systems</span></a>
+</p>
+
+<p style="margin-left: 30px;">
+  <a href="images/M_images/Moses206/moses2016-01-PeterFritzson-MOSES-Intro-Welcome.pdf"><span style="font-size: 10pt;">&nbsp;</span><span style="color: #ff6600; font-size: 13.3333px;"></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Jorgen Randers (Ulrich Golüke), Professor Center for Climate Strategy BI Norwegian Business School</span></span></a>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;"><a href="images/M_images/Moses206/moses2016-02-UlrichGoluke-JorgenRanders-Plans-for-World4-PEEC-model.pdf">&nbsp;Review of our Plans for the World 4 (PEEC) Model</a><br /></span>
+</p>
+
+<p style="margin-left: 30px;">
+  <a href="images/M_images/Moses206/moses2016-02-UlrichGoluke-JorgenRanders-Plans-for-World4-PEEC-model.pdf"><span style="font-size: 10pt;">&nbsp;</span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Rodrigo Castro, Professor, Universidad de Buenos Aires</span></span></a>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-03-RodrigoCastro-Overview-of-the-Modelica-based-System-Dynamics-Library.pdf">Overview of the Modelica-based System Dynamics Library</a><br /></span>
+</p>
+
+<p style="margin-left: 30px;">
+  &nbsp;<span style="font-size: 10pt;"></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;"></span></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">David Collste, PhD Student, Stockholm Resilience Centre</span></span>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-05-DavidCollste-MilleniumInst-Threshold21.pdf">Overview of the Millennium Institute’s Threshold 21 iSDG Model and Method</a></span>
+</p>
+
+<p style="margin-left: 30px;">
+  &nbsp;<span style="color: #ff6600; font-size: 13.3333px;">Dale S. Rothman, Senior Scientist (Frederick S. Pardee Center for International Futures), Associate Professor (Josef Korbel School for International &nbsp; &nbsp; &nbsp;StudiesUniversity of Denver)</span>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;"><a href="images/M_images/Moses206/moses2016-06-DaleRothman-Integrated-Modeling-International-Futures.pdf">&nbsp;Large-scale Integrated Modeling with International Futures</a></span>
+</p>
+
+<p style="margin-left: 30px;">
+  &nbsp;&nbsp;<span style="color: #ff6600; font-size: 13.3333px;">Peter Fritzson,&nbsp;</span><span style="font-size: 10pt;"></span><span style="color: #ff6600; font-size: 13.3333px;">Director of OSMC (Linköping University)</span>
+</p>
+
+<p style="text-align: start; margin-left: 30px;">
+  <span style="color: #ff6600; font-size: 13.3333px; text-align: justify;"></span><span style="color: #ff6600; font-size: 13.3333px; text-align: justify;">&nbsp;</span><span style="font-size: 13.3333px;"><a href="images/M_images/Moses206/moses2016-07a-PeterFritzson-MOSES-Approach-Intro.pdf">Quick Overview of Original MOSES Proposal</a></span>
+</p>
+
+<p style="margin-left: 30px;">
+  &nbsp;<span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Steve Hinton, The Swedish Sustainable Economy Foundation&nbsp;</span></span>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;"><span style="color: #ff6600; text-align: justify;">&nbsp;</span><a href="images/M_images/Moses206/moses2016-07b-Steve-Hinton-Moses-Approach-Model.pdf">Modeling Sustainable Economic Systems</a></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<span color="#ff6600" style="color: #ff6600;">Sarah Cornell, Stockholm University,&nbsp;</span><span color="#ff6600" style="text-align: justify; color: #ff6600;">Stockholm Resilience Centre</span></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-08-SarahCornell-PlanetaryBoundaries-PotentialMeasurable.pdf">Planetary Boundaries as potential measurable aspects in a global model</a>&nbsp;</span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<span style="text-align: justify;"></span><span color="#ff6600" style="text-align: justify; color: #ff6600;"></span><span color="#ff6600" style="text-align: justify; color: #ff6600;"><span color="#ff6600" style="color: #ff6600;">Deniz Koca, Assistant Professor,Lund University</span></span></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;The WORLD Model development in the SimRess Project</span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span color="#ff6600"><span></span></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">&nbsp;Steven Hinton</span></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-15-StevenHinton-2030-Modeling-plan-for-Sweden.pdf">2030 Modelling a plan for Sweden</a></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">&nbsp;Jennifer Hinton, Co-director (the Post Growth Institute), PhD Student (Stockholm Resilience Centre)</span></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-16-JenniferHinton-The-Not-for-Profit-World.pdf">Introducing the Not-for-Profit World and economic model for a brighter future</a></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  &nbsp;<span style="font-size: 13.3333px; color: #ff6600;"></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Steve Keen, Kingston University London</span></span>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-19-SteveKeen-MonetaryModellingInterplaySustainability.pdf">Monetary modelling & interplay with sustainability</a></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  &nbsp;<span style="font-size: 13.3333px; color: #ff6600;"></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;"></span></span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Lars Olert</span></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-20-LarsOlert-Economic-flows-and-flow-constrained-modeling-with-ECF.pdf">Economic Flow Constrained Modeling of Economic Systems</a></span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  &nbsp;<span style="font-size: 10pt;"></span><span style="color: #ff6600; font-size: 13.3333px;">Peter Fritzson,&nbsp;</span><span style="font-size: 10pt;"></span><span style="color: #ff6600; font-size: 13.3333px;">Director of OSMC (Linköping University)</span>
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <a href="images/M_images/Moses206/moses2016-24-28-PeterFritzson-Modelica-language-OpenModelica-tool.pdf"><span style="font-size: 10pt;">&nbsp;Introduction to Object-Oriented Modeling,Simulation, Debugging and Dynamic Optimization with Modelica using OpenModelica</span></a>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;</span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Rodrigo Castro, Professor, Universidad de Buenos Aires</span></span>&nbsp;
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <a href="images/M_images/Moses206/moses2016-25-RodrigoCastro-Overview-of-the-Modelica-based-World2-and-Wold3-models.pdf"><span style="font-size: 10pt;">&nbsp;Overview of the Modelica-based World2 and World3 models</span></a>
+</p>
+
+<p style="margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;</span><span color="#ff6600" style="color: #ff6600;"><span style="font-size: 13.3333px;">Rodrigo Castro, Professor, Universidad de Buenos Aires</span></span>&nbsp;&nbsp;
+</p>
+
+<p style="text-align: justify; margin-left: 30px;">
+  <span style="font-size: 10pt;">&nbsp;<a href="images/M_images/Moses206/moses2016-30-RodrigoCastro-General-Concepts-on-Global-Modeling.pdf">General Concepts about Global Modeling</a></span>&nbsp;
+</p>
+
+<span style="font-family: verdana, geneva;"><strong><span style="font-size: 14pt; color: #000080;">Venue</span></strong></span>
+
+<span style="font-family: verdana, geneva; font-size: 10pt;">The MOSES-2016 was held at Linköping University. Currently, Linköping University has approximately 27,000 students and 4.000 employees. Since the start in the late 1960s, Linköping University has been an innovator, creating new study programmes and new ways to tackle research problems. The university is an important driving force for regional development. However, the mission is greater—Linköping University is a national and international player. World-class research is conducted within cutting-edge domains such as new materials, IT and disability research. Students come from all across the globe, with over 80 nationalities represented at LiU.&nbsp;</span><span style="font-family: verdana, geneva; font-size: 10pt;">Linköping University is accessible by direct bus from downtown in 10-20 minutes and from the airport by taxi in 10-15 minutes, you can also walk to the university from downtown in about 40 minutes.</span>
+
+<strong style="font-size: 14pt; line-height: 1.8;"><strong style="color: #000080; font-size: 18.6667px; line-height: 33.6px;">Organizing Comittee and Program Chairs</strong></strong>
+
+<span style="font-size: 12pt;"><span style="font-size: 16px; line-height: 28.8px;">Peter Fritzson</span><br />Rodrigo Castro<br /></span><span style="font-size: 12pt;">Sarah Cornell</span>
+
+<p style="line-height: 19.8px;">
+  <strong style="font-size: 14pt; line-height: 1.8;"><strong style="font-size: 14pt; line-height: 1.8;"><strong style="color: #000080; font-size: 18.6667px; line-height: 33.6px;">Collaborators</strong></strong></strong>
+</p>
+
+<p style="line-height: 19.8px;">
+  <strong style="font-size: 14pt; line-height: 1.8;"><span style="font-size: 16px; font-weight: normal; line-height: 28.8px;">Bernhard Thiele<br />Alejandro Danós</span></strong>
+</p>
+
+<strong style="font-size: 14pt; line-height: 1.8;"><strong style="font-size: 14pt; line-height: 1.8;"><strong style="font-size: 14pt; line-height: 1.8;"><strong style="color: #000080; font-size: 18.6667px; line-height: 33.6px;">Schedule</strong></strong></strong></strong>
+
+### In blue: Workshop.   
+In yellow: Course on world modeling.
+
+<table style="border: 1px solid #cccccc; font-family: arial, sans, sans-serif; font-size: 13px; border-collapse: collapse; table-layout: fixed;" dir="ltr" border="1" cellspacing="0" cellpadding="0">
+  <colgroup><col width="81"><col width="163"><col width="58"><col width="163"><col width="75"><col width="193"><col width="67"><col width="182"><col width="63"><col width="163"><col width="53"></colgroup> 
+  
+  <tbody>
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; vertical-align: bottom; border: 1px solid #000000;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-top-width: 1px; border-top-style: solid; border-top-color: #000000; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 120%; font-weight: bold; vertical-align: middle; text-align: center; background-color: #ddebf7;" rowspan="1" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday 16&quot;}">
+        Monday 16
+      </td>
+      
+      <td style="padding: 2px 3px; border-top-width: 1px; border-top-style: solid; border-top-color: #000000; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 120%; font-weight: bold; vertical-align: middle; text-align: center; background-color: #ddebf7;" rowspan="1" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tuesday 17&quot;}">
+        Tuesday 17
+      </td>
+      
+      <td style="padding: 2px 3px; border-top-width: 1px; border-top-style: solid; border-top-color: #000000; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 120%; font-weight: bold; vertical-align: middle; text-align: center; background-color: #ddebf7;" rowspan="1" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday 18&quot;}">
+        Wednesday 18
+      </td>
+      
+      <td style="padding: 2px 3px; border-top-width: 1px; border-top-style: solid; border-top-color: #000000; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 120%; font-weight: bold; vertical-align: middle; text-align: center; background-color: #ddebf7;" rowspan="1" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thursday 19&quot;}">
+        Thursday 19
+      </td>
+      
+      <td style="padding: 2px 3px; border-top-width: 1px; border-top-style: solid; border-top-color: #000000; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 120%; font-weight: bold; vertical-align: middle; text-align: center; background-color: #ddebf7;" rowspan="1" colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday 20&quot;}">
+        Friday 20
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;08.30-09.30&quot;}">
+        08.30-09.30
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Welcome. Introdution of participants. Overview of the week agenda.&quot;}">
+        Welcome. Introdution of participants. Overview of the week agenda.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fritzson, All&quot;}">
+        Fritzson, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Review of the World4 project. Pt. 2&quot;}">
+        Review of the World4 project. Pt. 2
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Goluke&quot;}">
+        Goluke
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monetary systems modeling and their interplay with sustainability issues&quot;}">
+        Monetary systems modeling and their interplay with sustainability issues
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Keen&quot;}">
+        Keen
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The OpenModelica tool, Modelica language part 2&quot;}">
+        The OpenModelica tool, Modelica language part 2
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, Fritzson&quot;}">
+        Castro, Fritzson
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Group discussions - Parallel activities&quot;}">
+        Group discussions - Parallel activities
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;09.30-10.15&quot;}">
+        09.30-10.15
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Review of the World4 project. Pt. 1&quot;}">
+        Review of the World4 project. Pt. 1
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Goluke&quot;}">
+        Goluke
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Identification of possible benefits of joint efforts regarding World4&quot;}">
+        Identification of possible benefits of joint efforts regarding World4
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Economic flow constrained nmodeling economic systems&quot;}">
+        Economic flow constrained <br />modeling economic systems
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Olert, Thiele&quot;}">
+        Olert, Thiele
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hands on textual modeling with simple Modelica models&quot;}">
+        Hands on textual modeling with simple Modelica models
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Group discussions - Parallel activities&quot;}">
+        Group discussions - Parallel activities
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10.15-10.45&quot;}">
+        10.15-10.45
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10.45-11.30&quot;}">
+        10.45-11.30
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Overview of the Modelica-based System Dynamics Library pt1&quot;}">
+        Overview of the Modelica-based System Dynamics Library pt1
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro&quot;}">
+        Castro
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The World model development in the SimRess project&quot;}">
+        The World model development in the SimRess project
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Koca&quot;}">
+        Koca
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Overview of the Modelica-based System Dynamics Library pt2&quot;}">
+        Overview of the Modelica-based System Dynamics Library pt2
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro&quot;}">
+        Castro
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;World Modeling general concepts&quot;}">
+        World Modeling general concepts
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Group discussions - Parallel activities&quot;}">
+        Group discussions - Parallel activities
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;11.30-12.15&quot;}">
+        11.30-12.15
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Identification of possible benefits of joint efforts regarding World4&quot;}">
+        Identification of possible benefits of joint efforts regarding World4
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Discussion and identification of MOSES next steps.&quot;}">
+        Discussion and identification of MOSES next steps.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;An approach tonecological energy/emergy flow modeling.nDiscussion on integrated modeling.&quot;}">
+        An approach to<br />ecological energy/emergy flow modeling.<br />Discussion on integrated modeling.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Socioeconomic models with OpenModelica&quot;}">
+        Socioeconomic models with OpenModelica
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Group discussions - Parallel activities&quot;}">
+        Group discussions - Parallel activities
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;12.15-13.30&quot;}">
+        12.15-13.30
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lunch&quot;}">
+        Lunch
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lunch&quot;}">
+        Lunch
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lunch&quot;}">
+        Lunch
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lunch&quot;}">
+        Lunch
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lunch&quot;}">
+        Lunch
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+    </tr>
+    
+    <tr style="height: 30px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;13.30-14.15&quot;}">
+        13.30-14.15
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Overview of the Threshold 21 Model&quot;}">
+        Overview of the Threshold 21 Model
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Collste&quot;}">
+        Collste
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Installation of OpenModelica on your laptop and quick test of World simulation&quot;}">
+        Installation of OpenModelica on your laptop and quick test of World simulation
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Discussion and identification ofnpossible MOSES next steps,nintegrating economic modeling.&quot;}">
+        Discussion and identification of<br />possible MOSES next steps,<br />integrating economic modeling.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Free/TBD&quot;}">
+        Free/TBD
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Free/TBD&quot;}">
+        Free/TBD
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14.15-15.00&quot;}">
+        14.15-15.00
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Overview of the International Futures Tool and Model&quot;}">
+        Overview of the International Futures Tool and Model
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rothman&quot;}">
+        Rothman
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The transition economy in Sweden and how to scale up to a global scale&quot;}">
+        The transition economy in Sweden and how to scale up to a global scale
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;S. Hinton&quot;}">
+        S. Hinton
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The Modelica language Part1, hands-on graphical modeling&quot;}">
+        The Modelica language Part1, hands-on graphical modeling
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, Fritzson&quot;}">
+        Castro, Fritzson
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hands on with World 3&quot;}">
+        Hands on with World 3
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Group discussions - Parallel activities&quot;}">
+        Group discussions - Parallel activities
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 60px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15.00-15.45&quot;}">
+        15.00-15.45
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Presentation of the MOSES approach. Experiences in expressing ideas with System Dynamics and/or Types of research questions in global models&quot;}">
+        Presentation of the MOSES approach. Experiences in expressing ideas with System Dynamics and/or Types of research questions in global models
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fritzson, S. Hinton, Cornell, Castro&quot;}">
+        Fritzson, S. Hinton, Cornell, Castro
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The non-for-profit approach to sustainability and how to represent it in world models&quot;}">
+        The non-for-profit approach to sustainability and how to represent it in world models
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;J. Hinton&quot;}">
+        J. Hinton
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The Modelica-based versions of nWorld2 and World3 in a nutshell&quot;}">
+        The Modelica-based versions of <br />World2 and World3 in a nutshell
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro&quot;}">
+        Castro
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Socioeconomic models with OpenModelica&quot;}">
+        Socioeconomic models with OpenModelica
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Group discussions - Parallel activities&quot;}">
+        Group discussions - Parallel activities
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15.45-16.15&quot;}">
+        15.45-16.15
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #ff0000; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coffee break&quot;}">
+        Coffee break
+      </td>
+      
+      <td style="padding: 2px 3px; vertical-align: bottom; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; background-color: #f3f3f3;">
+        &nbsp;
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;16.15-17.00&quot;}">
+        16.15-17.00
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Planetary Boundaries as potential measurable aspects in a global model&quot;}">
+        Planetary Boundaries as potential measurable aspects in a global model
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cornell&quot;}">
+        Cornell
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Drafting/writing/modeling session part 1&quot;}">
+        Drafting/writing/modeling session part 1
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hands on with World 3&quot;}">
+        Hands on with World 3
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #fff2cc;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hands on with other socioeconomic models&quot;}">
+        Hands on with other socioeconomic models
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Castro, All&quot;}">
+        Castro, All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wrap up. Final messages. Scheduling of activities for the upcoming months.&quot;}">
+        Wrap up. Final messages. Scheduling of activities for the upcoming months.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+    
+    <tr style="height: 21px;">
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-left-width: 1px; border-left-style: solid; border-left-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;17.00-17.45&quot;}">
+        17.00-17.45
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Identification of possible MOSES next steps.&quot;}">
+        Identification of possible MOSES next steps.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Drafting/writing/modeling session part 2&quot;}">
+        Drafting/writing/modeling session part 2
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Drafting/writing/modeling session part 3&quot;}">
+        Drafting/writing/modeling session part 3
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #38761d; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Drafting/writing/modeling session part 4&quot;}">
+        Drafting/writing/modeling session part 4
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; vertical-align: middle; text-align: center; background-color: #ddebf7;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wrap up. Final messages. Scheduling of activities for the upcoming months.&quot;}">
+        Wrap up. Final messages. Scheduling of activities for the upcoming months.
+      </td>
+      
+      <td style="padding: 2px 3px; border-right-width: 1px; border-right-style: solid; border-right-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-family: Calibri; font-size: 110%; color: #0000ff; vertical-align: middle; text-align: center; background-color: #f3f3f3;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All&quot;}">
+        All
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<strong style="font-size: 18.6667px; font-family: verdana, geneva; color: #000080; line-height: 33.6px;">Participants</strong>
+
+<span style="font-size: 12pt;">Peter Fritzson</span>  
+<span style="font-size: 12pt;">Sarah Cornell</span>  
+<span style="font-size: 12pt;">Rodrigo Castro</span>  
+<span style="font-size: 12pt;">David Collste</span>  
+<span style="font-size: 12pt;">Steve Keen</span>  
+<span style="font-size: 12pt;">Dale Rothman</span>  
+<span style="font-size: 12pt;">Steven Hinton</span>  
+<span style="font-size: 12pt;">Jeniffer Hinton</span>  
+<span style="font-size: 12pt;">Ulrich Goluke</span>  
+<span style="font-size: 12pt;">Bernhard Thiele</span>  
+<span style="font-size: 12pt;">Lars Olert</span>  
+<span style="font-size: 12pt;">Ola Leifler</span>  
+<span style="font-size: 12pt;">Deniz Koca</span>  
+<span style="font-size: 12pt;">Jonas Lagander</span>  
+<span style="font-size: 12pt;">Stefan Anderberg</span>  
+<span style="font-size: 12pt;">Ilaria Perissi</span>  
+<span style="font-size: 12pt;">Sara Falsini</span>
+
+<strong style="font-size: 18.6667px; font-family: verdana, geneva; color: #000080; line-height: 33.6px;">Contact</strong>
+
+<span style="font-family: verdana, geneva; font-size: 10pt;">Peter Fritzson,&nbsp; <a href="mailto:peter.fritzson@liu.se">peter.fritzson@liu.se</a> </span>
+
+<span style="font-family: verdana, geneva;">&nbsp;</span>
+
+<div id="_mcePaste" class="mcePaste" data-mce-bogus="1" style="position: absolute; left: 0px; top: 1951px; width: 1px; height: 1px; overflow: hidden;">
+  <p style="language: en-US; margin-top: 0pt; margin-bottom: 0pt; text-align: center; direction: ltr; unicode-bidi: embed; vertical-align: baseline;">
+    <span style="font-size: 30.0pt; font-family: Arial; mso-ascii-font-family: Arial; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: #600000; mso-font-kerning: 12.0pt; text-shadow: auto; language: en-US; font-weight: bold; mso-effects-shadow-color: silver; mso-effects-shadow-alpha: 100.0%; mso-effects-shadow-dpiradius: 3.0pt; mso-effects-shadow-angledirection: 2700000; mso-effects-shadow-dpidistance: 3.0pt; mso-effects-shadow-pctsx: 100.0%; mso-effects-shadow-pctsy: 100.0%; mso-effects-shadow-anglekx: 0; mso-effects-shadow-angleky: 0; mso-effects-shadow-align: topleft; mso-style-textfill-type: solid; mso-style-textfill-fill-color: #600000; mso-style-textfill-fill-alpha: 100.0%;">Modeling of <br /> Sustainable Economic Systems</span>
+  </p>
+</div>

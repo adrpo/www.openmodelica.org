@@ -1,0 +1,146 @@
+---
+title: "Final program OpenModelica Workshop 2010"
+---
+<h3 style="text-align: center;">
+  Annual OpenModelica Workshop 2010, February 8
+</h3>
+
+<h3 style="text-align: center;">
+  Supported by<br />Open Source Modelica Consortium (OSMC) and Linköping University (LiU)
+</h3>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>8.30-9.00 Registration. Coffee. Place: Outside A2</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>9.00-9.30 Peter Fritzson. Linköping University, Director of OSMC</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Workshop Opening, Status and Directions of OpenModelica <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk1-Peter-Fritzson-OpenModelicaWorkshopOpening.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>9.30-10.00 </strong><strong>Gerhard Schmitz (TU Hamburg), Peter Aronsson (MathCore), and Adrian Pop (Linköping Univ) </strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  MultiBody Simulation with OpenModelica and MathModelica <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk2-Schmitz-Aronsson-Pop-Libraries-MultiBody-with-OpenModelica-MathModelica.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-bottom: 0in;">
+  &nbsp;
+</p>
+
+<p style="margin-bottom: 0in;">
+  <span><strong>10.00-10.30 </strong></span><span><strong>Hannu Niemistö*, Teemu Lempinen*, Tommi Karhela</strong></span>
+</p>
+
+<p style="margin-bottom: 0in;">
+  System Dynamic Business Process Modelling and Simulation Tool based on OpenModelica <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk3-Hannu-Niemist%f6-SystemDynamicBusinessProcessModellingSimulation.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>10.30-11.00 Coffee</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>Session Chair:&nbsp;Gerhard Schmitz</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>11.00-11.30 </strong><strong>Melanie Krems, Bernhard Bachmann, and Willi Braun, FH-Bielefeld </strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Enhancement of the OpenModelica Compiler – Analytical calculation of the Jacobian matrix <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk4-MelanieKrems-Analyticalcalculationo%20theJacobianmatrix.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>11.30-12.00 </strong><strong>Willi Braun, Bernhard Bachmann, Sabrina Proß, and Melanie Krems</strong><strong>, </strong><strong>FH-Bielefeld</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Advancements of the OpenModelica Compiler toward a full implementation of event handling <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk5-WilliBraun-eventhandling.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>12.00-12.30 </strong><strong>Christian Sonntag, Martin Hüfner, and Adalat Jabrayilov, TU-Dortmund</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Using <em>OpenModelica </em>for the Translation of <em>Modelica </em>Models to the Compositional Interchange Format for Hybrid Systems <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk6-Hufner-Sonntag_MultiformOpenModelica.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>12.30-13.30 Lunch at Kårallen, Linköping University</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>Session&nbsp;Chair: Peter Fritzson</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>13.30-14.00 Adrian Pop, OSMC & Linköping University, OSMC Technical Coordinator</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Technical Overview of OpenModelica and its Development Enviroment <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk7-Adrian-Pop-OpenModelica-Technical-overview.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>14.00-14.30 </strong><strong>Martin Sjölund</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  OpenModelica External Java Function Interface and Self-Compilation <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk8-Martin-Sj%f6lund-java-Modelica.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>14.30-15.00 Coffe</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>Session Chair:&nbsp;Bernhard Bachmann</strong>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>15.00-15.30 </strong><strong>Jens Frenkel </strong><strong>(TU-Dresden) </strong><strong>and Timo (Penndorf Putzmeister Concrete Pumps GmbH)</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  A Study of OpenModelica in realtime simulation for virtual reality environments <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk9-penndorf_frenkel-OpenModelica-Realtimesimulation.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>15.30-16.00 </strong><strong>Per Östlund (Linköping University)</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Parallel Simulation of Modelica Models on the NVIDIA/CUDA Architecture <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk10-Per-%d6stlund-Parallel-Modelica-on-Nvidia.pdf"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0.04in;">
+  <strong>16.00-17.00 Panel Discussion</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  Future Directions of OpenModelica <a href="http://www.ida.liu.se/%7Epetfr/OpenModelica2010talks/100208-Talk11-Discussion-notes-Future-of-OpenModelica.txt"><strong>pdf</strong></a>
+</p>
+
+<p style="margin-top: 0.19in; margin-bottom: 0in;">
+  <strong>17.00-18.00 Open Source Modelica Consortium Annual Statutory Meeting</strong>
+</p>
+
+<p style="margin-bottom: 0in;" align="right">
+  &nbsp;
+</p>
+
+<p style="margin-bottom: 0in;">
+  <strong>19.00 Dinner</strong>
+</p>
+
+<p style="margin-bottom: 0in;">
+  &nbsp;
+</p>
