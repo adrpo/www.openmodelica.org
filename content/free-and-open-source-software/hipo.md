@@ -1,4 +1,4 @@
 ---
 title: "HiPo"
 ---
-hipo
+<p>hipo</p>

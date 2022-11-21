@@ -1,17 +1,8 @@
 ---
 title: "OpenModelica Annual Workshop 2021"
 ---
-<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;">
-  <strong style="color: #993366; font-size: 12pt;">&nbsp;</strong>
-</p>
-
-<p style="color: #323130; font-size: 11pt; font-family: Calibri, sans-serif; margin: 0px;">
-  <strong><span lang="en-US" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 18pt; line-height: inherit; font-family: inherit; vertical-align: baseline; color: inherit;">CFP OpenModelica/MODPROD Workshops February 2-4, 2021</span></strong><span lang="en-US" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 18pt; line-height: inherit; font-family: inherit; vertical-align: baseline; color: inherit;"></span>
-</p>
-
-<span lang="en-US" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 18pt; line-height: inherit; font-family: inherit; vertical-align: baseline; color: inherit;"></span>
-
-<ul type="disc" style="color: #323130; font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif; font-size: 15px; margin-top: 0px; margin-bottom: 0px;">
-</ul>
-
-<strong style="color: #993366; font-size: 16px; text-align: center;">&nbsp;</strong>
+<p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><strong style="color: #993366; font-size: 12pt;">&nbsp;</strong></p>
+<p style="color: #323130; font-size: 11pt; font-family: Calibri, sans-serif; margin: 0px;"><strong><span lang="en-US" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 18pt; line-height: inherit; font-family: inherit; vertical-align: baseline; color: inherit;">CFP OpenModelica/MODPROD Workshops February 2-4, 2021</span></strong><span lang="en-US" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 18pt; line-height: inherit; font-family: inherit; vertical-align: baseline; color: inherit;"></span></p>
+<p><span lang="en-US" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 18pt; line-height: inherit; font-family: inherit; vertical-align: baseline; color: inherit;"></span></p>
+<ul type="disc" style="color: #323130; font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif; font-size: 15px; margin-top: 0px; margin-bottom: 0px;"></ul>
+<p><strong style="color: #993366; font-size: 16px; text-align: center;">&nbsp;</strong></p>

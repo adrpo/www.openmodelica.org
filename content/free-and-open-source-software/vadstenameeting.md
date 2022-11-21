@@ -1,4 +1,4 @@
 ---
 title: "ifp"
 ---
-Text text
+<p>Text text</p>

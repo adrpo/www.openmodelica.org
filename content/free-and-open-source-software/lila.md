@@ -1,4 +1,4 @@
 ---
 title: "Lila"
 ---
-lila
+<p>lila</p>

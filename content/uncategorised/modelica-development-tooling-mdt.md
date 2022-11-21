@@ -1,215 +1,73 @@
 ---
 title: "Modelica Development Tooling (MDT)"
 ---
-# MDT - Modelica Development Tooling
-
- [<img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/screenshot.png" alt="MDT screenshot" align="right" border="0" />][196]
-
-The Modelica Development Tooling (MDT) Eclipse Plug-In integrates the [OpenModelica][197] compiler with [Eclipse][198]. MDT, together with the OpenModelica compiler, provides an environment for working with [Modelica][199] projects.
-
-The following features are available: [[Cool Screen Dumps][196]]
-
-  * Browsing support for Modelica projects, packages, and classes
-  * Wizards for creating Modelica projects, packages, and classes
-  * Syntax color highlighting
-  * Syntax checking
-  * Browsing of the Modelica Standard Library
-  * Simple code completion
-  * Code indentation correction
-  * Paranthesis matching
-  * MetaModelica browsing and assistance
-  * OpenModelica command console
-
-&nbsp;
-
-MDT was developed by two loony undergraduate students in their eternal quest for a degree. They have finished with their master thesis in April 2006 and, since then, the responsible with maintaining and enhancing MDT is [Adrian Pop][200]. The work on the plugin is a part of the larger project by [PELAB][201] which aims to create a complete Modelica and MetaModelica modeling, compilation and simulation environment.
-
-MDT is used at [PELAB][202] for the development of the [OpenModelica][197] compiler.
-
-## Using
-
-To use MDT you need the OpenModelica Compiler and [Eclipse][203] installed on your system.
-
-You can find MDT documentation [HERE][204].
-
-<span style="text-decoration: underline;"><strong>You will also need Java 5.0 (aka 1.5) to use the plugin.</strong></span>
-
-<span style="text-decoration: underline;"><strong>&nbsp;</strong></span>
-
-<h2 id="Installing">
-  <a></a>Installing
-</h2>
-
-[Here][205] you can find an MDT installation howto.
-
-The most convenient way to install MDT is by instructing Eclipse to fetch the plugin from the   
-update site which is located at <http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/>.   
-If you are not sure how to accomplish this, just follow the instructions below.
-
-  * Start Eclipse
-  * Select _Help -> Software Updates -> Find and Install..._ from the menu
-  * Select _Search for new features to install_ and click _Next_
-  * Select _New Remote Site..._
-  * Enter _MDT_ as name and _http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/_ as URL and click _OK_
-  * Make sure _MDT_ is selected and click _Finish_
-  * In the updates dialog select the _MDT_ feature and click _Next_
-  * Read through the license agreement, select _I accept..._ and click _Next_
-  * Click _Finish_ to install MDT
-
-Another way to install MDT is by downloading a zip file, unzip it locally and point the Eclipse to the unpacked directory.
-
-  * Download the latest zip file from [here][206]
-  * The zip file will unpack to a local directory called "mdt"
-  * Start Eclipse, then go Help->Software Updates...
-  * Add the "mdt" directory as a local site (this is different from version to version) and then install the latest version of MDT from this local site.
-
-## Contributing
-
-A [# MDT - Modelica Development Tooling
-
- [<img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/screenshot.png" alt="MDT screenshot" align="right" border="0" />][196]
-
-The Modelica Development Tooling (MDT) Eclipse Plug-In integrates the [OpenModelica][197] compiler with [Eclipse][198]. MDT, together with the OpenModelica compiler, provides an environment for working with [Modelica][199] projects.
-
-The following features are available: [[Cool Screen Dumps][196]]
-
-  * Browsing support for Modelica projects, packages, and classes
-  * Wizards for creating Modelica projects, packages, and classes
-  * Syntax color highlighting
-  * Syntax checking
-  * Browsing of the Modelica Standard Library
-  * Simple code completion
-  * Code indentation correction
-  * Paranthesis matching
-  * MetaModelica browsing and assistance
-  * OpenModelica command console
-
-&nbsp;
-
-MDT was developed by two loony undergraduate students in their eternal quest for a degree. They have finished with their master thesis in April 2006 and, since then, the responsible with maintaining and enhancing MDT is [Adrian Pop][200]. The work on the plugin is a part of the larger project by [PELAB][201] which aims to create a complete Modelica and MetaModelica modeling, compilation and simulation environment.
-
-MDT is used at [PELAB][202] for the development of the [OpenModelica][197] compiler.
-
-## Using
-
-To use MDT you need the OpenModelica Compiler and [Eclipse][203] installed on your system.
-
-You can find MDT documentation [HERE][204].
-
-<span style="text-decoration: underline;"><strong>You will also need Java 5.0 (aka 1.5) to use the plugin.</strong></span>
-
-<span style="text-decoration: underline;"><strong>&nbsp;</strong></span>
-
-<h2 id="Installing">
-  <a></a>Installing
-</h2>
-
-[Here][205] you can find an MDT installation howto.
-
-The most convenient way to install MDT is by instructing Eclipse to fetch the plugin from the   
-update site which is located at <http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/>.   
-If you are not sure how to accomplish this, just follow the instructions below.
-
-  * Start Eclipse
-  * Select _Help -> Software Updates -> Find and Install..._ from the menu
-  * Select _Search for new features to install_ and click _Next_
-  * Select _New Remote Site..._
-  * Enter _MDT_ as name and _http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/_ as URL and click _OK_
-  * Make sure _MDT_ is selected and click _Finish_
-  * In the updates dialog select the _MDT_ feature and click _Next_
-  * Read through the license agreement, select _I accept..._ and click _Next_
-  * Click _Finish_ to install MDT
-
-Another way to install MDT is by downloading a zip file, unzip it locally and point the Eclipse to the unpacked directory.
-
-  * Download the latest zip file from [here][206]
-  * The zip file will unpack to a local directory called "mdt"
-  * Start Eclipse, then go Help->Software Updates...
-  * Add the "mdt" directory as a local site (this is different from version to version) and then install the latest version of MDT from this local site.
-
-## Contributing
-
-A][207] is available for MDT, please contribute by reporting bugs.
-
-Modelica Development Tooling (MDT) is part of [OpenModelica][178] and is free software distributed under the [OSMC-PL License][208].   
-This basically means you can do whatever you want with it non-commercially.   
-To use it comercially you need to be a member of the [Open Source Modelica Consortium][209].   
-Please, help us improve! Download the tool and [report bugs][210], or, even better, take the   
-source and implement something you always wanted, and contribute it to the MDT!
-
-## Source code
-
-You can access the source code from the project's repository at [https://openmodelica.org/svn/MDT/trunk][211].   
-Anonymous read access is not enabled. You must use user: **anonymous** password: **none**.
-
-## Documentation
-
-The primary source of information for the aspiring MDT developer is the [MDT documentation][204].    
-The manual has information on code repository structure, how to build the package   
-and other important information. To checkout the manual and other documentation type:
-
+<h1>MDT - Modelica Development Tooling</h1>
+<p><a href="http://www.ida.liu.se/%7Eadrpo/mdt/"> <img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/screenshot.png" alt="MDT screenshot" align="right" border="0" /></a></p>
+<p>The Modelica Development Tooling (MDT) Eclipse Plug-In integrates the <a href="http://www.openmodelica.org">OpenModelica</a> compiler with <a href="http://www.eclipse.org/">Eclipse</a>. MDT, together with the OpenModelica compiler, provides an environment for working with <a href="http://www.modelica.org/">Modelica</a> projects.</p>
+<p>The following features are available: [<a href="http://www.ida.liu.se/%7Eadrpo/mdt/">Cool Screen Dumps</a>]</p>
+<ul>
+<li>Browsing support for Modelica projects, packages, and classes</li>
+<li>Wizards for creating Modelica projects, packages, and classes</li>
+<li>Syntax color highlighting</li>
+<li>Syntax checking</li>
+<li>Browsing of the Modelica Standard Library</li>
+<li>Simple code completion</li>
+<li>Code indentation correction</li>
+<li>Paranthesis matching</li>
+<li>MetaModelica browsing and assistance</li>
+<li>OpenModelica command console</li>
+</ul>
+<p>&nbsp;</p>
+<p>MDT was developed by two loony undergraduate students in their eternal quest for a degree. They have finished with their master thesis in April 2006 and, since then, the responsible with maintaining and enhancing MDT is <a href="http://www.ida.liu.se/%7Eadrpo">Adrian Pop</a>. The work on the plugin is a part of the larger project by <a href="http://www.ida.liu.se/labs/pelab/">PELAB</a> which aims to create a complete Modelica and MetaModelica modeling, compilation and simulation environment.</p>
+<p>MDT is used at <a href="http://www.ida.liu.se/labs/pelab">PELAB</a> for the development of the <a href="http://www.openmodelica.org">OpenModelica</a> compiler.</p>
+<h2>Using</h2>
+<p>To use MDT you need the OpenModelica Compiler and <a href="http://www.eclipse.org./downloads/">Eclipse</a> installed on your system.</p>
+<p>You can find MDT documentation <a href="svn/MDT/trunk/docs">HERE</a>.</p>
+<p><span style="text-decoration: underline;"><strong>You will also need Java 5.0 (aka 1.5) to use the plugin.</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>
+<h2 id="Installing"><a></a>Installing</h2>
+<p><a href="https://trac.openmodelica.org/documents/MDT/install/">Here</a> you can find an MDT installation howto.</p>
+<p>The most convenient way to install MDT is by instructing Eclipse to fetch the plugin from the<br /> update site which is located at <a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/">http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/</a>.<br /> If you are not sure how to accomplish this, just follow the instructions below.</p>
+<ul>
+<li>Start Eclipse</li>
+<li>Select <em>Help -&gt; Software Updates -&gt; Find and Install...</em> from the menu</li>
+<li>Select <em>Search for new features to install</em> and click <em>Next</em></li>
+<li>Select <em>New Remote Site...</em></li>
+<li>Enter <em>MDT</em> as name and <em>http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/</em> as URL and click <em>OK</em></li>
+<li>Make sure <em>MDT</em> is selected and click <em>Finish</em></li>
+<li>In the updates dialog select the <em>MDT</em> feature and click <em>Next</em></li>
+<li>Read through the license agreement, select <em>I accept...</em> and click <em>Next</em></li>
+<li>Click <em>Finish</em> to install MDT</li>
+</ul>
+<p>Another way to install MDT is by downloading a zip file, unzip it locally and point the Eclipse to the unpacked directory.</p>
+<ul>
+<li>Download the latest zip file from <a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/releases">here</a></li>
+<li>The zip file will unpack to a local directory called "mdt"</li>
+<li>Start Eclipse, then go Help-&gt;Software Updates...</li>
+<li>Add the "mdt" directory as a local site (this is different from version to version) and then install the latest version of MDT from this local site.</li>
+</ul>
+<h2>Contributing</h2>
+<p>A <a href="https://trac.openmodelica.org/MDT">trac system </a>is available for MDT, please contribute by reporting bugs.</p>
+<p>Modelica Development Tooling (MDT) is part of <a href="undefined/">OpenModelica</a> and is free software distributed under the <a href="index.php/useresresources/license">OSMC-PL License</a>.<br /> This basically means you can do whatever you want with it non-commercially.<br /> To use it comercially you need to be a member of the <a href="index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=160">Open Source Modelica Consortium</a>.<br /> Please, help us improve! Download the tool and <a href="https://trac.openmodelica.org/OpenModelica">report bugs</a>, or, even better, take the<br /> source and implement something you always wanted, and contribute it to the MDT!</p>
+<h2>Source code</h2>
+<p>You can access the source code from the project's repository at <a href="svn/MDT/trunk">https://openmodelica.org/svn/MDT/trunk</a>.<br /> Anonymous read access is not enabled. You must use user: <strong>anonymous</strong> password: <strong>none</strong>.</p>
+<h2>Documentation</h2>
+<p>The primary source of information for the aspiring MDT developer is the <a href="svn/MDT/trunk/docs">MDT documentation</a>. <br /> The manual has information on code repository structure, how to build the package<br /> and other important information. To checkout the manual and other documentation type:</p>
 <pre>svn co https://openmodelica.org/svn/MDT/trunk/docs user: anonymous pass: none </pre>
-
-## News
-
-_Thursday, 12 July 2012_
-
-A Trac project management system for reporting bugs and follow development is now [available][207].
-
-_Monday, 30 January 2012_  
-Version 0.7.22 has been released. You can get the binary release from the&nbsp;<a href="index.php/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.  
-For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.
-
-_Tuesday, 12 April 2011_  
-Version 0.7.7 has been released. You can get the binary release from the&nbsp;<a href="index.php/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.  
-For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.
-
-<span style="color: red;"><em>Saturday, 01 November 2009</em></span>   
-A short document on [MDT installation HowTo][205].
-
-<span style="color: red;"><em>Saturday, 04 October 2009</em></span>   
-We have a new website for [ModelicaML - A UML Profile for Modelica][212].
-
-_Saturday, 01 March 2008_   
-Subversion repository moved to: [https://openmodelica.org/svn/MDT/][104]
-
-_Tuesday, 21 August 2007_
-
-Version 0.7.2 has been released. You can get the binary release from the [update site][213].
-
-For this release, you can use the [OpenModelica][197] compiler.
-
-this MDT does not work with OpenModelica less than 1.4.3
-
-Matching parentheses are highlighted.
-
-## Contact
-
-If you want to contact the current author and maintainer of MDT send an email to [Adrian Pop][200] [<Adrian.Pop@liu.se>].   
-The MDT authors can be contacted via: [<img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/boris.png" alt="" border="0" />][214] or [<img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/remar.png" alt="" border="0" />][215].    
-Bug reports, patches, general feed back or anything else is welcome.
-
-### Updates
-
-Latest update: <span style="color: red;">2015-05-05 12:58</span>&nbsp;by [Adrian Pop][200]
-
- [196]: http://www.ida.liu.se/%7Eadrpo/mdt/
- [197]: http://www.openmodelica.org
- [198]: http://www.eclipse.org/
- [199]: http://www.modelica.org/
- [200]: http://www.ida.liu.se/%7Eadrpo
- [201]: http://www.ida.liu.se/labs/pelab/
- [202]: http://www.ida.liu.se/labs/pelab
- [203]: http://www.eclipse.org./downloads/
- [204]: svn/MDT/trunk/docs
- [205]: https://trac.openmodelica.org/documents/MDT/install/
- [206]: http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/releases
- [207]: https://trac.openmodelica.org/MDT
- [208]: index.php/useresresources/license
- [209]: index.php?option=com_content&view=article&id=24&Itemid=160
- [210]: https://trac.openmodelica.org/OpenModelica
- [211]: svn/MDT/trunk
- [212]: index.php/developer/tools/133
- [213]: index.php/developer/tools/133#Installing
- [214]: mailto:x05elmja%20at%20ida%20dot%20liu%20dot%20se
- [215]: mailto:x05andre%20at%20ida%20dot%20liu%20dot%20se
+<h2>News</h2>
+<p><em>Thursday, 12 July 2012</em></p>
+<p>A Trac project management system for reporting bugs and follow development is now <a href="https://trac.openmodelica.org/MDT">available</a>.</p>
+<p><em>Monday, 30 January 2012</em><br />Version 0.7.22 has been released. You can get the binary release from the&nbsp;<a href="index.php/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.<br />For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.</p>
+<p><em>Tuesday, 12 April 2011</em><br />Version 0.7.7 has been released. You can get the binary release from the&nbsp;<a href="index.php/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.<br />For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.</p>
+<p><span style="color: red;"><em>Saturday, 01 November 2009</em></span><br /> A short document on <a href="https://trac.openmodelica.org/documents/MDT/install/">MDT installation HowTo</a>.</p>
+<p><span style="color: red;"><em>Saturday, 04 October 2009</em></span><br /> We have a new website for <a href="index.php/developer/tools/133">ModelicaML - A UML Profile for Modelica</a>.</p>
+<p><em>Saturday, 01 March 2008</em><br /> Subversion repository moved to: <a href="svn/MDT/">https://openmodelica.org/svn/MDT/</a></p>
+<p><em>Tuesday, 21 August 2007</em></p>
+<p>Version 0.7.2 has been released. You can get the binary release from the <a href="index.php/developer/tools/133#Installing">update site</a>.</p>
+<p>For this release, you can use the <a href="http://www.openmodelica.org">OpenModelica</a> compiler.</p>
+<p>this MDT does not work with OpenModelica less than 1.4.3</p>
+<p>Matching parentheses are highlighted.</p>
+<h2>Contact</h2>
+<p>If you want to contact the current author and maintainer of MDT send an email to <a href="http://www.ida.liu.se/%7Eadrpo">Adrian Pop</a> [<a href="mailto:Adrian.Pop@liu.se">Adrian.Pop@liu.se</a>].<br /> The MDT authors can be contacted via: <a href="mailto:x05elmja%20at%20ida%20dot%20liu%20dot%20se"><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/boris.png" alt="" border="0" /></a> or <a href="mailto:x05andre%20at%20ida%20dot%20liu%20dot%20se"><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/remar.png" alt="" border="0" /></a>. <br /> Bug reports, patches, general feed back or anything else is welcome.</p>
+<h3>Updates</h3>
+<p>Latest update: <span style="color: red;">2015-05-05 12:58</span>&nbsp;by <a href="http://www.ida.liu.se/%7Eadrpo">Adrian Pop</a></p>
