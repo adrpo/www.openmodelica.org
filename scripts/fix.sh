@@ -46,3 +46,45 @@ rm uncategorised/modprod2011.md
 mv free-and-open-source-software/modprod-workshop.md events/modprod/modprod-2010.md
 mkdir -p developersresources
 mv uncategorised/contributor-license.md developersresources/contributor-license-agreement.md
+mkdir -p events/openmodelica-workshop
+mv news/openmodelica-annual-workshop-2022-news.md events/openmodelica-workshop/openmodelica-program-2022-a.md
+rm news/program-openmodelica-annual-workshop-2021.md
+mv news/openmodelica-annual-workshop-2021.md events/openmodelica-workshop/openmodelica-program-2021.md
+ln -s ../modprod/modprod-2018.md events/openmodelica-workshop/openmodelica-program-2018.md
+mv news/program-openmodelica-annual-workshop-2017.md events/openmodelica-workshop/openmodelica-program-2017.md
+mv news/openmodelica-program-2016.md events/openmodelica-workshop/openmodelica-program-2016.md
+mv news/openmodelica-program-2015.md events/openmodelica-workshop/openmodelica-program-2015.md
+mv news/cfp-openmodelicamodprod-workshops-february-2014.md events/openmodelica-workshop/openmodelica-program-2014.md
+mv free-and-open-source-software/final-program-openmodelica-annual-workshop-february-4-2013.md events/openmodelica-workshop/openmodelica-program-2013.md
+mv free-and-open-source-software/final-program-openmodelica-annual-workshop-february-6-2012.md events/openmodelica-workshop/program.md
+mv free-and-open-source-software/workshop2011.md events/openmodelica-workshop/2011.md
+mv free-and-open-source-software/workshop2010.md events/openmodelica-workshop/2010.md
+mv uncategorised/sims-2015-conference.md events/sims-2015.md # And need to update links to tutorials+invited talks
+mv uncategorised/sims-tutorials.md events/sims-2015-tutorials.md
+mv uncategorised/sims-2015-invited-talks.md events/
+rm uncategorised/moses-2016.md
+mv uncategorised/moses-2016-workshop.md events/moses-2016.md
+mv news/eoolt-2017.md events/
+rm uncategorised/ifip-wg24-meeting-vadstena-may-20-25-2012.md
+rm uncategorised/wg24meeting-in-vadstena-may-20-25-2012.md
+rm uncategorised/meeting-vadstena2.md
+mkdir -p events/othermeetings
+mv uncategorised/meeting-vadstena.md events/othermeetings/ifip-wg24.md
+mv uncategorised/seminarium-av-johan-ehrenberg-27-okt-2016.md events/othermeetings/seminarium-av-johan-ehrenberg.md
+mv free-and-open-source-software/workshop-contact.md events/contact.md
+mkdir -p research
+mv free-and-open-source-software/phd-lic-theses.md research/phd-and-licentiate-theses.md
+mv free-and-open-source-software/journal-papers.md research/
+mv free-and-open-source-software/conference-papers.md research/
+mv free-and-open-source-software/recentlycompletedtheses.md research/
+mv uncategorised/books.md research/booksproceedings.md
+mv latest-news/open-positions.md research/
+mv latest-news/open-master-theses.md research/
+rm free-and-open-source-software/omoptim-38644409.md
+mv uncategorised/omoptim.md research/
+mkdir -p research/omoptim
+mv free-and-open-source-software/edop.md research/omoptim/
+mv uncategorised/moses.md research/
+mkdir -p research/moses
+ln -s ../../events/moses-2016.md research/moses
+mv uncategorised/europrojarticle.md research/europrojects.md
