@@ -22,7 +22,7 @@ title: "Modelica Development Tooling (MDT)"
 <p>MDT is used at <a href="http://www.ida.liu.se/labs/pelab">PELAB</a> for the development of the <a href="http://www.openmodelica.org">OpenModelica</a> compiler.</p>
 <h2>Using</h2>
 <p>To use MDT you need the OpenModelica Compiler and <a href="http://www.eclipse.org./downloads/">Eclipse</a> installed on your system.</p>
-<p>You can find MDT documentation <a href="svn/MDT/trunk/docs">HERE</a>.</p>
+<p>You can find MDT documentation <a href="https://openmodelcia.org/svn/MDT/trunk/docs">HERE</a>.</p>
 <p><span style="text-decoration: underline;"><strong>You will also need Java 5.0 (aka 1.5) to use the plugin.</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>
 <h2 id="Installing"><a></a>Installing</h2>
@@ -68,6 +68,9 @@ title: "Modelica Development Tooling (MDT)"
 <p>this MDT does not work with OpenModelica less than 1.4.3</p>
 <p>Matching parentheses are highlighted.</p>
 <h2>Contact</h2>
-<p>If you want to contact the current author and maintainer of MDT send an email to <a href="http://www.ida.liu.se/%7Eadrpo">Adrian Pop</a> [<a href="mailto:Adrian.Pop@liu.se">Adrian.Pop@liu.se</a>].<br /> The MDT authors can be contacted via: <a href="mailto:x05elmja%20at%20ida%20dot%20liu%20dot%20se"><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/boris.png" alt="" border="0" /></a> or <a href="mailto:x05andre%20at%20ida%20dot%20liu%20dot%20se"><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/remar.png" alt="" border="0" /></a>. <br /> Bug reports, patches, general feed back or anything else is welcome.</p>
+<p>If you want to contact the current author and maintainer of MDT send an email to <a href="http://www.ida.liu.se/%7Eadrpo">Adrian Pop</a> [<a href="mailto:Adrian.Pop@liu.se">Adrian.Pop@liu.se</a>].
+<!--
+<br /> The MDT authors can be contacted via: <a href="mailto:x05elmja%20at%20ida%20dot%20liu%20dot%20se"><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/boris.png" alt="" border="0" /></a> or <a href="mailto:x05andre%20at%20ida%20dot%20liu%20dot%20se"><img src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/MDT/remar.png" alt="" border="0" /></a>. -->
+<br /> Bug reports, patches, general feed back or anything else is welcome.</p>
 <h3>Updates</h3>
 <p>Latest update: <span style="color: red;">2015-05-05 12:58</span>&nbsp;by <a href="http://www.ida.liu.se/%7Eadrpo">Adrian Pop</a></p>

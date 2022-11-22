@@ -8,7 +8,7 @@ title: "Tools"
 <table border="0">
 <tbody>
 <tr>
-<td><a href="/images/M_images/omc-structure.jpg" target="_blank"><img style="border: 0;" title="omc structure" src="http://openmodelica.org/images/M_images/ModelicaTools/OMShell.jpg" alt="omc structure" width="120" height="104" border="0" /></a></td>
+<td><a href="/images/M_images/omstructure.png" target="_blank"><img style="border: 0;" title="omc structure" src="http://openmodelica.org/images/M_images/ModelicaTools/OMShell.jpg" alt="omc structure" width="120" height="104" border="0" /></a></td>
 <td>
 <h3><a href="/free-and-open-source-software/open-modelica-compiler-omc">Advanced Interactive OpenModelica Compiler (OMC)</a></h3>
 <ul>
