@@ -2,7 +2,7 @@
 title: "December 10, 2018: OpenModelica 1.13.0-dev.beta1 released"
 ---
 <p><span style="font-size: 12pt;">The OpenModelica 1.13.0-dev.beta1 is now released.&nbsp;<br /></span></p>
-<p>Download <a href="download/download-linux">Linux</a>, <a href="download/download-mac">Mac</a>, <a href="download/download-windows">Windows</a>. Report bugs in <a href="https://trac.openmodelica.org/OpenModelica/newticket">Trac</a>.</p>
+<p>Download <a href="/download/download-linux">Linux</a>, <a href="/download/download-mac">Mac</a>, <a href="/download/download-windows">Windows</a>. Report bugs in <a href="https://trac.openmodelica.org/OpenModelica/newticket">Trac</a>.</p>
 <p>Highlights:</p>
 <ul>
 <li>OMSimulator 2.0 – the second release of our efficient FMI Simulation tool including a GUI for FMI Composition, co-simulation and model-exchange simulation, and SSP standard support.</li>

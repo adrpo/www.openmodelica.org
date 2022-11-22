@@ -3,12 +3,12 @@ title: "User Documentation"
 ---
 <p style="padding-left: 30px;">&nbsp;<span style="font-size: 11.0pt;">Here you can find some useful documents and tutorials to move your first steps in the OpenModelica world</span></p>
 <ul style="padding-left: 30px;">
-<li>OM overall&nbsp;<a href="doc/OpenModelicaUsersGuide/latest/">User's Guide</a> (HTML)</li>
-<li>OM overall&nbsp;<a href="doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf">User's Guide</a> (PDF), 6 MB</li>
-<li>OM overall&nbsp;<a href="doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.epub">User's Guide</a> (epub), 6 MB</li>
+<li>OM overall&nbsp;<a href="/doc/OpenModelicaUsersGuide/latest/">User's Guide</a> (HTML)</li>
+<li>OM overall&nbsp;<a href="/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf">User's Guide</a> (PDF), 6 MB</li>
+<li>OM overall&nbsp;<a href="/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.epub">User's Guide</a> (epub), 6 MB</li>
 <li>OM&nbsp;Japanese Translation <a href="http://www.opencae.or.jp/wp-content/uploads/2021/04/OpenModelicaUsersGuide.pdf">User's Guide</a>&nbsp;(PDF),&nbsp;6 MB</li>
-<li><a href="doc/OpenModelicaUsersGuide">Older versions of the User's Guide</a></li>
-<li>FMI with OpenModelica OMSimulator tool documentation as <a href="doc/OMSimulator/master/OMSimulator.pdf">pdf</a> and <a href="doc/OMSimulator/master/html/">html</a></li>
+<li><a href="/doc/OpenModelicaUsersGuide">Older versions of the User's Guide</a></li>
+<li>FMI with OpenModelica OMSimulator tool documentation as <a href="/doc/OMSimulator/master/OMSimulator.pdf">pdf</a> and <a href="/doc/OMSimulator/master/html/">html</a></li>
 <li>Step-by-step interactive <a href="http://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&amp;search_language=English">spokentutorial</a> of using OpenModelica</li>
 <li>Interactive <a href="http://omwebbook.openmodelica.org/">OMWebbook</a> with examples of Modelica textual modelling</li>
 </ul>
@@ -34,6 +34,6 @@ title: "User Documentation"
 </ul>
 <p style="padding-left: 30px;">Modelica language and Object Oriented Modeling and Simulation introduction tutorial by Peter Fritzson</p>
 <ul style="padding-left: 30px;">
-<li><a href="download/OMC_API-HowTo.pdf" target="_blank">API Documentation</a> (2013-02-01), 108 kB</li>
+<li><a href="/download/OMC_API-HowTo.pdf" target="_blank">API Documentation</a> (2013-02-01), 108 kB</li>
 </ul>
 <p style="padding-left: 30px;">Brief OpenModelica compiler APIs handbook with enlightenment and examples, useful reference guide.</p>

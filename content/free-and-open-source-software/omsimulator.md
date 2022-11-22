@@ -11,7 +11,7 @@ title: "OpenModelica Simulator (OMSimulator)"
 <h2>Documentation</h2>
 <ul>
 <li>
-<p>OSMC. OMSimulator 2.0 documentation:<br /><a href="doc/OMSimulator/master/html/">https://openmodelica.org/doc/OMSimulator/master/html/</a></p>
+<p>OSMC. OMSimulator 2.0 documentation:<br /><a href="/doc/OMSimulator/master/html/">https://openmodelica.org/doc/OMSimulator/master/html/</a></p>
 </li>
 </ul>
 
@@ -28,7 +28,7 @@ The initial Master Simulation Tool (MST) framework from OMSimulator 1.0 has been
 <h2>Documentation</h2>
 <ul>
 <li>
-<p>OSMC: OMSimulator 1.0 documentation. Chapter 6 in OpenModelica Users's Guide: <a href="doc/OpenModelicaUsersGuide/v1.12.0/omsimulator.html">https://openmodelica.org/doc/OpenModelicaUsersGuide/v1.12.0/omsimulator.html</a></p>
+<p>OSMC: OMSimulator 1.0 documentation. Chapter 6 in OpenModelica Users's Guide: <a href="/doc/OpenModelicaUsersGuide/v1.12.0/omsimulator.html">https://openmodelica.org/doc/OpenModelicaUsersGuide/v1.12.0/omsimulator.html</a></p>
 </li>
 </ul>
 

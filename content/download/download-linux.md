@@ -50,7 +50,7 @@ title: "Download Linux"
 </span><span style="line-height: 1.3em;"><span style="font-size: 10pt;">sudo apt install openmodelica
 </span><br /></span></pre>
 <h2 style="font-size: 19.25px;">Installing Modelica libraries</h2>
-<h2><span style="font-size: 10pt; caret-color: auto;">There is a package manager for Modelica libraries built into the scripting interface and the OMEdit graphical user interface. See the </span><a href="doc/OpenModelicaUsersGuide/latest/packagemanager.html" style="font-size: 10pt;">documentation</a><span style="font-size: 10pt; caret-color: auto;"> for details. If you run<br /></span></h2>
+<h2><span style="font-size: 10pt; caret-color: auto;">There is a package manager for Modelica libraries built into the scripting interface and the OMEdit graphical user interface. See the </span><a href="/doc/OpenModelicaUsersGuide/latest/packagemanager.html" style="font-size: 10pt;">documentation</a><span style="font-size: 10pt; caret-color: auto;"> for details. If you run<br /></span></h2>
 <pre><span style="font-size: 10pt;"><span style="line-height: 1.3em;">sudo apt install </span>omlibrary</span></pre>
 <h2><span style="font-size: 10pt; caret-color: auto;">cached versions of the Modelica Standard library will be copied in the installation directory. They will be automatically installed by the package manager in the user's .openmodelica directory as soon as any OpenModelica tool tries to load any system library for the first time, e.g. when starting OMEdit. This can be used to manage offline installations from a USB stick, getting the Modelica Standard Library in place without Internet access.<br /></span></h2>
 <h2 style="font-size: 19.25px;">Installing the C++ runtime</h2>

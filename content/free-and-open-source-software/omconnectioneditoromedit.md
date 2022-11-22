@@ -11,9 +11,9 @@ title: "OpenModelica Connection Editor (OMEdit)"
 </ul>
 <h2>Downloads</h2>
 <ul>
-<li><a href="download/download-windows">Windows downloads</a></li>
-<li><a href="download/download-linux">Linux downloads</a></li>
-<li><a href="download/download-mac">Mac downloads</a></li>
+<li><a href="/download/download-windows">Windows downloads</a></li>
+<li><a href="/download/download-linux">Linux downloads</a></li>
+<li><a href="/download/download-mac">Mac downloads</a></li>
 </ul>
 <h2>Publications</h2>
 <ul>

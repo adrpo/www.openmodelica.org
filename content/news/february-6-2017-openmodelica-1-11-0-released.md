@@ -1,7 +1,7 @@
 ---
 title: "February 6, 2017: OpenModelica 1.11.0 released"
 ---
-<p>&nbsp;The OpenModelica 1.11.0 has been released. You can find the Windows builds&nbsp;<a href="download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
+<p>&nbsp;The OpenModelica 1.11.0 has been released. You can find the Windows builds&nbsp;<a href="/download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
 <p><strong style="color: #222222; line-height: 1.2;"><span style="font-size: 14pt;">OpenModelica 1.11.0 release, February 6, 2017</span></strong></p>
 <p>Summary of most important improvements:</p>
 <ul>

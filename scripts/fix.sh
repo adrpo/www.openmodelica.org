@@ -97,3 +97,10 @@ mv uncategorised/open-modelica-notebook-1477050.md free-and-open-source-software
 mv uncategorised/omconnectioneditoromedit.md free-and-open-source-software/
 mv uncategorised/modelica-development-tooling-mdt.md free-and-open-source-software/
 mv uncategorised/omsimulator.md free-and-open-source-software/
+
+sed -i 's,href="index.php/,href="/,g' */*.md */*/*.md
+sed -i 's,href="download/,href="/download/,g' */*.md */*/*.md
+sed -i 's,href="doc/,href="/doc/,g' */*.md */*/*.md
+sed -i 's,href="svn/,href="https://openmodelica.org/svn/,g' */*.md */*/*.md
+
+# linkchecker --ignore-url=http://hugo.openmodelica.org/forum --ignore-url=http://hugo.openmodelica.org/doc http://hugo.openmodelica.org |& tee log

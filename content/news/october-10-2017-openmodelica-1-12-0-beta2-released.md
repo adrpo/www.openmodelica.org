@@ -1,7 +1,7 @@
 ---
 title: "October 10, 2017: OpenModelica 1.12.0-dev.beta2 released"
 ---
-<p>The OpenModelica 1.12.0-dev.beta2 has been released. You can find the Windows builds&nbsp;<a href="download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
+<p>The OpenModelica 1.12.0-dev.beta2 has been released. You can find the Windows builds&nbsp;<a href="/download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
 <p><strong style="color: #222222; line-height: 1.2;"><span style="font-size: 14pt;">OpenModelica 1.12.0-dev.beta2 release, October 10, 2017</span></strong></p>
 <p>This is a bug fix release, please check the release text for <a href="newss/184-august-31-2017-openmodelica-1-12-0-beta1-released">1.12.0-dev.beta1</a> for more information.<br />You can find out <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0">which bugs were fixed</a> in the 1.12 release until now.&nbsp;</p>
 <p>This release is in preparation of 1.12.0 final release. Please help us by testing it and <a href="https://trac.openmodelica.org/OpenModelica/newticket">reporting bugs</a>.</p>

@@ -1,7 +1,7 @@
 ---
 title: "October 31, 2017: OpenModelica 1.12.0 released"
 ---
-<p>The OpenModelica 1.12.0 has been released. You can find the Windows builds&nbsp;<a href="download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above. Release notes in Trac including all the <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0">bug fixes</a>.</p>
+<p>The OpenModelica 1.12.0 has been released. You can find the Windows builds&nbsp;<a href="/download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above. Release notes in Trac including all the <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0">bug fixes</a>.</p>
 <p><strong style="color: #222222; line-height: 1.2;"><span style="font-size: 14pt;">OpenModelica 1.12.0 release, October 31, 2017</span></strong></p>
 <ul style="font-family: Verdana, Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; font-size: 13px;">
 <li>A new (stand-alone) FMI- and TLM-based simulation tool OMSimulator, first version for connected FMUs, TLM objects, Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models</li>

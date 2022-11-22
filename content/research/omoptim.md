@@ -23,7 +23,7 @@ title: "OMOptim"
 <p>&nbsp;</p>
 <h2>Downloads</h2>
 <ul>
-<li>OMOptim is part of OpenModelica: <a href="download/download-windows">https://openmodelica.org/download/download-windows</a></li>
+<li>OMOptim is part of OpenModelica: <a href="/download/download-windows">https://openmodelica.org/download/download-windows</a></li>
 </ul>
 <h2>Publications</h2>
 <ul>

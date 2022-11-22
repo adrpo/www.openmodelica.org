@@ -7,7 +7,7 @@ title: "September 8, 2015: OpenModelica 1.9.3 released"
 <p><span style="line-height: 1.8;">The most important enhancements in the OpenModelica 1.9.3 release:</span></p>
 <ul>
 <li>Enhanced collaborative development and testing of OpenModelica by moving to the GIT-hub framework for versioning and parallel development.</li>
-<li>More accessible and up-to-date automatically generated documentation provided in both html <a href="https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/">https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/</a> and .pdf <a href="doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf">https://openmodelica.org/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf</a></li>
+<li>More accessible and up-to-date automatically generated documentation provided in both html <a href="https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/">https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/</a> and .pdf <a href="/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf">https://openmodelica.org/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf</a></li>
 <li>Further improved simulation speed and coverage of several libraries.</li>
 <li>OMEdit graphic connection editor improvements.</li>
 <li>OMNotebook improvements.</li>

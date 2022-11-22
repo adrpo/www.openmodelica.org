@@ -16,4 +16,5 @@ title: "Developer Documentation"
 <li><span style="text-decoration: underline;"><a href="https://trac.openmodelica.org/OpenModelica/wiki/WritingEfficientMetaModelica" target="_blank">Writing efficient MetaModelica</a></span> (webpage)</li>
 </ul>
 <p><br />Courses on MetaModelica are available <a href="/developersresources/courses">here</a></p>
-<p>OpenModelica is constantly evolving, especially from the developers point of view, developers are suggested to ask any question in the <a href="/forum/forum?id=7">developers forum</a>, if you don't have an account, please rember to <a href="/component/users/?view=registration">register</a>.</p>
+<p>OpenModelica is constantly evolving, especially from the developers point of view, developers are suggested to ask any question on
+<a href="https://github.com/OpenModelica/OpenModelica">Github</a>.
