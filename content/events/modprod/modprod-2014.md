@@ -5,7 +5,7 @@ title: "ModProd 2014 program"
 <h3 style="text-align: center;">Linköping University&nbsp; –&nbsp; www.modprod.liu.se&nbsp; –&nbsp; February 4-5, 2014</h3>
 <h3 style="text-align: center;">Organizers: Peter Fritzson, Petter Krus, Kristian Sandahl</h3>
 <h3 style="text-align: center;">Note: public versions of the presentations will be put on-line on the web</h3>
-<p>Download the pdf version of this document <a href="images/docs/modprod2014/modprod_def.pdf">HERE</a></p>
+<p>Download the pdf version of this document <a href="/images/docs/modprod2014/modprod_def.pdf">HERE</a></p>
 <p>&nbsp;</p>
 <h3>MODPROD Program Tuesday February 4, Tutorials and Workshop</h3>
 <p><br /> 08.30-09.00 &nbsp;&nbsp;&nbsp; Registration and coffee outside room A2, in Building A, Linköping University</p>

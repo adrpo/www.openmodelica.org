@@ -5,4 +5,4 @@ title: "Download Virtual Machines"
 <p>The VM version uses 64-bit Linux, which means it can be used to run OMNotebook on OSX machines (where OMNotebook is normally not available). The "openmodelica" user has password "openmodelica".</p>
 <p>Pre-build Docker images of installed OpenModelica for different purposes are available on DockerHub, see <a class="ext-link" href="https://hub.docker.com/u/openmodelica">https://hub.docker.com/u/openmodelica.</a></p>
 <p>&nbsp;</p>
-<p>OpenModelica includes SystemDynamics library with World modeling. <a href="images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf">Instructions for systemdynamics World3 simulations.</a></p>
+<p>OpenModelica includes SystemDynamics library with World modeling. <a href="/images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf">Instructions for systemdynamics World3 simulations.</a></p>

@@ -1,8 +1,8 @@
 ---
 title: "January 17, 2017: OpenModelica 1.11 Beta3 released "
 ---
-<p>The <strong>OpenModelica 1.11.0 beta3</strong> has been released. You can find the Windows builds <a href="index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=201">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
-<p>OpenModelica 1.11.0 beta3 <span style="line-height: 1.8;">is just a minor patch update of&nbsp;<a href="index.php?option=com_content&amp;view=article&amp;id=177:december-20-2016-openmodelica-1-11-beta2-released&amp;catid=23:news&amp;Itemid=272">1.11.0 beta2</a>&nbsp;that fixes following bugs.</span></p>
+<p>The <strong>OpenModelica 1.11.0 beta3</strong> has been released. You can find the Windows builds <a href="/download/download-windows">here</a>. The Linux and MacOS builds are available via the Download menu above.</p>
+<p>OpenModelica 1.11.0 beta3 <span style="line-height: 1.8;">is just a minor patch update of 1.11.0 beta2 that fixes following bugs:</span></p>
 <ul>
 <li>Fix for <a href="https://trac.openmodelica.org/OpenModelica/ticket/3535">#3535</a> detect duplicate classes and give an error.</li>
 <li>Ticket <a href="https://trac.openmodelica.org/OpenModelica/ticket/4175">#4175</a> Remove the unexpected integer formatter.</li>

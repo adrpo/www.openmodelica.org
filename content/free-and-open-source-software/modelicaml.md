@@ -4,7 +4,7 @@ title: "ModelicaML - A UML Profile for Modelica"
 <h1>ModelicaML - A UML Profile for Modelica</h1>
 <p>Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of the <a href="http://www.uml.org/" target="_blank">OMG Unified Modeling Language (UML)</a>. This subset enables the generation of executable <a href="http://www.modelica.org/" target="_blank">Modelica</a> code.</p>
 <p>ModelicaML extends the graphical modeling capabilities of Modelica by providing more diagrams (UML diagrams for presenting the composition, connection, inheritance or behavior of classes) for graphical model definition or documentation. Moreover, ModelicaML supports a method for formalizing and evaluating system requirements using simulations.</p>
-<h2><img src="images/stories/modelicaml_concept.png" alt="" width="436" height="259" border="0" /></h2>
+<h2><img src="/images/stories/modelicaml_concept.png" alt="" width="436" height="259" border="0" /></h2>
 <h2>Documentation</h2>
 <ul>
 <li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/doc/ModelicaML_getting_started_v14.pdf" target="_blank">ModelicaML - Installation (PDF)</a></li>

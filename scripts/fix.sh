@@ -88,3 +88,12 @@ mv uncategorised/moses.md research/
 mkdir -p research/moses
 ln -s ../../events/moses-2016.md research/moses
 mv uncategorised/europrojarticle.md research/europrojects.md
+ln -s ../download/sourcecodeuser.md developersresources/source-code.md
+ln -s ../download/nightlybuildsdownload.md developersresources/nightly-builds.md
+mv uncategorised/devdoc.md developersresources/devdocumentation.md
+mv uncategorised/metamodelicacourses.md developersresources/courses.md
+mv uncategorised/the-openmodelica-integrated-environment-for-modeling-simulation-and-model-based-development.md research/
+mv uncategorised/open-modelica-notebook-1477050.md free-and-open-source-software/omnotebook.md
+mv uncategorised/omconnectioneditoromedit.md free-and-open-source-software/
+mv uncategorised/modelica-development-tooling-mdt.md free-and-open-source-software/
+mv uncategorised/omsimulator.md free-and-open-source-software/

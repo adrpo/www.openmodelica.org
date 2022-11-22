@@ -11,7 +11,7 @@ title: "Modelica Courses"
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: medium; line-height: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;"><span face="Calibri,sans-serif" size="2" style="font-family: Calibri, sans-serif; font-size: x-small;"><span style="font-size: 11pt;"><span lang="en-US"><a href="doc/ModelicaShortCourse/ModelicaTutorial-slides-PeterFritzson-160202-BT.pdf">Slides</a><a href="images/docs/Courses/lecture06%20-%20arrays%20algorithms%20and%20functions.pdf"></a></span></span></span></li>
+<li style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: medium; line-height: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;"><span face="Calibri,sans-serif" size="2" style="font-family: Calibri, sans-serif; font-size: x-small;"><span style="font-size: 11pt;"><span lang="en-US"><a href="doc/ModelicaShortCourse/ModelicaTutorial-slides-PeterFritzson-160202-BT.pdf">Slides</a><a href="/images/docs/Courses/lecture06%20-%20arrays%20algorithms%20and%20functions.pdf"></a></span></span></span></li>
 <li style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: medium; line-height: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;"><a href="doc/ModelicaShortCourse/Exercises.zip"><span face="Calibri,sans-serif" size="2" style="font-family: Calibri, sans-serif; font-size: x-small;"><span style="font-size: 11pt;"><span lang="en-US">Exercises</span></span></span></a></li>
 <li style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: medium; line-height: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;"><a href="doc/ModelicaShortCourse/Examples.zip"><span face="Calibri,sans-serif" size="2" style="font-family: Calibri, sans-serif; font-size: x-small;"><span style="font-size: 11pt;"><span lang="en-US">Example notebooks</span></span></span><span face="Calibri,sans-serif" size="2" style="font-family: Calibri, sans-serif; font-size: x-small;"><span style="font-size: 11pt;"><span lang="en-US"></span></span></span></a>&nbsp;</li>
 </ul>
@@ -34,7 +34,7 @@ title: "Modelica Courses"
 <p style="padding-left: 30px;">Lecture 3 - <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture03-%20Classes.pdf" target="_blank">Classes</a></p>
 <p style="padding-left: 30px;">Lecture 4 - <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture04%20-%20Connectors%20and%20graphical%20modeling.pdf" target="_blank">Connectors</a></p>
 <p style="padding-left: 30px;">Lecture 5 - <a href="https://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture05%20-%20Equations.pdf" target="_blank">Equations</a></p>
-<p style="padding-left: 30px;">Lecture 6 - <a href="images/docs/Courses/lecture06%20-%20arrays%20algorithms%20and%20functions.pdf">Functions and Algorithms</a></p>
+<p style="padding-left: 30px;">Lecture 6 - <a href="/images/docs/Courses/lecture06%20-%20arrays%20algorithms%20and%20functions.pdf">Functions and Algorithms</a></p>
 <p style="padding-left: 30px;">Lecture 7 - <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture07%20-%20Packages.pdf" target="_blank">Packages</a></p>
 <p style="padding-left: 30px;">Lecture 8 - <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture08%20-%20Modelica%20Libraries.pdf" target="_blank">Libraries</a></p>
 <p style="padding-left: 30px;">Lecture 9 - <a href="http://www.ida.liu.se/~arupa54/Modelica/OO_Modelica_course/Lecture09%20-%20Hybrid%20Systems.pdf" target="_blank">Hybrid Systems</a></p>
@@ -51,4 +51,4 @@ title: "Modelica Courses"
 <li><span lang="EN-US">Observer models, Kalman filter, and linearization of non-linear problems are some of the topics in the course used in control of pendulum, DC motor, and tank system models among others</span></li>
 </ul>
 </div>
-<p><span lang="EN-US"><img src="images/stories/modelica/drcontrol.png" alt="" border="0" /></span></p>
+<p><span lang="EN-US"><img src="/images/stories/modelica/drcontrol.png" alt="" border="0" /></span></p>

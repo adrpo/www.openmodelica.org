@@ -7,22 +7,22 @@ title: "Download"
 </ul>
 <ul>
 <li>
-<h3><a href="index.php/download/download-windows">Windows binary</a></h3>
+<h3><a href="/download/download-windows">Windows binary</a></h3>
 </li>
 <li>
-<h3><a href="index.php/download/download-linux">Linux binary</a></h3>
+<h3><a href="/download/download-linux">Linux binary</a></h3>
 </li>
 <li>
-<h3><a href="index.php/download/download-mac">Mac binary</a></h3>
+<h3><a href="/download/download-mac">Mac binary</a></h3>
 </li>
 </ul>
-<p>Remember to read<a href="index.php/useresresources/userdocumentation"> user documentation</a> before using OpenModelica.</p>
+<p>Remember to read<a href="/useresresources/userdocumentation"> user documentation</a> before using OpenModelica.</p>
 <ul>
 </ul>
 <h2><span style="font-family: Arial, Helvetica, sans-serif; font-weight: bold;"><strong>Modelica Development Tooling (MDT) for Eclipse</strong></span></h2>
 <p><br />The Modelica Development Tooling (MDT) Eclipse Plug-In integrates the  <a href="http://www.openmodelica.org">OpenModelica</a> compiler with <a href="http://www.eclipse.org./">Eclipse</a>.  MDT, together with the OpenModelica compiler, provides an environment for working with <a href="http://www.modelica.org/">Modelica</a> projects.</p>
 <p>MDT is available as an Eclipse plugin, follow the instructions below for installation.</p>
-<p>Read the <a href="index.php/home/tools/133">Modelica Development Tooling (MDT)</a> page to learn more about MDT.</p>
+<p>Read the <a href="/home/tools/133">Modelica Development Tooling (MDT)</a> page to learn more about MDT.</p>
 <p>A<a href="https://trac.openmodelica.org/MDT"> trac system</a> is avaiable for MDT, please report bugs and contribute.</p>
 <h3>MDT installation:</h3>
 <p>The most convenient way to install MDT is by instructing Eclipse to fetch the plugin from the<br /> update site which is located at <a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/"> http://www.ida.liu.se/~pelab/modelica/OpenModelica/MDT/</a>.<br /> If you are not sure how to accomplish this, just follow the instructions below.</p>

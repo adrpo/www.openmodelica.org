@@ -2,7 +2,7 @@
 title: "MOSES"
 ---
 <p>&nbsp;</p>
-<h2 style="text-align: center;"><span lang="EN-US" style="font-family: verdana, geneva;"><img width="464" height="92" alt="moses" src="images/moses.png" /></span></h2>
+<h2 style="text-align: center;"><span lang="EN-US" style="font-family: verdana, geneva;"><img width="464" height="92" alt="moses" src="/images/moses.png" /></span></h2>
 <h2 style="text-align: center;"><span style="font-family: verdana, geneva;"><strong style="color: #000000; line-height: 1.8; font-size: 11px;"><span style="color: #000080; font-size: 14pt;"><span style="color: #800080;" color="#800080" face="Calibri, sans-serif"><span style="line-height: normal; font-size: 15px;"><span style="color: #000000;">&nbsp;</span></span></span></span></strong></span></h2>
 <h2 style="text-align: center;"><span style="color: #000080; font-family: verdana, geneva; font-size: 14pt;"><span style="color: #800080;" color="#800080" face="Calibri, sans-serif"></span></span></h2>
 <h2 style="font-size: 19.25px;">&nbsp;</h2>
@@ -30,7 +30,7 @@ title: "MOSES"
 </ul>
 <h2>MOSES Workshops</h2>
 <ul>
-<li><a href="index.php?option=com_content&amp;view=article&amp;id=171:moses-2016-workshop&amp;catid=2:uncategorised&amp;Itemid=385">MOSES-2016</a></li>
+<li><a href="/events/moses-2016">MOSES-2016</a></li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -48,23 +48,23 @@ title: "Modelica Development Tooling (MDT)"
 </ul>
 <h2>Contributing</h2>
 <p>A <a href="https://trac.openmodelica.org/MDT">trac system </a>is available for MDT, please contribute by reporting bugs.</p>
-<p>Modelica Development Tooling (MDT) is part of <a href="undefined/">OpenModelica</a> and is free software distributed under the <a href="index.php/useresresources/license">OSMC-PL License</a>.<br /> This basically means you can do whatever you want with it non-commercially.<br /> To use it comercially you need to be a member of the <a href="index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=160">Open Source Modelica Consortium</a>.<br /> Please, help us improve! Download the tool and <a href="https://trac.openmodelica.org/OpenModelica">report bugs</a>, or, even better, take the<br /> source and implement something you always wanted, and contribute it to the MDT!</p>
+<p>Modelica Development Tooling (MDT) is part of <a href="undefined/">OpenModelica</a> and is free software distributed under the <a href="/useresresources/license">OSMC-PL License</a>.<br /> This basically means you can do whatever you want with it non-commercially.<br /> To use it comercially you need to be a member of the <a href="/home/consortium">Open Source Modelica Consortium</a>.<br /> Please, help us improve! Download the tool and <a href="https://trac.openmodelica.org/OpenModelica">report bugs</a>, or, even better, take the<br /> source and implement something you always wanted, and contribute it to the MDT!</p>
 <h2>Source code</h2>
-<p>You can access the source code from the project's repository at <a href="svn/MDT/trunk">https://openmodelica.org/svn/MDT/trunk</a>.<br /> Anonymous read access is not enabled. You must use user: <strong>anonymous</strong> password: <strong>none</strong>.</p>
+<p>You can access the source code from the project's repository at <a href="https://openmodelica.org/svn/MDT/trunk">https://openmodelica.org/svn/MDT/trunk</a>.<br /> Anonymous read access is not enabled. You must use user: <strong>anonymous</strong> password: <strong>none</strong>.</p>
 <h2>Documentation</h2>
-<p>The primary source of information for the aspiring MDT developer is the <a href="svn/MDT/trunk/docs">MDT documentation</a>. <br /> The manual has information on code repository structure, how to build the package<br /> and other important information. To checkout the manual and other documentation type:</p>
+<p>The primary source of information for the aspiring MDT developer is the <a href="https://openmodelica.org/svn/MDT/trunk/docs">MDT documentation</a>. <br /> The manual has information on code repository structure, how to build the package<br /> and other important information. To checkout the manual and other documentation type:</p>
 <pre>svn co https://openmodelica.org/svn/MDT/trunk/docs user: anonymous pass: none </pre>
 <h2>News</h2>
 <p><em>Thursday, 12 July 2012</em></p>
 <p>A Trac project management system for reporting bugs and follow development is now <a href="https://trac.openmodelica.org/MDT">available</a>.</p>
-<p><em>Monday, 30 January 2012</em><br />Version 0.7.22 has been released. You can get the binary release from the&nbsp;<a href="index.php/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.<br />For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.</p>
-<p><em>Tuesday, 12 April 2011</em><br />Version 0.7.7 has been released. You can get the binary release from the&nbsp;<a href="index.php/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.<br />For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.</p>
+<p><em>Monday, 30 January 2012</em><br />Version 0.7.22 has been released. You can get the binary release from the&nbsp;<a href="/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.<br />For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.</p>
+<p><em>Tuesday, 12 April 2011</em><br />Version 0.7.7 has been released. You can get the binary release from the&nbsp;<a href="/home/tools/133#Installing" style="color: #1b57b1; text-decoration: none; font-weight: normal;">update site</a>.<br />For this release, you can use the&nbsp;<a href="http://www.openmodelica.org" style="color: #1b57b1; text-decoration: none; font-weight: normal;">OpenModelica</a> compiler.</p>
 <p><span style="color: red;"><em>Saturday, 01 November 2009</em></span><br /> A short document on <a href="https://trac.openmodelica.org/documents/MDT/install/">MDT installation HowTo</a>.</p>
-<p><span style="color: red;"><em>Saturday, 04 October 2009</em></span><br /> We have a new website for <a href="index.php/developer/tools/133">ModelicaML - A UML Profile for Modelica</a>.</p>
-<p><em>Saturday, 01 March 2008</em><br /> Subversion repository moved to: <a href="svn/MDT/">https://openmodelica.org/svn/MDT/</a></p>
+<p><span style="color: red;"><em>Saturday, 04 October 2009</em></span><br /> We have a new website for <a href="/developer/tools/133">ModelicaML - A UML Profile for Modelica</a>.</p>
+<p><em>Saturday, 01 March 2008</em><br /> Subversion repository moved to: <a href="https://openmodelica.org/svn/MDT/">https://openmodelica.org/svn/MDT/</a></p>
 <p><em>Tuesday, 21 August 2007</em></p>
-<p>Version 0.7.2 has been released. You can get the binary release from the <a href="index.php/developer/tools/133#Installing">update site</a>.</p>
-<p>For this release, you can use the <a href="http://www.openmodelica.org">OpenModelica</a> compiler.</p>
+<p>Version 0.7.2 has been released. You can get the binary release from the <a href="/developer/tools/133#Installing">update site</a>.</p>
+<p>For this release, you can use the <a href="https://openmodelica.org">OpenModelica</a> compiler.</p>
 <p>this MDT does not work with OpenModelica less than 1.4.3</p>
 <p>Matching parentheses are highlighted.</p>
 <h2>Contact</h2>

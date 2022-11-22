@@ -1,7 +1,7 @@
 ---
 title: "Advanced Interactive OpenModelica Compiler (OMC)"
 ---
-<p><a href="images/M_images/omc-structure.jpg" target="_blank"><img title="omcstructure" src="images/M_images/omc-structure.jpg" alt="omcstructure" width="400" height="200" align="right" border="0" /></a></p>
+<p><a href="/images/M_images/omc-structure.jpg" target="_blank"><img title="omcstructure" src="/images/M_images/omc-structure.jpg" alt="omcstructure" width="400" height="200" align="right" border="0" /></a></p>
 <p>OMC is a Modelica compiler, translating Modelica to C code, with a symbol table containing definitions of classes, functions, and variables. Such definitions can be predefined, user-defined, or obtained from libraries. The compiler also includes a Modelica interpreter for interactive usage and constant expression evaluation. The subsystem also includes facilities for building simulation executables linked with selected numerical ODE or DAE solvers.</p>
 <p>&nbsp;</p>
 <h2>Documentation</h2>

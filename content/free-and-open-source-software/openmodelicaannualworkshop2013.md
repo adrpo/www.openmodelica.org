@@ -1,7 +1,7 @@
 ---
 title: "Preliminary Program OpenModelica Annual Workshop February 4, 2013"
 ---
-<p><a href="images/docs/openmodelica2013/openmodelica annual workshop program-2013-v7" target="_blank" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; background-color: transparent; font-family: Arial, Helvetica, sans-serif; line-height: 21px;">Click here to download the OpenModelica Workshop Preliminary Program</a></p>
+<p><a href="/images/docs/openmodelica2013/openmodelica annual workshop program-2013-v7" target="_blank" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; background-color: transparent; font-family: Arial, Helvetica, sans-serif; line-height: 21px;">Click here to download the OpenModelica Workshop Preliminary Program</a></p>
 <p> </p>
 <p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: 3.0pt; text-align: center; mso-outline-level: 2;" align="center"><strong><span style="font-size: 11.0pt; font-family: ">Supported by<br /> Open Source Modelica Consortium (OSMC) and Linköping University (LiU)</span></strong></p>
 <p class="MsoNormal" style="mso-margin-top-alt: auto; margin-left: .5in; mso-outline-level: 4;"><strong><span style="font-size: 9.0pt; font-family: ">8.00-8.35 Registration and coffee, outside A2, A-building.</span></strong></p>

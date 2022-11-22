@@ -20,12 +20,12 @@ title: "The goal"
 <p>We invite researchers and students, or any interested developer to participate in the project.</p>
 <ul>
 <li>
-<p>Participate in the <a href="index.php/forum">OpenModelicaInterest</a> discussion forum.</p>
+<p>Participate in the <a href="/forum">OpenModelicaInterest</a> discussion forum.</p>
 </li>
 <li>
-<p>Help us: get the latest <a href="index.php/developersresources/source-code">source code</a> or <a href="index.php/developersresources/source-code">nightly-build</a> and <a href="https://github.com/OpenModelica/OpenModelica/issues/new/choose">report bugs!</a></p>
+<p>Help us: get the latest <a href="/developersresources/source-code">source code</a> or <a href="/developersresources/source-code">nightly-build</a> and <a href="https://github.com/OpenModelica/OpenModelica/issues/new/choose">report bugs!</a></p>
 </li>
 <li>
-<p>To learn about Modelica, read a <a href="index.php/research/booksproceedings#books">book</a> or a <a href="images/docs/userdocs/modprod2012-tutorial1-Peter-Fritzson-ModelicaTutorial.pdf">tutorial</a> about Modelica</p>
+<p>To learn about Modelica, read a <a href="/research/booksproceedings#books">book</a> or a <a href="/images/docs/userdocs/modprod2012-tutorial1-Peter-Fritzson-ModelicaTutorial.pdf">tutorial</a> about Modelica</p>
 </li>
 </ul>

@@ -34,7 +34,7 @@ title: "Books & Proceedings"
 <p><strong><span class="link-external" style="font-size: 12pt;">Principles of Object-Oriented Modeling and Simulation with Modelica 2.1</span></strong></p>
 <p><span style="font-size: 12pt;">(November 2003)</span></p>
 <p><span style="font-size: 12pt;">by Peter Fritzson</span></p>
-<p style="text-align: justify;"><span style="font-size: 12pt;">This book teaches modeling and simulation and gives an introduction as well as a very comprenhensive overview of the Modelica language including many examples. Moreover, about one third of the book is devoted to application examples and related application background theory. Many of these examples are available in downloadable executable form in the OpenModelica installation&nbsp;from the OpenModelica.org&nbsp;web site. Part four of the book gives an overview of the most important symbolic and numeric methods used in typical Modelica tools. Appendices include parts of the Modelica standard library. The whole book is 940 pages long. <span class="link-external"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/ModelicaBookExcerpts.pdf">Book excerpts.</a></span><a href="index.php?option=com_content&amp;view=article&amp;id=48:book-info&amp;catid=10:main-category&amp;Itemid=277" target="_blank"><span class="link-external"><br /></span></a></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">This book teaches modeling and simulation and gives an introduction as well as a very comprenhensive overview of the Modelica language including many examples. Moreover, about one third of the book is devoted to application examples and related application background theory. Many of these examples are available in downloadable executable form in the OpenModelica installation&nbsp;from the OpenModelica.org&nbsp;web site. Part four of the book gives an overview of the most important symbolic and numeric methods used in typical Modelica tools. Appendices include parts of the Modelica standard library. The whole book is 940 pages long. <span class="link-external"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/ModelicaBookExcerpts.pdf">Book excerpts.</a></span></span></p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ title: "Books & Proceedings"
 </td>
 </tr>
 <tr>
-<td valign="top">&nbsp;<img alt="Book cover" src="images/stories/modelica/modelicabooksmall2011.jpg" align="left" border="0" /></td>
+<td valign="top">&nbsp;<img alt="Book cover" src="/images/stories/modelica/modelicabooksmall2011.jpg" align="left" border="0" /></td>
 <td>
 <p><strong style="line-height: 1.8;"><span style="font-size: 12pt; color: #000000;"><span lang="EN-US">Introduction to Modeling and Simulation of Technical and Physical Systems</span></span></strong></p>
 <p><span style="font-size: 12pt;" lang="EN-US"> (September 2011) </span></p>
@@ -65,7 +65,7 @@ title: "Books & Proceedings"
 </td>
 </tr>
 <tr>
-<td valign="top"><img alt="cover-264x400 chinese" src="images/cover-264x400_chinese.png" height="179" width="118" /></td>
+<td valign="top"><img alt="cover-264x400 chinese" src="/images/cover-264x400_chinese.png" height="179" width="118" /></td>
 <td>
 <p><strong style="line-height: 1.8;"><span style="font-size: 12pt;">Introductory Modelica Book in Chinese</span></strong></p>
 <p style="text-align: justify;"><span style="font-size: 12pt;">The introductory book "Introduction to Modeling and Simulation of Technical and Physical Systems" by Peter Fritzson has been slightly updated, translated to Chinese by Fanli Zhou and Liping Chen, and published by <a href="http://www.sciencep.com/">Science Press</a> in China.</span> <span style="font-size: 12pt;"><a href="http://www.tongyuan.cc">Suzhou Tongyuan</a> organized the translation work.</span> <span style="font-size: 12pt;">It is aimed at teaching Modelica modeling and simulation to beginners, or in courses where there is only limited time for an introduction to Modelica.</span> <span style="font-size: 12pt;">The book provides exercises,&nbsp;and uses the Modelica language standard version 3.1.</span> <span style="font-size: 12pt;">The translated book will be available in print in November 2015 from <a href="http://www.sciencep.com/">Science Press</a>.</span></p>
@@ -82,7 +82,7 @@ title: "Books & Proceedings"
 </tr>
 <tr>
 <td valign="top">
-<p><img alt="Japanese-Modelicabook-cover-311x400" src="images/Japanese-Modelicabook-cover-311x400.png" height="152" width="118" /></p>
+<p><img alt="Japanese-Modelicabook-cover-311x400" src="/images/Japanese-Modelicabook-cover-311x400.png" height="152" width="118" /></p>
 </td>
 <td>
 <p><strong><span style="font-size: 12pt;">Introductory Modelica Book in Japanese</span></strong></p>
@@ -99,7 +99,7 @@ title: "Books & Proceedings"
 </td>
 </tr>
 <tr>
-<td valign="top"><img alt="cover-page spanish v1 276x400" src="images/cover-page_spanish_v1_276x400.png" height="171" width="118" /></td>
+<td valign="top"><img alt="cover-page spanish v1 276x400" src="/images/cover-page_spanish_v1_276x400.png" height="171" width="118" /></td>
 <td>
 <p><strong><span style="font-size: 12pt;">Introductory Modelica Book in Spanish</span></strong></p>
 <p style="text-align: justify;"><span style="font-size: 12pt;">The introductory book "Introduction to Modeling and Simulation of Technical and Physical Systems" by Peter Fritzson, copyright (English version) by Wiley-IEEE Press, has been slightly updated by Peter Fritzson and translated to Spanish.</span></p>
