@@ -2,7 +2,7 @@
 title: "Developer Documentation"
 ---
 <ul>
-<li><span style="text-decoration: underline;"><a href="documents/">OpenModelica Eclipse Developement Tool, setup and workspace</a></span> (webpage)</li>
+<li><span style="text-decoration: underline;"><a href="/documents/">OpenModelica Eclipse Developement Tool, setup and workspace</a></span> (webpage)</li>
 <li><a href="https://openmodelcia.org/svn/OpenModelica/tags/OPENMODELICA_1_9_0_BETA_4/doc/OpenModelicaSystem.pdf"><span style="text-decoration: underline;">System Documentation</span></a> (201<span style="text-decoration: underline;">3</span>-02-01), 1.9 MB</li>
 <li><a href="https://openmodelcia.org/svn/OpenModelica/tags/OPENMODELICA_1_9_0_BETA_3/doc/OpenModelicaMetaProgramming.pdf"><span style="text-decoration: underline;">MetaModelica Users Guide</span></a> (2011-02-28), 818 KB</li>
 <li><span style="text-decoration: underline;"><a href="https://build.openmodelica.org/Documentation/MetaModelica.html">MetaModelica language extension APIs</a></span> (webpage)</li>

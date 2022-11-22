@@ -11,6 +11,6 @@ title: "Courses"
 <li><a href="/developersresources/devdocumentation"><span style="text-decoration: underline;"><span style="color: #800080;">Documentation</span></span></a>, so you can read about the MetaModelica language.</li>
 <li><span lang="EN-US"><span style="color: #333333;"><a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-66440">Meta-Programming and Language Modeling with MetaModelica 1.0</a></span><a href="https://mail.liu.se/owa/redir.aspx?C=614ca89daca64bde83cc6ba45d407c75&amp;URL=http%3a%2f%2fliu.diva-portal.org%2fsmash%2frecord.jsf%3fsearchId%3d1%26pid%3ddiva2%3a403940"> </a>by Peter </span>Fritzson and Adrian Pop,&nbsp;2011</li>
 <li><span lang="SV"><span lang="EN-US"><span style="color: #333333;"><a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68361">Towards Modelica 4 Meta-Programming and Language Modeling with MetaModelica 2.0</a></span> by Peter </span></span>Fritzson, Adrian Pop, and Martin Sjölund, 2011</li>
-<li>A <a href="/openmodelicaworld/applications/category/4-metamodelica-examples?download=20:metamodelicaexercices" title="Download file">notebook</a> with MetaModelica examples.</li>
+<li>A <a href="https://github.com/OpenModelica/OpenModelica/raw/master/testsuite/metamodelica/MetaModelicaDev/documentation/Basic-Exercise-MetaModelica.onb" title="Download file">notebook</a> with MetaModelica examples.</li>
 <li><a href="https://trac.openmodelica.org/OpenModelica/wiki/WritingEfficientMetaModelica">Writing efficient MetaModelica</a>.</li>
 </ul>
