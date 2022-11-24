@@ -103,4 +103,6 @@ sed -i 's,href="download/,href="/download/,g' */*.md */*/*.md
 sed -i 's,href="doc/,href="/doc/,g' */*.md */*/*.md
 sed -i 's,href="svn/,href="https://openmodelica.org/svn/,g' */*.md */*/*.md
 
+sed -i 's,/images/M_images/ModelicaTools,/images/ModelicaTools,g' */*.md */*/*.md
+
 # linkchecker --ignore-url=http://hugo.openmodelica.org/forum --ignore-url=http://hugo.openmodelica.org/doc http://hugo.openmodelica.org |& tee log

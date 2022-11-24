@@ -1,7 +1,7 @@
 ---
 title: "OMWeb"
 ---
-<p><a title="OMWeb Usage Senario" href="/images/M_images/ModelicaTools/OmWebUsageSenario.jpg" target="_blank"><img style="float: right; border: 0;" src="/images/M_images/ModelicaTools/OmWebUsageSenario.jpg" alt="OMWeb Usage Senario" width="480" border="0" /></a><strong>OMWeb</strong> is a web-based teaching environment useful both in engineering courses as well as for teaching programming languages. OMWeb can be an alternative or complementary tool to the traditional teaching method with lecturing and reading textbooks. The student needs only to open a web browser and start writing programs in order to use the tool. OMWeb can be applied to several areas in natural science, such as physics, chemistry, biology, biomechanics etc., where phenomena can be illustrated by dynamic simulations. OMWeb is a collaboration with Stuttgart University.</p>
+<p><a title="OMWeb Usage Senario" href="/images/ModelicaTools/OmWebUsageSenario.jpg" target="_blank"><img style="float: right; border: 0;" src="/images/ModelicaTools/OmWebUsageSenario.jpg" alt="OMWeb Usage Senario" width="480" border="0" /></a><strong>OMWeb</strong> is a web-based teaching environment useful both in engineering courses as well as for teaching programming languages. OMWeb can be an alternative or complementary tool to the traditional teaching method with lecturing and reading textbooks. The student needs only to open a web browser and start writing programs in order to use the tool. OMWeb can be applied to several areas in natural science, such as physics, chemistry, biology, biomechanics etc., where phenomena can be illustrated by dynamic simulations. OMWeb is a collaboration with Stuttgart University.</p>
 <p>OMWeb with <strong>OpenModelica</strong> can be used for teaching in several areas in natural science, such as physics, chemistry, biology, biomechanics etc., where phenomena can be illustrated by dynamic simulations. With the introduction of ECS server the frontend and backend are decoupled thus making the system more flexible and the communication easier.</p>
 <p>OMWeb 3-layer architecture</p>
 <ul>
@@ -20,7 +20,7 @@ title: "OMWeb"
 <p>Linux/Ubuntu users if encountering problem: please follow the steps from <a href="http://unix.stackexchange.com/questions/2835/installing-java-into-ubuntu-10-04-firefox-chrome">http://unix.stackexchange.com/questions/2835/installing-java-into-ubuntu-10-04-firefox-chrome</a></p>
 <h2>Downloads</h2>
 <ul>
-<li>Nightly Builds: <a title="Lastest Releases" href="http://build.openmodelica.org/omc/builds/windows/releases/" target="_blank">http://build.openmodelica.org/omc/builds/<br /></a><a title="OMWeb Example" href="/images/M_images/ModelicaTools/OMWebSimulationExample.jpg" target="_blank"><img style="float: right;" src="/images/M_images/ModelicaTools/OMWebSimulationExample.jpg" alt="OMWeb Simulation Example" width="480" border="0" /></a></li>
+<li>Nightly Builds: <a title="Lastest Releases" href="http://build.openmodelica.org/omc/builds/windows/releases/" target="_blank">http://build.openmodelica.org/omc/builds/<br /></a><a title="OMWeb Example" href="/images/ModelicaTools/OMWebSimulationExample.jpg" target="_blank"><img style="float: right;" src="/images/ModelicaTools/OMWebSimulationExample.jpg" alt="OMWeb Simulation Example" width="480" border="0" /></a></li>
 </ul>
 <h2>Publications</h2>
 <ul>

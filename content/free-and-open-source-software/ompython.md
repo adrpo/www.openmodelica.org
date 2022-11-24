@@ -1,7 +1,7 @@
 ---
 title: "OpenModelica Python Interface (OMPYTHON)"
 ---
-<p><strong><a title="OMPython" href="/images/M_images/ompython.jpg" target="_blank"><img style="float: right; border: 0;" src="/images/M_images/ompython.jpg" alt="OMPython" width="400" border="0" /></a>OMPython</strong> is a subsystem of the OpenModelica platform, enabling users to experience the modeling and simulation capabilities of OpenModelica within the Python environment.</p>
+<p><strong><a title="OMPython" href="/images/ompython.jpg" target="_blank"><img style="float: right; border: 0;" src="/images/ompython.jpg" alt="OMPython" width="400" border="0" /></a>OMPython</strong> is a subsystem of the OpenModelica platform, enabling users to experience the modeling and simulation capabilities of OpenModelica within the Python environment.</p>
 <h2>Downloads</h2>
 <ul>
 <li>Nightly Builds: <a title="Nightly Builds" href="http://build.openmodelica.org/omc/builds/" target="_blank">http://build.openmodelica.org/omc/builds/</a></li>

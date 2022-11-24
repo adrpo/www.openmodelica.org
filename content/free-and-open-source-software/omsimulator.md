@@ -17,7 +17,7 @@ title: "OpenModelica Simulator (OMSimulator)"
 
 <p>&nbsp;</p>
 
-<h2><strong><a title="OMSimulator" href="/images/M_images/OMSimulator/OMSimulator1.0.png" target="_blank"><img style="border: 0px; float: right;" src="/images/M_images/OMSimulator/OMSimulator1.0.png" alt="OMSimulator 1.0" width="357" height="281" /></a>OMSimulator 1.0</strong>&nbsp;</h2>
+<h2><strong><a title="OMSimulator" href="/images/OMSimulator/OMSimulator1.0.png" target="_blank"><img style="border: 0px; float: right;" src="/images/OMSimulator/OMSimulator1.0.png" alt="OMSimulator 1.0" width="357" height="281" /></a>OMSimulator 1.0</strong>&nbsp;</h2>
 <p>A new (stand-alone) FMI- and TLM-based simulation tool OMSimulator.<br />First version for connected FMUs, TLM objects, Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models. Regarding the FMI standard for model exchange and co-simulation , see&nbsp;<a href="http://www.fmi-standard.org/" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent;">FMI standard</a>. 
 The initial Master Simulation Tool (MST) framework from OMSimulator 1.0 has been donated to the Open Source Modelica Consortium (OSMC) by SKF, and since then further developed in cooperation. It is available from OSMC as the OMSimulator 1.0 with OMEdit as the model editor. It has later been further developed within the OPENCPS project and is now also part of OMSimulator 2.0.from OSMC.</p>
 <h2>Downloads</h2>
