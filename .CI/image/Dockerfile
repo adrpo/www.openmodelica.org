@@ -1,0 +1,10 @@
+# Cannot be parametrized in Jenkins...
+FROM ubuntu:bionic
+
+# We don't know the uid of the user who will build, so make the /cache directories world writable
+RUN export DEBIAN_FRONTEND=noninteractive && \
+  mkdir -p /cache/hugo && chmod ugo+rwx /cache/hugo && \
+  apt-get update && \
+  apt-get install ca-certificates hugo && \
+  rm -rf /var/lib/apt/lists/* && \
+  apt-get clean

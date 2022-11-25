@@ -1,0 +1,32 @@
+pipeline {
+  agent none
+  options {
+    newContainerPerStage()
+    buildDiscarder(logRotator(daysToKeepStr: "14", artifactNumToKeepStr: "2"))
+  }
+  environment {
+    LC_ALL = 'C.UTF-8'
+  }
+  def isPR() {
+    return env.CHANGE_ID ? true : false
+  }
+  stages {
+    stage('build') {
+    agent {
+      dockerfile {
+        additionalBuildArgs '--pull'
+        dir '.CI/image'
+        label 'r630-2'
+        args "--mount type=volume,source=hugo-cache,target=/cache/hugo " +
+             "-v /var/www/hugo.openmodelica.org:/var/www/hugo.openmodelica.org"
+      }
+    }
+    steps {
+      script {
+        echo "Running on: ${env.NODE_NAME}"
+        sh "hugo --gc --minify=true --cleanDestinationDir --cacheDir=/cache/hugo --noTimes --noChmod ${isPR() ? '--renderToMemory --buildDrafts=true --buildExpired=true --buildFuture=true' : '--destination=/var/www/hugo.openmodelica.org'}"
+      }
+    }
+  }
+  }
+}
