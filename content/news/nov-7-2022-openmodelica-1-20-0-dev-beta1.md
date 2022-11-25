@@ -1,5 +1,7 @@
 ---
 title: "👍⚡Nov 18, 2022: OpenModelica 1.20.0-dev.beta2 released!"
+date: "2022-11-18"
+tags: [news]
 ---
 <p><strong><span style="font-family: Arial, sans-serif; color: black; border: 1pt none windowtext; padding: 0in;"><span style="font-size: 14pt;">OpenModelica 1.20.0-dev.beta2 is now released.&nbsp;</span><br /> </span></strong><strong></strong></p>
 <p>&nbsp;</p>

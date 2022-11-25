@@ -1,5 +1,7 @@
 ---
 title: "December 23, 2021: OpenModelica 1.18.1 released!"
+date: "2021-12-23"
+tags: [news]
 ---
 <p><strong><span style="font-family: Arial, sans-serif; color: black; border: 1pt none windowtext; padding: 0in;"><span style="font-size: 14pt;">OpenModelica 1.18.1 is now released.&nbsp;</span><br /> </span></strong><strong></strong></p>
 <p>&nbsp;</p>

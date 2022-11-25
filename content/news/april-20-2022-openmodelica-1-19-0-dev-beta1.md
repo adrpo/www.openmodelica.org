@@ -1,5 +1,7 @@
 ---
 title: "April 20, 2022: OpenModelica 1.19.0-dev.beta1 released! "
+date: "2022-04-20"
+tags: [news]
 ---
 <p><strong><span style="font-family: Arial, sans-serif; color: black; border: 1pt none windowtext; padding: 0in;"><span style="font-size: 14pt;">OpenModelica 1.19.0-dev.beta1 is now released.&nbsp;</span><br /> </span></strong><strong></strong></p>
 <p>&nbsp;</p>

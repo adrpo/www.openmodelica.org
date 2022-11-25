@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hugo.openmodelica.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'OpenModelica'
 theme = 'openmodelica'
 
 [markup]
