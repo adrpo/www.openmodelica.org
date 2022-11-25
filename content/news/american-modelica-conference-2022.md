@@ -1,5 +1,8 @@
 ---
 title: "⭐ American Modelica Conference 2022 - deadline extended!"
+date: "2022-05-01"
+tags: [news]
+rss_ignore: true
 ---
 <p>&nbsp;</p>
 <p><span style="font-size: 12pt;">Please consider submitting a paper to American Modelica Conference 2022! The deadline for paper sumbissions has been extended to 2022-05-23.<br /></span></p>
