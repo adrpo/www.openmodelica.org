@@ -1,5 +1,5 @@
 # Cannot be parametrized in Jenkins...
-FROM ubuntu:bionic
+FROM ubuntu
 
 # We don't know the uid of the user who will build, so make the /cache directories world writable
 RUN export DEBIAN_FRONTEND=noninteractive && \
