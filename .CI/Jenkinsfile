@@ -1,3 +1,6 @@
+def isPR() {
+  return env.CHANGE_ID ? true : false
+}
 pipeline {
   agent none
   options {
@@ -6,9 +9,6 @@ pipeline {
   }
   environment {
     LC_ALL = 'C.UTF-8'
-  }
-  def isPR() {
-    return env.CHANGE_ID ? true : false
   }
   stages {
     stage('build') {
