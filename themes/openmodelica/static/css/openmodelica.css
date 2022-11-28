@@ -123,3 +123,16 @@ ja-header {
 .footnotes {
     font-size: 8pt;
 }
+
+figure {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+    font-size: 10pt;
+}
