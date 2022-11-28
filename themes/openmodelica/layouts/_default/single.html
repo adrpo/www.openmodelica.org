@@ -1,4 +1,10 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
+{{ with .PublishDate }}
+<div id="publishDate">Published {{ .Format "2006-01-02" }}</div>
+{{ end }}
+{{ with .ExpiryDate }}
+<div id="publishDate">Expires {{ .Format "2006-01-02" }}</div>
+{{ end }}
 {{ .Content }}
 {{ end }}

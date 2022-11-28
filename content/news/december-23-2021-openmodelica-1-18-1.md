@@ -1,5 +1,5 @@
 ---
-title: "December 23, 2021: OpenModelica 1.18.1 released!"
+title: "OpenModelica 1.18.1 released!"
 date: "2021-12-23"
 tags: [news]
 ---

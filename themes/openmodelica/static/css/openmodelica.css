@@ -136,3 +136,67 @@ figure figcaption {
     text-align: center;
     font-size: 10pt;
 }
+
+h1 {
+    margin-top: 10pt;
+    margin-bottom: 0;
+}
+
+.rss-image {
+  height: 1em;
+}
+
+#publishDate {
+    font-size: 8pt;
+}
+
+#frontpagecolumns {
+  display: table;
+}
+
+#maincontent {
+  display: inline-block;
+  float: left;
+  width: 70%;
+}
+ 
+#latestnews {
+  display: inline-block;
+  float: left;
+  width: 30%;
+  margin-top: 10pt;
+}
+
+#latestnewsinternal {
+  border: 1px solid gray;
+  margin-left: 10pt;
+  padding: 10pt;
+  padding-top: 0;
+}
+
+#newslist {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.newsitem {
+}
+
+#frontpagecolumns:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  #maincontent {
+    width: 100%;
+  }
+  #maincontent {
+    width: 100%;
+  }
+  #latestnews {
+    width: 100%;
+  }
+}

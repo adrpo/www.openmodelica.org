@@ -24,6 +24,8 @@ To get advice how to make existing Modelica libraries work in OpenModelica, see 
 
 For systems engineering with requirement traceability and verification, see [ModelicaML](/free-and-open-source-software/modelicaml/).
 
+<iframe width="30%" height="128" src="https://www.youtube.com/embed/OCTAeLYtClI" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="30%" height="128" src="https://www.youtube.com/embed/v7YEd_Ow624" frameborder="0" allowfullscreen></iframe>
+
 [^1]: This page references Modelica®, which is a registered trademark of [Modelica Association](https://modelica.org).
-
-

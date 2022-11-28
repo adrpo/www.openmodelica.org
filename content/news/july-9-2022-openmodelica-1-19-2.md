@@ -1,5 +1,5 @@
 ---
-title: "⚡ July 9, 2022: OpenModelica 1.19.2 released!"
+title: "OpenModelica 1.19.2 released!"
 date: "2022-07-09"
 tags: [news]
 ---

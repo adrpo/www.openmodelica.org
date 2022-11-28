@@ -1,5 +1,5 @@
 ---
-title: "July 12, 2021: OpenModelica 1.18.0-dev.beta1 released!"
+title: "OpenModelica 1.18.0-dev.beta1 released!"
 date: "2021-07-12"
 tags: [news]
 ---
