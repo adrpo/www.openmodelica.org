@@ -132,10 +132,6 @@ ja-header {
     color: #888888;
 }
 
-.footnotes {
-    font-size: 8pt;
-}
-
 figure {
     display: inline-block;
     margin-left: 20px;
@@ -193,6 +189,28 @@ h1 {
 }
 
 .newsitem {
+}
+
+section[role=doc-endnotes] {
+    counter-reset: item;
+    padding: 0;
+    font-size: 10pt;
+    list-style:none;
+}
+
+li[role=doc-endnote]:before {
+    content: counter(item) "";
+    counter-increment: item;
+    position: absolute;
+    vertical-align:super;
+    font-size: 7pt;
+    left: 1em;
+}
+
+li[role=doc-endnote] {
+    position: relative;
+    display: block;
+    padding: .0em .0em .0em 1.5em;
 }
 
 #frontpagecolumns:after {
