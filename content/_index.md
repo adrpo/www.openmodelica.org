@@ -24,6 +24,8 @@ To get advice how to make existing Modelica libraries work in OpenModelica, see 
 
 For systems engineering with requirement traceability and verification, see [ModelicaML](/free-and-open-source-software/modelicaml/).
 
+OpenModelica provides [library coverage reports](https://github.com/OpenModelica/OpenModelica/wiki/Library-Coverage-Testing) of open-source Modelica libraries showing which libraries work well with OpenModelica and how the support improved over time.
+
 <iframe width="30%" height="128" src="https://www.youtube.com/embed/OCTAeLYtClI" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="30%" height="128" src="https://www.youtube.com/embed/v7YEd_Ow624" frameborder="0" allowfullscreen></iframe>
