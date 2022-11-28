@@ -1,5 +1,6 @@
 ---
 title: "Open Source Modelica Consortium"
+weight: 1
 ---
 <address>
 <p><a href="/home/consortium"><img src="/images/stories/modelica/consortium.jpg" alt="Consortium" width="136" height="71" border="0" align="left" /></a></p>

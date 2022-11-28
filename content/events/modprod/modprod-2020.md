@@ -1,5 +1,7 @@
 ---
-title: "MODPROD 2020 program"
+title: "MODPROD workshop 2020"
+date: 2020-02-04
+external_url: https://modprodblog.wordpress.com/modprod-2020/
 ---
 <p style="text-align: center;"><span style="font-size: 14pt;">Proceedings of the 14th MODPROD Workshop 2020, February 4-5, Linköping University</span></p>
 <p style="text-align: center;"><span style="font-size: 14pt;"></span><span style="font-size: 14pt;">”Digital Meets Reality”</span></p>

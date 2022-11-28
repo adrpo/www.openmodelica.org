@@ -1,8 +1,9 @@
 ---
-title: "MODPROD workshop 2021, Feb 3-4"
+title: "MODPROD workshop 2021"
 date: 2021-02-03
 tags: [news]
 external_url: https://modprodblog.wordpress.com/modprod-2021/
+conference_end_date: 2021-02-04
 ---
 <p style="text-align: center;"><span style="font-size: 14pt;">15th MODPROD Workshop on Model-Based&nbsp;Cyber-physical Product Development</span></p>
 <p style="text-align: center;"><span style="font-size: 14pt;">&nbsp;Linköping University, February 3-4, 2021</span></p>

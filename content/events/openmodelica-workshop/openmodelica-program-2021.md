@@ -1,5 +1,5 @@
 ---
-title: "OpenModelica Annual Workshop 2021, Feb 2"
+title: "OpenModelica Annual Workshop 2021"
 date: 2021-02-02
 tags: [news]
 ---

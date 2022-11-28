@@ -1,5 +1,7 @@
 ---
-title: "ModProd 2018 program"
+title: "MODPROD workshop 2018"
+date: 2018-02-06
+external_url: https://modprodblog.wordpress.com/modprod-2018/
 ---
 <p style="text-align: center;"><span style="font-size: 14pt;">Proceedings of the 12th MODPROD Workshop 2018, February 6-7,&nbsp;</span><span style="font-size: 14pt;">Linköping University</span></p>
 <p style="text-align: center;"><span style="font-size: 14pt;"></span><span style="font-size: 14pt;">”Cyber-Physical Systems of Systems”</span></p>

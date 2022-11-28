@@ -1,5 +1,7 @@
 ---
-title: "ModProd 2015"
+title: "MODPROD workshop 2015"
+date: 2015-02-03
+external_url: https://modprodblog.wordpress.com/modprod-2015-2/
 ---
 <h2 align="center"><a href="http://www.modprod.liu.se/modprod-2015?l=en"><strong>9th MODPROD Workshop on Model-Based Product Development</strong></a></h2>
 <h2 align="center">Linköping University&nbsp;&nbsp; –&nbsp; February 3-4, 2015</h2>

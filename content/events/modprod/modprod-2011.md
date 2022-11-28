@@ -1,5 +1,7 @@
 ---
-title: "MODPROD 2011"
+title: "MODPROD workshop 2011"
+date: 2011-02-08
+external_url: https://modprodblog.wordpress.com/modprod-2011/
 ---
 <h2 style="margin-left: 40px; text-align: left;"><strong>5th MODPROD Workshop on Model-Based Product </strong><strong>Development </strong></h2>
 <p style="margin-top: 0.17in; margin-bottom: 0.08in; text-align: left;"><strong>Linköping University – </strong><span style="font-weight: normal;">www.modprod.liu.se</span><strong> – February 8-9, 2011</strong></p>

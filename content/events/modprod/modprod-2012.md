@@ -1,5 +1,7 @@
 ---
-title: "MODPROD 2012"
+title: "MODPROD workshop 2012"
+date: 2012-02-07
+external_url: https://modprodblog.wordpress.com/modprod-2012/
 ---
 <h3>6th MODPROD Workshop on Model-Based Product Development</h3>
 <h4>Linköping University –www.modprod.liu.se – February 7-8, 2012</h4>

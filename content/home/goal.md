@@ -1,7 +1,8 @@
 ---
-title: "The goal"
+title: "Goal"
+weight: 2
 ---
-<p>The main goals of the project is to:</p>
+<p>The main goals of the project are to:</p>
 <!--      
 <ul class="arrow">
 -->

@@ -1,5 +1,7 @@
 ---
-title: "ModProd 2016"
+title: "MODPROD workshop 2016"
+date: 2016-02-03
+external_url: https://modprodblog.wordpress.com/modprod-2016/
 ---
 <p style="text-align: center;"><span style="font-size: 14pt;">The 10th MODPROD Workshop 2016, February 2-3 at Linköping University</span></p>
 <p style="text-align: center;"><span style="font-size: 14pt;">”Model-Based Product Development”</span></p>
