@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 ---
-OPENMODELICA is an open-source Modelica[^1]-based modeling and simulation environment intended for industrial and academic usage.
+OPENMODELICA is an open-source Modelica-based[^1] modeling and simulation environment intended for industrial and academic usage.
 Its long-term development is supported by a non-profit organization – the [Open Source Modelica Consortium (OSMC)](/home/consortium).
 An overview journal [paper](/research/the-openmodelica-integrated-environment-for-modeling-simulation-and-model-based-development) is available and [slides](images/M_images/Modelica-OpenModelica-slides.pdf) about Modelica and OpenModelica.
 
