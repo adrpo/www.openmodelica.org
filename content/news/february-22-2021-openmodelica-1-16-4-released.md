@@ -1,5 +1,7 @@
 ---
-title: "February 22, 2021: OpenModelica 1.16.4 released!"
+title: "OpenModelica 1.16.4 released!"
+date: 2021-02-22
+tags: [news]
 ---
 <p><strong><span style="font-family: Arial, sans-serif; color: black; border: 1pt none windowtext; padding: 0in;">OpenModelica 1.16.4 is now released.</span></strong></p>
 <p>This is a <a href="https://trac.openmodelica.org/OpenModelica/query?milestone=1.16.4&amp;status=closed">bug fix release</a>.</p>

@@ -1,5 +1,7 @@
 ---
-title: "⭐ OpenModelica Annual Workshop 2022 - 31 January! Register for free to join!"
+title: "OpenModelica Annual Workshop 2022 - Jan 31"
+date: 2022-01-31
+tags: [news]
 ---
 <p style="text-align: justify;"><span style="color: #993366; font-size: 12pt;"><span size="1" style="font-size: xx-small;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><strong style="color: #993366; font-size: 12pt;">Final Program </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;"><strong style="color: #993366; font-size: 12pt;">OpenModelica Annual Workshop January 31, 2022</strong></p>

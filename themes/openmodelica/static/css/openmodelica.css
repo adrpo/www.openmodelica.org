@@ -158,7 +158,7 @@ h1 {
   height: 1em;
 }
 
-#publishDate {
+.publishDate {
     font-size: 8pt;
 }
 

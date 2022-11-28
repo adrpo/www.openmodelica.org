@@ -1,5 +1,7 @@
 ---
-title: "OpenModelica Annual Workshop 2020"
+title: "OpenModelica Annual Workshop 2020, Feb 3"
+date: 2020-02-03
+tags: [news]
 ---
 <p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><strong style="color: #993366; font-size: 12pt;">OpenModelica Annual Workshop February 3, 2020</strong></p>
 <p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="font-size: 12pt;"><span lang="EN-US"></span>&nbsp;<span style="color: #993366;"><strong>Supported by</strong></span></span></p>

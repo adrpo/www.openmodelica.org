@@ -1,5 +1,7 @@
 ---
-title: "OpenModelica Annual Workshop 2021"
+title: "OpenModelica Annual Workshop 2021, Feb 2"
+date: 2021-02-02
+tags: [news]
 ---
 <p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;"><strong style="color: #993366; font-size: 12pt;">OpenModelica Annual Workshop February 2, 2021</strong></p>
 <p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;"><span style="font-size: 12pt;">&nbsp;&nbsp;<span style="color: #993366;"><strong>Supported by</strong></span></span></p>

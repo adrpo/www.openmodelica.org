@@ -1,5 +1,7 @@
 ---
-title: "November 17, 2020: OpenModelica 1.16.1 released!"
+title: "OpenModelica 1.16.1 released!"
+date: 2020-11-17
+tags: [news]
 ---
 <p><strong><span style="font-family: Arial, sans-serif; color: black; border: 1pt none windowtext; padding: 0in;">OpenModelica 1.16.1 is now released.</span></strong></p>
 <p>This is a <a href="https://trac.openmodelica.org/OpenModelica/query?milestone=1.16.1&amp;status=closed">bug fix release</a>.</p>
