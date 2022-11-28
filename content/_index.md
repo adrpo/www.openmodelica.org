@@ -1,19 +1,29 @@
 ---
 title: "Introduction"
 ---
-<p><span style="line-height: 1.8;">OPENMODELICA is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage. Its long-term development is supported by a non-profit organization – the </span><a href="/home/consortium" style="line-height: 1.8;">Open Source Modelica Consortium (OSMC)</a><span style="line-height: 1.8;">. An overview journal&nbsp;<a href="/research/the-openmodelica-integrated-environment-for-modeling-simulation-and-model-based-development">paper</a> is available and <a href="images/M_images/Modelica-OpenModelica-slides.pdf">slides</a> about Modelica and OpenModelica.</span></p>
-<p>The goal with the OpenModelica effort is to create a comprehensive Open Source Modelica modeling, compilation and simulation environment based on free software distributed in binary and source code form for research, teaching, and industrial usage. We invite researchers and students, or any interested developer to participate in the project and cooperate around OpenModelica, tools, and applications.</p>
-<p><a href="images/om.jpg" target="_blank"><img title="omsystem" src="images/om.jpg" alt="omsystem" width="300" height="202" border="0" /></a></p>
-<p>Join the OpenModelicaInterest <a href="/useresresources/mailing-list">mailing list</a>&nbsp;to get information about new releases.<br />Help us: get the latest <a href="/developersresources/source-code">source code or nightly-build</a> and report <a href="https://trac.openmodelica.org/OpenModelica">bugs</a>.</p>
-<div class="ja-pathway-text" style="text-align: left;"><span>To learn about Modelica, read a <a href="/research/booksproceedings">book</a> or a <a href="images/M_images/200204-ModelicaTutorial-slides-PeterFritzson-AdrianPop-MODPROD2020.pdf" target="_blank">tutorial</a> about <a href="http://www.modelica.org">Modelica</a><span style="color: #000000; font-size: x-small;">®</span>.</span></div>
-<div class="ja-pathway-text" style="text-align: left;">Interactive step-by-step beginners Modelica <a href="http://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&amp;search_language=English">on-line spoken tutorials</a></div>
-<div class="ja-pathway-text" style="text-align: left;">Interactive <a href="http://omwebbook.openmodelica.org/">OMWebbook</a> with examples of Modelica textual modeling</div>
-<div class="ja-pathway-text" style="text-align: left;">and <a href="http://om.fossee.in/textbook-companion/completed-books">textbook companions</a> with application OpenModelica exercises</div>
-<div class="ja-pathway-text" style="text-align: left;">A <a href="https://github.com/OpenModelica/jupyter-openmodelica">Jupyter notebook</a> Modelica mode, available in OpenModelica.</div>
-<div>&nbsp;</div>
-<div class="ja-pathway-text">To get advice how to make existing Modelica libraries work in OpenModelica, see <a href="doc/OpenModelicaUsersGuide/latest/porting.html">Porting.</a></div>
-<p><span>For systems engineering with requirement traceability and verification, see <a href="/free-and-open-source-software/modelicaml/" target="_blank">ModelicaML</a>.</span><br /><span style="font-family: Arial, sans-serif; line-height: normal;"><span style="font-size: xx-small; font-family: Tahoma, Helvetica, Arial, sans-serif;">In the text above the following trademark is&nbsp;referenced: Modelica® is a registered trademark of Modelica Association</span><span style="font-size: 11pt;">.</span></span></p>
-<div id="_mcePaste" class="mcePaste" data-mce-bogus="1" style="position: absolute; left: 0px; top: 309px; width: 1px; height: 1px; overflow: hidden;">
-<p style="margin-top: 0px; margin-bottom: 0px; font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 16px;">A Jupyter notebook Modelica mode, available in OpenModelica.</p>
-<p>&nbsp;</p>
-</div>
+OPENMODELICA is an open-source Modelica[^1]-based modeling and simulation environment intended for industrial and academic usage.
+Its long-term development is supported by a non-profit organization – the [Open Source Modelica Consortium (OSMC)](/home/consortium).
+An overview journal [paper](/research/the-openmodelica-integrated-environment-for-modeling-simulation-and-model-based-development) is available and [slides](images/M_images/Modelica-OpenModelica-slides.pdf) about Modelica and OpenModelica.
+
+The goal with the OpenModelica effort is to create a comprehensive Open Source Modelica modeling, compilation and simulation environment based on free software distributed in binary and source code form for research, teaching, and industrial usage.
+We invite researchers and students, or any interested developer to participate in the project and cooperate around OpenModelica, tools, and applications.
+
+<img width="300" style="float: left; margin-right: 10px" src="/images/om.jpg" />
+
+Join the OpenModelicaInterest [mailing list](/useresresources/mailing-list) to get information about new releases.
+
+Help us: get the latest [source code or nightly-build](/developersresources/source-code) and report [bugs](https://trac.openmodelica.org/OpenModelica).
+
+To learn about Modelica, read a [book](/research/booksproceedings) or a [tutorial](images/M_images/200204-ModelicaTutorial-slides-PeterFritzson-AdrianPop-MODPROD2020.pdf) about [Modelica](http://www.modelica.org).
+
+Interactive step-by-step beginners Modelica [on-line spoken tutorials](http://spoken-tutorial.org/tutorial-search/?search_foss=OpenModelica&search_language=English)
+Interactive [OMWebbook](http://omwebbook.openmodelica.org/) with examples of Modelica textual modeling and [textbook companions](http://om.fossee.in/textbook-companion/completed-books) with application OpenModelica exercises.
+A [Jupyter notebook](https://github.com/OpenModelica/jupyter-openmodelica) Modelica mode, available in OpenModelica.
+
+To get advice how to make existing Modelica libraries work in OpenModelica, see [Porting.](doc/OpenModelicaUsersGuide/latest/porting.html)
+
+For systems engineering with requirement traceability and verification, see [ModelicaML](/free-and-open-source-software/modelicaml/).
+
+[^1]: This page references Modelica®, which is a registered trademark of [Modelica Association](https://modelica.org).
+
+
