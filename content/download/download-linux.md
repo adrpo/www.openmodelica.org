@@ -1,5 +1,7 @@
 ---
 title: "Download Linux"
+date: 2021-12-18
+donate: true
 ---
 <h2><span style="font-family: 'andale mono', times; font-size: 16px;">The OpenModelica Linux released software is classified according to the table below:</span></h2>
 <table style="width: 956px; height: 328px;">
@@ -75,5 +77,3 @@ sudo apt install libsundials-kinsol1 libqtwebkit-dev # Might be needed depending
 <p><span style="font-size: 10pt;">If you can't use deb packages at all, we recommended installing OpenModelica from <a href="/developersresources/source-code">source code</a>.</span></p>
 <p><span style="font-size: 10pt;">If you have any questions about the installation, feel free to ask either <a href="http://www.ida.liu.se/%7Emarsj/">Martin</a> or the <a href="https://trac.openmodelica.org/OpenModelica">bug tracker</a>.</span></p>
 <p><span style="font-size: 10pt;">OpenModelica includes SystemDynamics library with World modeling. <a href="/images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf">Instructions for systemdynamics World3 simulations.</a></span></p>
-<h1><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px;">Instructions updated 2021-12-18</span></h1>
-<p><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12px;">{loadposition in-page}</span></p>

@@ -1,5 +1,6 @@
 ---
 title: "Download Windows"
+donate: true
 ---
 <h4>&nbsp;</h4>
 <h4>
@@ -48,8 +49,3 @@ title: "Download Windows"
 <h4><span style="font-size: 10pt;">Release notes for all releases are available in our <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes">Trac system</a>. An overview of the plan for future releases is available in the <a href="https://trac.openmodelica.org/OpenModelica/roadmap">roadmap</a>.<br /></span></h4>
 <h4><span style="font-size: 10pt;">OpenModelica includes SystemDynamics library with World modeling. <a href="/images/docs/SystemDynamics-World3-Simulation-with-OpenModelica.pdf" target="_blank">Instructions for SystemDynamics World3 simulations</a>.</span></h4>
 <p><span style="font-size: 10pt;">All previous OpenModelica releases are available in our <a href="https://build.openmodelica.org/omc/builds/windows/releases/">repository</a>.</span></p>
-<p>{loadposition in-page}</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>

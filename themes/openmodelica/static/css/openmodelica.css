@@ -201,6 +201,15 @@ h1 {
   clear: both;
 }
 
+#osdonatestatic {
+    margin: auto;
+    text-align: center;
+    border: 1px dotted black;
+    width:25em;
+    margin-bottom: 5pt;
+    padding: 3pt;
+}
+
 @media screen and (max-width: 600px) {
   #maincontent {
     width: 100%;
