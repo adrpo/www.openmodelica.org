@@ -21,18 +21,16 @@ a, a:visited {
     color: #1B57B1;
 }
 
-#om-logo-h1 {
-    margin: 0;
-}
-
 #nav-container {
 	margin: 0 auto;
+    width: 100%;
+    text-align: center;
 }
 
 nav {
-	margin: 0px 0;
+    display: block;
+    margin: auto;
 	background-color: #333333;
-    width: 960px;
 }
 
 nav ul {
@@ -45,14 +43,15 @@ nav ul {
 nav ul li {
 	display:inline-block;
 	background-color: #333333;
-	}
+    text-align: left;
+}
 
 nav a {
 	display:block;
 	padding:0 8pt;	
 	color:#FFF;
 	font-size:15pt;
-	line-height: 40pt;
+	line-height: 30pt;
 	text-decoration:none;
 }
 
@@ -68,7 +67,7 @@ nav a:hover {
 nav ul ul {
 	display: none;
 	position: absolute; 
-	top: 40pt; /* the height of the main nav */
+	top: 30pt; /* the height of the main nav */
 }
 	
 /* Display Dropdowns on Hover */
@@ -78,7 +77,7 @@ nav ul li:hover > ul {
 	
 /* First Tier Dropdown */
 nav ul ul li {
-	width:240pt;
+	width:280pt;
 	float:none;
 	display:list-item;
 	position: relative;
@@ -87,9 +86,9 @@ nav ul ul li {
 /* Second, Third and more Tiers	*/
 nav ul ul ul li {
 	position: relative;
-    width:300pt;
-	top:-40pt; 
-	left:240pt;
+    width:250pt;
+	top:-30pt; 
+	left:-250pt;
 }
 
 	
@@ -97,34 +96,13 @@ nav ul ul ul li {
 li > a:after { content:  ''; }
 li > a:only-child:after { content: ''; }
 
-ja-header {
-    height: 100px;
-    z-index: 999;
+#om-logo img {
+    display:block;
+    margin: auto;
+    height: 30pt;
+    margin-top: 3pt;
 }
-#ja-header .main {
-    height: 100px;
-    position: relative;
-    background-image: url(/images/stories/topbar/top.jpg);
-    background-repeat: no-repeat;
-    background-position: left top;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    outline: 0;
-}
-#om-logo {
-    background: url(/images/logo.png) no-repeat;
-    display: block;
-    height: 75px;
-    width: 450px;
-    position: absolute;
-    margin: 0;
-    padding: 0;
-    top: 15px;
-}
-#om-logo span {
-    display:none;
-}
+
 #ja-footer {
     background: #333333;
     border-bottom: 3px solid #111111;
@@ -152,43 +130,11 @@ h1 {
 
 .rss-image {
   height: 1em;
+  width: 1em;
 }
 
 .publishDate {
     font-size: 8pt;
-}
-
-#frontpagecolumns {
-  display: table;
-}
-
-#maincontent {
-  display: inline-block;
-  float: left;
-  width: 70%;
-}
- 
-#latestnews {
-  display: inline-block;
-  float: left;
-  width: 30%;
-  margin-top: 10pt;
-}
-
-#latestnewsinternal {
-  border: 1px solid gray;
-  margin-left: 10pt;
-  padding: 10pt;
-  padding-top: 0;
-}
-
-#newslist {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.newsitem {
 }
 
 section[role=doc-endnotes] {
@@ -228,7 +174,40 @@ li[role=doc-endnote] {
     padding: 3pt;
 }
 
-@media screen and (max-width: 600px) {
+#frontpagecolumns {
+    display: table;
+}
+
+#maincontent {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+
+#latestnews {
+    display: inline-block;
+    width: 30%;
+    float: left;
+    margin-top: 10pt;
+}
+
+#latestnewsinternal {
+    border: 1px solid gray;
+    margin-left: 10pt;
+    padding: 10pt;
+    padding-top: 0;
+}
+
+#newslist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.newsitem {
+}
+    
+@media screen and (max-width: 800px) {
   #maincontent {
     width: 100%;
   }
@@ -236,6 +215,25 @@ li[role=doc-endnote] {
     width: 100%;
   }
   #latestnews {
-    width: 100%;
+    width: 75%;
+    margin-left: 10%;
+  }
+  #om-logo img {
+    height: 20pt;
+  }
+  nav a {
+    font-size:12pt;
+	line-height: 18pt;
+  }
+  nav ul ul {
+	top: 18pt;
+  }
+  nav ul ul li {
+	width:200pt;
+  }
+  nav ul ul ul li {
+    width:180pt;
+	top:-18pt; 
+	left:-180pt;
   }
 }
