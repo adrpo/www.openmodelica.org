@@ -13,15 +13,6 @@ title: "Download Mac"
 <p>You can also compile OpenModelica from source using&nbsp;<a href="http://macports.org">MacPorts</a>&nbsp;(like the binary builds). We have several OpenModelica users on MacOS that managed to do that also with more recent versions of OpenModelica. However, that requires some serious experties, and may or may not work depending on various factors, e.g. which version of MacOS and which version of OpenModelica you actually try to use. If you are one such advanced users, and you are willing to contribute some time and effort to restart the release of MacOS builds, please contact us at openmodelica(at)ida.liu.se.</p>
 <p><a href="#homebrew">Homebrew</a>&nbsp;may also be possible.</p>
 <p>For fewer potential issues at the cost of a longer time to install, you can use the source package in our MacPorts repository. The following instructions were tested on OSX El Capitan. After setting up a&nbsp;<a href="http://macports.org">MacPorts</a> installation, run (as root):</p>
-<pre><em>echo rsync://build.openmodelica.org/macports/ &gt;&gt; /opt/local/etc/macports/sources.conf # assuming you installed into /opt/local</em><em><br />port selfupdate
-port install gcc44 # With the addition of llvm/clang as the default compiler in XCode, many ports now fail to build unless you force GCC to be used. Newer MacOS versions may require more recent gfortran compilers available<br />port install openmodelica-devel +libraries +clang # Or skip choosing compiler here, if it gives you problems. port variant openmodelica-devel lists many alternatives is building with one compiler gives you trouble<span style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-style: normal; white-space: normal; font-size: 12px; color: #333333;"><br /></span></em><em>port install openmodelica-devel&nbsp;</em><em style="line-height: 1.3em;">+libraries </em><em style="line-height: 1.3em;">-qt # If you only want the OpenModelica core
-</em><em style="line-height: 1.3em;">port install openmodelica-devel +rml # If you want to compile using rml-mmc instead of bootstrapping (slower and requires the rml-mmc dependency; this used to be the default)</em></pre>
-<p>You can also install openmodelica-release for the latest point-release or openmodelica for the latest release marked stable.</p>
-<p>To start using the OpenModelica, launch one of the executables or start reading documentation. The following command should give a hint on where to start looking.</p>
-<pre><em>port contents openmodelica-devel | egrep "/bin|app$|pdf$|txt$" | grep -v omlibrary</em></pre>
-<p>To update OpenModelica once it has been installed:</p>
-<pre>port selfupdate<br />port upgrade openmodelica-devel</pre>
-<p><a></a>To install using homebrew from source should be possible with something like the following commands:</p>
 
 ```bash
 # assuming you installed into /opt/local
@@ -40,7 +31,35 @@ port install openmodelica-devel +libraries -qt
 port install openmodelica-devel +rml
 ```
 
-<p style="padding-left: 30px;">brew install omniORB<br /><span style="line-height: 1.3em;">brew install cmake<br /></span><span style="line-height: 1.3em;">brew install homebrew/science/lp_solve<br /></span><span style="line-height: 1.3em;">brew install gettext<br /></span><span style="line-height: 1.3em;">brew install libtool<br /></span><span style="line-height: 1.3em;">PATH=$PATH:/usr/local/Cellar/gettext/0.18.3.1/bin/<br /></span>./configure <span style="line-height: 19.7999992370605px;">LDFLAGS="-L/usr/local/opt/gettext/lib -L/usr/local/Cellar/lp_solve/</span><span style="line-height: 19.7999992370605px;">5.5.2.0/lib" CFLAGS="-I/usr/local/opt/gettext/include&nbsp;</span><span style="line-height: 19.7999992370605px;">-I/usr/local/Cellar/lp_solve/5.5.2.0/include"&nbsp;</span>&nbsp;--without-omniORB&nbsp;--disable-omnotebook --disable-modelica3d --without-paradiseo</p>
-<p>Note: OMNotebook does not work properly on OSX because the qt event system is different on OSX than on Linux/Windows, making the application crash when loading too large notebooks.</p>
-<p>If you have any questions about the installation, feel free to ask on&nbsp;the&nbsp;<a href="http://openmodelica.org/" style="color: #1b57b1; text-decoration: none; font-weight: normal;">forums</a>.</p>
-<p>OpenModelica includes SystemDynamics library with World modeling. Instructions: <a href="/images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf">Instructions for systemdynamics World3 simulations.</a></p>
+You can also install openmodelica-release for the latest point-release or openmodelica for the latest release marked stable.
+
+To start using the OpenModelica, launch one of the executables or start reading documentation. The following command should give a hint on where to start looking.
+
+```bash
+port contents openmodelica-devel | egrep "/bin|app$|pdf$|txt$" | grep -v omlibrary
+```
+
+To update OpenModelica once it has been installed:
+
+```bash
+port selfupdate
+port upgrade openmodelica-devel
+```
+
+<p><a></a>To install using homebrew from source should be possible with something like the following commands:</p>
+
+```bash
+brew install omniORB
+brew install cmake
+brew install homebrew/science/lp_solve
+brew install gettext
+brew install libtool
+PATH=$PATH:/usr/local/Cellar/gettext/0.18.3.1/bin/
+./configure LDFLAGS="-L/usr/local/opt/gettext/lib -L/usr/local/Cellar/lp_solve/5.5.2.0/lib" CFLAGS="-I/usr/local/opt/gettext/include -I/usr/local/Cellar/lp_solve/5.5.2.0/include"  --without-omniORB --disable-omnotebook --disable-modelica3d --without-paradiseo
+```
+
+Note: OMNotebook does not work properly on OSX because the qt event system is different on OSX than on Linux/Windows, making the application crash when loading too large notebooks.
+
+If you have any questions about the installation, feel free to ask on&nbsp;the&nbsp;<a href="http://openmodelica.org/" style="color: #1b57b1; text-decoration: none; font-weight: normal;">forums</a>.
+
+OpenModelica includes SystemDynamics library with World modeling. Instructions: <a href="/images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf">Instructions for systemdynamics World3 simulations.</a>

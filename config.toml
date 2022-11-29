@@ -3,8 +3,17 @@ languageCode = 'en-us'
 title = 'OpenModelica'
 theme = 'openmodelica'
 
+[params]
+  current_version = {release = '1.19.2', stable = '1.20.0-dev.beta2', nightly = '1.21.0-dev'}
+  current_branch = {release = 'maintenance/v1.19', stable = 'maintenance/v1.20', nightly = 'master'}
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       # Raw HTML is part of the Joomla export
       unsafe = true
+
+[blackfriday]
+extensions = [
+    "DefinitionLists",
+]

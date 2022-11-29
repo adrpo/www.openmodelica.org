@@ -185,10 +185,10 @@ li[role=doc-endnote] {
 }
 
 #latestnews {
-    display: inline-block;
     width: 30%;
     float: left;
     margin-top: 10pt;
+    margin-bottom: 10pt;
 }
 
 #latestnewsinternal {
@@ -205,6 +205,36 @@ li[role=doc-endnote] {
 }
 
 .newsitem {
+}
+
+div.highlight {
+    margin-left: 15pt;
+    margin-right: 15pt;
+}
+div.highlight pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    padding: 5pt;
+}
+
+dl {
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0
+}
+dt {
+    float: left;
+    width: 20%;
+    padding-right: 0.75em;
+    margin: 0.5em 0 0.5em 0;
+    font-weight: bold;
+}
+dd {
+    float: left;
+    width: 75%;
+    padding: 0;
+    margin: 0.5em 0 0.5em 0;
 }
     
 @media screen and (max-width: 800px) {
