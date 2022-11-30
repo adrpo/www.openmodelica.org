@@ -1,12 +1,12 @@
 ---
-title: "Books & Proceedings"
+title: "Books"
+aliases: ["research/booksproceedings"]
 ---
-<p>&nbsp;</p>
-<h2>Books</h2>
+
 <table class="plain" border="0">
 <tbody>
 <tr>
-<td valign="top"><a href="http://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X"><img alt="" src="https://www.modelica.org/publications/papers/bookcoverpetfr3.jpg" height="166" border="0" width="114" /></a></td>
+<td valign="top"><a href="http://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X"><img alt="Book cover: Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach" src="/images/cover-fritzson-modelica-3.3.jpg" height="166" border="0" width="114" /></a></td>
 <td>
 <p><strong style="line-height: 1.8;"><span style="font-size: 12pt;"><a href="http://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X">Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach</a></span></strong></p>
 <p style="text-align: justify;"><span style="font-size: 12pt;">Is the most complete text available about the Modelica language and its model component libraries.</span></p>
@@ -29,7 +29,7 @@ title: "Books & Proceedings"
 </td>
 </tr>
 <tr>
-<td valign="top"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/ModelicaBookExcerpts.pdf"><img alt="Book Cover - Peter Fritzson.jpg" src="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/images/ModelicaBook.jpg" height="164" border="0" width="114" /></a></td>
+<td valign="top"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/ModelicaBookExcerpts.pdf"><img alt="Book Cover - Peter Fritzson.jpg" src="/images/cover-fritzson-modelica-2.1.jpg" height="164" border="0" width="114" /></a></td>
 <td>
 <p><strong><span class="link-external" style="font-size: 12pt;">Principles of Object-Oriented Modeling and Simulation with Modelica 2.1</span></strong></p>
 <p><span style="font-size: 12pt;">(November 2003)</span></p>
@@ -109,10 +109,3 @@ title: "Books & Proceedings"
 </tr>
 </tbody>
 </table>
-<h2 style="text-align: justify;"><span style="font-size: 14pt;"></span></h2>
-<h2>&nbsp;</h2>
-<h2>Modelica Conferences</h2>
-<p>&nbsp;</p>
-<p>10th Modelica Conference 2014<br />114 papers from Modelica'2014, at Lund University, Lund, Sweden, March 10-12, 2014<br />9th Modelica Conference 2012<br />80 papers from Modelica'2012, at Veranstaltungsforum Fürstenfeld (Fürstenfeld Convention Center), Munich, Germany, September 3-5, 2012<br />8th Modelica Conference 2011<br />76 papers from Modelica'2011, at the Auditorium Centre of the Technische Universität Dresden, Germany, March 20-22, 2011<br />7th Modelica Conference 2009<br />105 papers from Modelica'2009, at Como, Italy, Sept. 20-22, 2009.<br />6th Modelica Conference 2008<br />82 papers from Modelica'2008, at Bielefeld University, Bielefeld, Germany, March 3-4, 2008.<br />5th Modelica Conference 2006<br />81 papers from Modelica'2006, at arsenal research, Vienna, Austria, September 4-5, 2006.<br />4th Modelica Conference 2005<br />65 papers from Modelica'2005, at Technical University Hamburg-Harburg, Germany, March 7-8, 2005.<br />3rd Modelica Conference 2003<br />42 papers from Modelica'2003, at Linköping University, Sweden, November 3 - 4, 2003.<br />2nd Modelica Conference 2002<br />41 papers from Modelica'2002, at Deutsches Zentrum für Luft- und Raumfahrt (DLR) in Oberpfaffenhofen, Germany, March 18 - 19, 2002.<br />1st Modelica Conference 2000<br />21 papers from Modelica'2000, at Lund University, Lund Sweden, October 23 - 24, 2000.</p>
-<p>&nbsp;<span style="line-height: 1.8;"><br /></span></p>
-<p>&nbsp;</p>
