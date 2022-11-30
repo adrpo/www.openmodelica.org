@@ -17,3 +17,7 @@ The Open Source Modelica Consortium has been active in the following publicly fu
 * 2009-2012 [ITEA2 OPENPROD](https://itea4.org/project/openprod.html) ([webpage](https://www.ida.liu.se/labs/pelab/OpenProd/))
 * 2009-2011 [LiLa](https://www.lila-project.org/) (*e***Content***plus* programme of the European Commission)
 * 2009-2013 SSF/Proviking [HiPO](https://strategiska.se/forskning/genomford-forskning/proviking-2009/projekt/3615/)
+
+## Consortia
+
+* [MOSES](/research/moses)
