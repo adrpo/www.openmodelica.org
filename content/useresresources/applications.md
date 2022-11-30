@@ -1,5 +1,6 @@
 ---
-title: "Application"
+title: "Applications"
+aliases: ["/openmodelicaworld/applications"]
 ---
 
 ## Full Modelica Libraries

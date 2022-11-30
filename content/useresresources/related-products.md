@@ -1,5 +1,6 @@
 ---
 title: "Industrial Products"
+aliases: ["/openmodelicaworld/related-products"]
 ---
 <p><span style="font-family: times new roman,times; font-size: 12pt;">An important benefit of being a company member in the Open Source Modelica Consortium is OEM licensing which allows including the OpenModelica software in commercial products shipped to customers.</span></p>
 <p><span style="font-size: 14pt;"><strong><span style="font-family: 'times new roman', times;">Bosch Rexroth Control Edge Designer and Testing Framework</span></strong></span></p>

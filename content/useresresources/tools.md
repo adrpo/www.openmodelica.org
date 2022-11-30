@@ -1,5 +1,6 @@
 ---
 title: "Tools"
+aliases: ["/openmodelicaworld/tools"]
 ---
 ### OpenModelica Open Source Tools
 
