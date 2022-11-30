@@ -1,5 +1,6 @@
 ---
 title: "MOSES-2016 Workshop"
+aliases: ["/research/moses/moses-2016"]
 ---
 <h2 style="text-align: center;"><span lang="EN-US" style="font-family: verdana, geneva;"><img width="464" height="92" alt="moses" src="/images/moses.png" /></span></h2>
 <h2 style="text-align: center;"><span lang="EN-US" style="font-family: verdana, geneva;">The MOSES-2016 Workshop</span></h2>

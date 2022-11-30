@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ with .PublishDate }}
+<div class="publishDate">Published {{ .Format "2006-01-02" }}</div>
+{{ end }}
+{{ with .ExpiryDate }}
+<div class="publishDate">Expires {{ .Format "2006-01-02" }}</div>
+{{ end }}
+{{ with .Params.external_url }}
+Redirecting to <a href="{{ . }}">{{ . }}</a>
+{{ else }}
+{{ .Content }}
+{{ end }}
+{{ end }}
