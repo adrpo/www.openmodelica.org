@@ -1,5 +1,5 @@
 ---
-title: "MODPROD workshop 2021"
+title: "MODPROD 2021"
 date: 2021-02-03
 tags: [news]
 external_url: https://modprodblog.wordpress.com/modprod-2021/

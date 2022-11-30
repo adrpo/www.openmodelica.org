@@ -1,5 +1,5 @@
 ---
-title: "MODPROD workshop 2010"
+title: "MODPROD 2010"
 date: 2010-02-09
 external_url: https://modprodblog.wordpress.com/modprod-2010/
 ---

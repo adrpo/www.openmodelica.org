@@ -86,9 +86,9 @@ nav ul ul li {
 /* Second, Third and more Tiers	*/
 nav ul ul ul li {
 	position: relative;
-    width:250pt;
+    width:160pt;
 	top:-30pt; 
-	left:-250pt;
+	left:-160pt;
 }
 
 	
@@ -262,8 +262,8 @@ dd {
 	width:200pt;
   }
   nav ul ul ul li {
-    width:180pt;
+    width:130pt;
 	top:-18pt; 
-	left:-180pt;
+	left:-130pt;
   }
 }

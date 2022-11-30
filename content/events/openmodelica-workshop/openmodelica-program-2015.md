@@ -1,5 +1,6 @@
 ---
-title: "Program OpenModelica Annual Workshop 2015"
+title: "OpenModelica 2015"
+date: 2015-02-02
 ---
 <h2 style="text-align: center;">&nbsp;</h2>
 <h2 style="text-align: center;">&nbsp;</h2>

@@ -1,5 +1,6 @@
 ---
-title: "Program OpenModelica Annual Workshop 2019"
+title: "OpenModelica 2019"
+date: 2019-02-04
 ---
 <p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>Preliminary Program</strong></span></p>
 <p class="MsoBodyText" style="margin-right: 266.3pt; line-height: 158%; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>OpenModelica Annual Workshop February 4, 2019</strong></span></p>

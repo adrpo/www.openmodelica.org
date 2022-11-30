@@ -1,5 +1,5 @@
 ---
-title: "OpenModelica Annual Workshop 2020"
+title: "OpenModelica 2020"
 date: 2020-02-03
 tags: [news]
 ---

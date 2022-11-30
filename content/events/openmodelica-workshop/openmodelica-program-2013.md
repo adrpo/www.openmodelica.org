@@ -1,5 +1,6 @@
 ---
-title: "Final Program OpenModelica Annual Workshop 2013"
+title: "OpenModelica 2013"
+date: 2013-02-04
 ---
 <h3 style="text-align: center;">Annual OpenModelica Workshop 2013, February 4</h3>
 <h3 style="text-align: center;">Supported by<br />Open Source Modelica Consortium (OSMC) and Linköping University (LiU)</h3>

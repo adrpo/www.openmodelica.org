@@ -1,5 +1,5 @@
 ---
-title: "OpenModelica Annual Workshop 2022"
+title: "OpenModelica 2022"
 date: 2022-01-31
 tags: [news]
 ---

@@ -1,5 +1,6 @@
 ---
-title: "CFP OpenModelica Workshop February 2014"
+title: "OpenModelica 2014"
+date: 2014-02-03
 ---
 <h3 style="text-align: center;">OpenModelica Annual Workshop February 3, 2014</h3>
 <h3 style="text-align: center;">Supported by</h3>

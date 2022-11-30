@@ -55,51 +55,18 @@
             </li>
             <li class="item-151 deeper parent"><a href="#">Events</a>
                 <ul class="nav-child unstyled small">
-                    <li class="item-229 deeper parent"><a href="https://modprodblog.wordpress.com/">MODPROD</a>
+                    <li class="item-229 deeper parent"><a href="https://modprodblog.wordpress.com/">MODPROD Workshop</a>
                         <ul class="nav-child unstyled small">
                             {{ range where .Site.RegularPages ".CurrentSection.RelPermalink" "=" "/events/modprod/" }}
-                                <li class="item-482"><a href="{{ if .Params.external_url }}{{ .Params.external_url }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a></li>
+                                <li><a href="{{ if .Params.external_url }}{{ .Params.external_url }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a></li>
                             {{ end }}
                         </ul>
                     </li>
-                    <li class="item-175 deeper parent"><a href="/events/openmodelica-workshop">OpenModelica Workshop</a>
+                    <li><a href="#">OpenModelica Workshop</a>
                         <ul class="nav-child unstyled small">
-                            <li class="item-535"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2022-a">OpenModelica
-                                    Program 2022</a></li>
-                            <li class="item-466"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2021">OpenModelica
-                                    Program 2021</a></li>
-                            <li class="item-441"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2020">OpenModelica
-                                    Program 2020</a></li>
-                            <li class="item-423"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2019">OpenModelica
-                                    Program 2019</a></li>
-                            <li class="item-410"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2018">OpenModelica
-                                    Program 2018</a></li>
-                            <li class="item-398"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2017">OpenModelica
-                                    Program 2017</a></li>
-                            <li class="item-371"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2016">Openmodelica
-                                    Program 2016</a></li>
-                            <li class="item-357"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2015">Openmodelica
-                                    Program 2015</a></li>
-                            <li class="item-318"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2014">OpenModelica
-                                    Program 2014</a></li>
-                            <li class="item-228"><a
-                                    href="/events/openmodelica-workshop/openmodelica-program-2013">OpenModelica
-                                    Program 2013</a></li>
-                            <li class="item-181"><a href="/events/openmodelica-workshop/program">OpenModelica Program
-                                    2012</a></li>
-                            <li class="item-215"><a href="/events/openmodelica-workshop/2011">OpenModelica Program
-                                    2011</a></li>
-                            <li class="item-216"><a href="/events/openmodelica-workshop/2010">OpenModelica Program
-                                    2010</a></li>
+                            {{ range where .Site.RegularPages ".CurrentSection.RelPermalink" "=" "/events/openmodelica-workshop/" }}
+                                <li><a href="{{ if .Params.external_url }}{{ .Params.external_url }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a></li>
+                            {{ end }}
                         </ul>
                     </li>
                     <li class="item-220 deeper parent"><a href="/events/othermeetings">Other Events</a></li>
