@@ -1,5 +1,6 @@
 ---
 title: "Efficient Traceable Model-Based Dynamic Optimization – EDOp"
+aliases: ["research/omoptim/edop"]
 ---
 <p>The main goal of this project is to develop a more effective model-based optimization approach by integrating optimization into the model-based development process. Models and optimization algorithms are combined into integrated models.</p>
 <p>To reduce execution time, we will develop improved methods to compile such integrated models to efficient code for new multi-core architectures.</p>
