@@ -4,7 +4,7 @@
     <body>
         {{- partial "header.html" . -}}
         {{- partial "navbar.html" . -}}
-        <div id="content">
+        <div class="space-left{{- block "space-right" . }}{{- end }}" id="content">
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}
