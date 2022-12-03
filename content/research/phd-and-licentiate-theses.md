@@ -1,30 +1,32 @@
 ---
 title: "Doctoral and Licentiate Theses"
 ---
-<h3>2019</h3>
+<h3>2022</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:alachew:lic:2019">1</a>]
+[<a name="openmodelica.org:tinnerholm:lic:2022">1</a>]
 </td>
 <td class="bibtexitem">
-Alachew Mengist.
- <em>Methods and Tools for Efficient Model-Based Development of
-  Cyber-Physical Systems with Emphasis on Model and Tool Integration</em>.
- Licentiate Thesis No 1848, Linköping University, Department of
-  Computer and Information Science, 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:lic:2019">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/lic.diva-156690">DOI</a>&nbsp;]
+John Tinnerholm.
+ <em>A Composable and Extensible Environment for Equation-based
+  Modeling and Simulation of Variable Structured Systems in Modelica</em>.
+ Licentiate Thesis No 1937, Linköping University, Department of
+  Computer and Information Science, 2022.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:lic:2022">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/9789179293680">DOI</a>&nbsp;]
 
 </td>
 </tr>
+</table><h3>2019</h3>
 
+<table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Anders:phd:2019">2</a>]
+[<a name="openmodelica.org:Anders:phd:2019">1</a>]
 </td>
 <td class="bibtexitem">
 Anders Andersson.
@@ -34,6 +36,23 @@ Anders Andersson.
   Computer and Information Science, 2019.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Anders:phd:2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/diss.diva-156537">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:alachew:lic:2019">2</a>]
+</td>
+<td class="bibtexitem">
+Alachew Mengist.
+ <em>Methods and Tools for Efficient Model-Based Development of
+  Cyber-Physical Systems with Emphasis on Model and Tool Integration</em>.
+ Licentiate Thesis No 1848, Linköping University, Department of
+  Computer and Information Science, 2019.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:lic:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/lic.diva-156690">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -81,16 +100,16 @@ Lennart Ochel.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Roland:phd:2015">1</a>]
+[<a name="openmodelica.org:Stavaker:phd:2015">1</a>]
 </td>
 <td class="bibtexitem">
-Roland Samlaus.
- <em>An Integrated Development Environment with Enhanced
-  Domain-Specific Interactive Model Validation</em>.
- Doctoral thesis No 1652, Linköping University, Department of
+Kristian Stavåker.
+ <em>Contributions to Simulation of Modelica Models on Data-Parallel
+  Multi-Core Architectures</em>.
+ Doctoral thesis No 1666, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Roland:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-114838">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Stavaker:phd:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-116338">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -98,24 +117,7 @@ Roland Samlaus.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:sjoelund:phd:2015">2</a>]
-</td>
-<td class="bibtexitem">
-Martin Sjölund.
- <em>Tools and Methods for Analysis, Debugging, and Performance
-  Improvement of Equation-Based Models</em>.
- Doctoral thesis No 1664, Linköping University, Department of
-  Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-116346">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Mahder:lic:2015">3</a>]
+[<a name="openmodelica.org:Mahder:lic:2015">2</a>]
 </td>
 <td class="bibtexitem">
 Mahder Gebremedhin.
@@ -132,16 +134,33 @@ Mahder Gebremedhin.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Stavaker:phd:2015">4</a>]
+[<a name="openmodelica.org:sjoelund:phd:2015">3</a>]
 </td>
 <td class="bibtexitem">
-Kristian Stavåker.
- <em>Contributions to Simulation of Modelica Models on Data-Parallel
-  Multi-Core Architectures</em>.
- Doctoral thesis No 1666, Linköping University, Department of
+Martin Sjölund.
+ <em>Tools and Methods for Analysis, Debugging, and Performance
+  Improvement of Equation-Based Models</em>.
+ Doctoral thesis No 1664, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Stavaker:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-116338">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:phd:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-116346">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Roland:phd:2015">4</a>]
+</td>
+<td class="bibtexitem">
+Roland Samlaus.
+ <em>An Integrated Development Environment with Enhanced
+  Domain-Specific Interactive Model Validation</em>.
+ Doctoral thesis No 1652, Linköping University, Department of
+  Computer and Information Science, 2015.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Roland:phd:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-114838">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -151,24 +170,7 @@ Kristian Stavåker.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:sjoelund:lic:2013">1</a>]
-</td>
-<td class="bibtexitem">
-Martin Sjölund.
- <em>Tools for Understanding, Debugging, and Simulation Performance
-  Improvement of Equation-Based Models</em>.
- Licentiate thesis No 1592, Linköping University, Department of
-  Computer and Information Science, 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:lic:2013">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">http</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Wladimir:phd:2013">2</a>]
+[<a name="openmodelica.org:Wladimir:phd:2013">1</a>]
 </td>
 <td class="bibtexitem">
 Wladimir Schamai.
@@ -178,6 +180,23 @@ Wladimir Schamai.
   Computer and Information Science, 2013.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Wladimir:phd:2013">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/diss.diva-98107">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:sjoelund:lic:2013">2</a>]
+</td>
+<td class="bibtexitem">
+Martin Sjölund.
+ <em>Tools for Understanding, Debugging, and Simulation Performance
+  Improvement of Equation-Based Models</em>.
+ Licentiate thesis No 1592, Linköping University, Department of
+  Computer and Information Science, 2013.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:lic:2013">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">http</a>&nbsp;]
 
 </td>
 </tr>

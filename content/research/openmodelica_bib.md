@@ -47,6 +47,20 @@ title: "openmodelica.bib"
 }
 </pre>
 
+<a name="openmodelica.org:tinnerholm:lic:2022"></a><pre>
+@phdthesis{<a href="/research/openmodelica#openmodelica.org:tinnerholm:lic:2022">openmodelica.org:tinnerholm:lic:2022</a>,
+  author = {John Tinnerholm},
+  title = {A Composable and Extensible Environment for Equation-based Modeling and Simulation of Variable Structured Systems in {Modelica}},
+  type = {{Licentiate Thesis No 1937}},
+  year = {2022},
+  address = {Department of Computer and Information Science},
+  school = {Linköping University},
+  isbn = {978-91-7929-368-0},
+  issn = {0280-7971},
+  doi = {10.3384/9789179293680}
+}
+</pre>
+
 <a name="openmodelica.org:Anders:phd:2019"></a><pre>
 @phdthesis{<a href="/research/openmodelica#openmodelica.org:Anders:phd:2019">openmodelica.org:Anders:phd:2019</a>,
   author = {Anders Andersson},

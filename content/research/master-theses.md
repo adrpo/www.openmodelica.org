@@ -1,5 +1,6 @@
 ---
 title: "Master Theses"
+aliases: ["research/recentlycompletedtheses"]
 ---
 <h3>2019</h3>
 
@@ -7,27 +8,7 @@ title: "Master Theses"
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Manas:msc:2019">1</a>]
-</td>
-<td class="bibtexitem">
-Manas&nbsp;Ranjan Das.
- Developing a Generic Purpose OpenModelica Package for Embedded
-  Applications.
- Master's thesis, IIT Bombay, Department of Chemical Engineering,
-  2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Manas:msc:2019">bib</a>&nbsp;| 
-<a href="https://www.openmodelica.org/images/M_images/Masterthesis/MTP_Report.pdf">.pdf</a>&nbsp;]
-<blockquote><font size="-1">
-Examiner: Kannan Moudgalya
-</font></blockquote>
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Tinnerholm:msc:2019">2</a>]
+[<a name="openmodelica.org:Tinnerholm:msc:2019">1</a>]
 </td>
 <td class="bibtexitem">
 John Tinnerholm.
@@ -41,6 +22,26 @@ Supervisor: Martin Sjölund
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Manas:msc:2019">2</a>]
+</td>
+<td class="bibtexitem">
+Manas&nbsp;Ranjan Das.
+ Developing a Generic Purpose OpenModelica Package for Embedded
+  Applications.
+ Master's thesis, IIT Bombay, Department of Chemical Engineering,
+  2019.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Manas:msc:2019">bib</a>&nbsp;| 
+<a href="https://www.openmodelica.org/images/M_images/Masterthesis/MTP_Report.pdf">.pdf</a>&nbsp;]
+<blockquote><font size="-1">
+Examiner: Kannan Moudgalya
 </font></blockquote>
 
 </td>
@@ -145,15 +146,16 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:James:msc:2015">2</a>]
+[<a name="openmodelica.org:Gustaf:msc:2015">2</a>]
 </td>
 <td class="bibtexitem">
-James&nbsp;Jizhi Li.
- Requirement Verification in Modelica For a Small Scale Network
-  Simulation.
+Gustaf Thorslund.
+ Simulating Partial Differential Equations using the Explicit
+  Parallelism of ParModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:James:msc:2015">bib</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Gustaf:msc:2015">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079">http</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -167,16 +169,15 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Gustaf:msc:2015">3</a>]
+[<a name="openmodelica.org:James:msc:2015">3</a>]
 </td>
 <td class="bibtexitem">
-Gustaf Thorslund.
- Simulating Partial Differential Equations using the Explicit
-  Parallelism of ParModelica.
+James&nbsp;Jizhi Li.
+ Requirement Verification in Modelica For a Small Scale Network
+  Simulation.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Gustaf:msc:2015">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120079">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:James:msc:2015">bib</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -215,15 +216,15 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Shilu:msc:2014">1</a>]
+[<a name="openmodelica.org:Mohammad:msc:2014">1</a>]
 </td>
 <td class="bibtexitem">
-Shilu Shrestha.
- Software modeling in cyber-physical systems.
+Mohammad Jahanzeb.
+ Type Inferencing and MATLAB to Modelica Translation.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, September 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Shilu:msc:2014">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mohammad:msc:2014">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048">http</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -237,15 +238,15 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Mohammad:msc:2014">2</a>]
+[<a name="openmodelica.org:Shilu:msc:2014">2</a>]
 </td>
 <td class="bibtexitem">
-Mohammad Jahanzeb.
- Type Inferencing and MATLAB to Modelica Translation.
+Shilu Shrestha.
+ Software modeling in cyber-physical systems.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, September 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mohammad:msc:2014">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111048">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Shilu:msc:2014">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-111435">http</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Lena Buffoni
 </font></blockquote>
@@ -329,16 +330,15 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:anand:msc:2012">2</a>]
+[<a name="openmodelica.org:alachew:msc:2012">2</a>]
 </td>
 <td class="bibtexitem">
-Anand Ganeson.
- Design and implementation of a user friendly OpenModelica -
-  Python interface.
+Alachew Shitahun.
+ Template based XML and Modelica Unparsers in OpenModelica.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, August 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:anand:msc:2012">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:msc:2012">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999">http</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Olena Rogovchenko
 </font></blockquote>
@@ -352,15 +352,16 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:alachew:msc:2012">3</a>]
+[<a name="openmodelica.org:anand:msc:2012">3</a>]
 </td>
 <td class="bibtexitem">
-Alachew Shitahun.
- Template based XML and Modelica Unparsers in OpenModelica.
+Anand Ganeson.
+ Design and implementation of a user friendly OpenModelica -
+  Python interface.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, August 2012.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:msc:2012">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-81999">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:anand:msc:2012">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-78992">http</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Olena Rogovchenko
 </font></blockquote>
@@ -489,29 +490,7 @@ Examiner: Jacob Wikner
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:haris:msc:2011">5</a>]
-</td>
-<td class="bibtexitem">
-Haris Kapidzic.
- Developing a new 2D-plotting package for OpenModelica.
- Master's thesis, Linköping University, Department of Computer and
-  Information Science, May 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:haris:msc:2011">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">http</a>&nbsp;]
-<blockquote><font size="-1">
-Supervisor: Mohsen Torabzadeh-Tari
-</font></blockquote>
-<blockquote><font size="-1">
-Examiner: Peter Fritzson
-</font></blockquote>
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:lopez:msc:2011">6</a>]
+[<a name="openmodelica.org:lopez:msc:2011">5</a>]
 </td>
 <td class="bibtexitem">
 Edgar&nbsp;Alonso Lopez-Rojas.
@@ -524,6 +503,28 @@ Edgar&nbsp;Alonso Lopez-Rojas.
 <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-68863">http</a>&nbsp;]
 <blockquote><font size="-1">
 Supervisor: Martin Sjölund
+</font></blockquote>
+<blockquote><font size="-1">
+Examiner: Peter Fritzson
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:haris:msc:2011">6</a>]
+</td>
+<td class="bibtexitem">
+Haris Kapidzic.
+ Developing a new 2D-plotting package for OpenModelica.
+ Master's thesis, Linköping University, Department of Computer and
+  Information Science, May 2011.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:haris:msc:2011">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">http</a>&nbsp;]
+<blockquote><font size="-1">
+Supervisor: Mohsen Torabzadeh-Tari
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
@@ -606,7 +607,29 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:sjoelund:msc:2009">2</a>]
+[<a name="openmodelica.org:vasaiely:bsc:2009">2</a>]
+</td>
+<td class="bibtexitem">
+Parham Vasaiely.
+ Interactive simulation of SysML models using Modelica.
+ Bachelor's thesis, Hochschule für Angewandte Wissenschaften Hamburg,
+  Fakultät Technik und Informatik, August 2009.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:vasaiely:bsc:2009">bib</a>&nbsp;| 
+<a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf">pdf</a>&nbsp;]
+<blockquote><font size="-1">
+Supervisor: Bettina Buth
+</font></blockquote>
+<blockquote><font size="-1">
+Examiner: Olaf Zukunft
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:sjoelund:msc:2009">3</a>]
 </td>
 <td class="bibtexitem">
 Martin Sjölund.
@@ -630,38 +653,17 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:vasaiely:bsc:2009">3</a>]
+[<a name="openmodelica.org:klas:msc:2009">4</a>]
 </td>
 <td class="bibtexitem">
-Parham Vasaiely.
- Interactive simulation of SysML models using Modelica.
- Bachelor's thesis, Hochschule für Angewandte Wissenschaften Hamburg,
-  Fakultät Technik und Informatik, August 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:vasaiely:bsc:2009">bib</a>&nbsp;| 
-<a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Documents/Interactive_Simulation_of_SysML_Models_using_Modelica.pdf">pdf</a>&nbsp;]
-<blockquote><font size="-1">
-Supervisor: Bettina Buth
-</font></blockquote>
-<blockquote><font size="-1">
-Examiner: Olaf Zukunft
-</font></blockquote>
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:vasile:msc:2009">4</a>]
-</td>
-<td class="bibtexitem">
-Vasile Baluta.
- Requirements and inheritance support to ModelicaML.
+Klas Sjöholm.
+ Debugging equation-based languages in OpenModelica environment.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:vasile:msc:2009">bib</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:klas:msc:2009">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866">http</a>&nbsp;]
 <blockquote><font size="-1">
-Supervisor: Adrian Pop
+Supervisor: Peter Bunus 
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
@@ -673,17 +675,16 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:klas:msc:2009">5</a>]
+[<a name="openmodelica.org:vasile:msc:2009">5</a>]
 </td>
 <td class="bibtexitem">
-Klas Sjöholm.
- Debugging equation-based languages in OpenModelica environment.
+Vasile Baluta.
+ Requirements and inheritance support to ModelicaML.
  Master's thesis, Linköping University, Department of Computer and
   Information Science, June 2009.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:klas:msc:2009">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-19866">http</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:vasile:msc:2009">bib</a>&nbsp;]
 <blockquote><font size="-1">
-Supervisor: Peter Bunus 
+Supervisor: Adrian Pop
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
@@ -741,30 +742,7 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:simon:msc:2008">3</a>]
-</td>
-<td class="bibtexitem">
-Simon Björklén.
- Extending Modelica with high-level data structures: Design and
-  implementation in OpenModelica.
- Master's thesis, Linköping University, Department of Computer and
-  Information Science, June 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:simon:msc:2008">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148">http</a>&nbsp;]
-<blockquote><font size="-1">
-Supervisor: Adrian Pop
-</font></blockquote>
-<blockquote><font size="-1">
-Examiner: Peter Fritzson
-</font></blockquote>
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:kim:msc:2008">4</a>]
+[<a name="openmodelica.org:kim:msc:2008">3</a>]
 </td>
 <td class="bibtexitem">
 Kim Jansson and Joel Klinghed.
@@ -783,13 +761,53 @@ Examiner: Peter Fritzson
 
 </td>
 </tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:simon:msc:2008">4</a>]
+</td>
+<td class="bibtexitem">
+Simon Björklén.
+ Extending Modelica with high-level data structures: Design and
+  implementation in OpenModelica.
+ Master's thesis, Linköping University, Department of Computer and
+  Information Science, June 2008.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:simon:msc:2008">bib</a>&nbsp;| 
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-12148">http</a>&nbsp;]
+<blockquote><font size="-1">
+Supervisor: Adrian Pop
+</font></blockquote>
+<blockquote><font size="-1">
+Examiner: Peter Fritzson
+</font></blockquote>
+
+</td>
+</tr>
 </table><h3>2006</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:akhvlediani:msc:2006">1</a>]
+[<a name="openmodelica.org:fernstroem:msc:2006">1</a>]
+</td>
+<td class="bibtexitem">
+Anders Fernström.
+ Extending OpenModelica Notebook – an interactive notebook for
+  structured Modelica documents.
+ Master's thesis, Linköping University, Department of Computer and
+  Information Science, September 2006.
+ LITH-IDA-EX–06/057—SE.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fernstroem:msc:2006">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:akhvlediani:msc:2006">2</a>]
 </td>
 <td class="bibtexitem">
 David Akhvlediani.
@@ -804,23 +822,6 @@ Supervisor: Adrian Pop
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
 </font></blockquote>
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:fernstroem:msc:2006">2</a>]
-</td>
-<td class="bibtexitem">
-Anders Fernström.
- Extending OpenModelica Notebook – an interactive notebook for
-  structured Modelica documents.
- Master's thesis, Linköping University, Department of Computer and
-  Information Science, September 2006.
- LITH-IDA-EX–06/057—SE.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fernstroem:msc:2006">bib</a>&nbsp;]
 
 </td>
 </tr>
@@ -873,24 +874,7 @@ Examiner: Peter Fritzson
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:axelsson:msc:2005">2</a>]
-</td>
-<td class="bibtexitem">
-Ingemar Axelsson.
- OpenModelica Notebook for interactive structured Modelica
-  documents.
- Master's thesis, Linköping University, Department of Computer and
-  Information Science, October 2005.
- LITH-IDA-EX–05/080–SE.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:axelsson:msc:2005">bib</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:carlsson:msc:2005">3</a>]
+[<a name="openmodelica.org:carlsson:msc:2005">2</a>]
 </td>
 <td class="bibtexitem">
 Emil Carlsson.
@@ -905,6 +889,23 @@ Supervisor: Adrian Pop
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
 </font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:axelsson:msc:2005">3</a>]
+</td>
+<td class="bibtexitem">
+Ingemar Axelsson.
+ OpenModelica Notebook for interactive structured Modelica
+  documents.
+ Master's thesis, Linköping University, Department of Computer and
+  Information Science, October 2005.
+ LITH-IDA-EX–05/080–SE.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:axelsson:msc:2005">bib</a>&nbsp;]
 
 </td>
 </tr>

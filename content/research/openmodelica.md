@@ -900,7 +900,7 @@ Francesco Casella, Filippo Donida, and Johan Åkesson.
 Rodrigo Castro, Peter Fritzson, François Cellier, Safa Motesharrei, and Jorge
   Rivas.
  Human-nature interaction in world modeling with modelica.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Castro2:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ECP14096477">DOI</a>&nbsp;]
 
@@ -917,7 +917,7 @@ Rodrigo Castro, Peter Fritzson, François Cellier, Safa Motesharrei, and Jorge
   Rivas.
  Human-nature interaction in world modeling with modelica, in hubertus
   tummescheit and karl-erik Årzén.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:castro:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp14096549">DOI</a>&nbsp;]
 
@@ -930,7 +930,7 @@ Rodrigo Castro, Peter Fritzson, François Cellier, Safa Motesharrei, and Jorge
 [<a name="eoolt2011">59</a>]
 </td>
 <td class="bibtexitem">
-Fran&#x00E7;ois Cellier, David Broman, Peter Fritzson, and Edward Lee, editors.
+Fran&ccedil;ois Cellier, David Broman, Peter Fritzson, and Edward Lee, editors.
  <em>Proceedings of the 4th International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, September 2011.
@@ -1795,7 +1795,7 @@ Peter Fritzson and Karl-Fredrik Berggren.
 [<a name="eoolt2007">114</a>]
 </td>
 <td class="bibtexitem">
-Peter Fritzson, Fran&#x00E7;ois Cellier, and Christoph Nytsch-Geusen, editors.
+Peter Fritzson, Fran&ccedil;ois Cellier, and Christoph Nytsch-Geusen, editors.
  <em>Proceedings of the 1st International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, July 2007.
@@ -1936,7 +1936,7 @@ Peter Fritzson and David Kågedal.
 [<a name="eoolt2010">123</a>]
 </td>
 <td class="bibtexitem">
-Peter Fritzson, Edward Lee, Fran&#x00E7;ois Cellier, and David Broman, editors.
+Peter Fritzson, Edward Lee, Fran&ccedil;ois Cellier, and David Broman, editors.
  <em>Proceedings of the 3rd International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, October 2010.
@@ -2309,7 +2309,7 @@ Muhammed&nbsp;Zoheb Hossain, Mattias Nyberg, Olena Rogovchenko, and Peter Fritzs
 <td class="bibtexitem">
 Muhammed&nbsp;Zoheb Hossain, Olena Rogovchenko, Mattias Nyberg, and Peter Fritzson.
  An integrated toolchain for model based functional safety analysis.
- In WAMS'2012 [<a href="#WAMS2012">340</a>].
+ In WAMS'2012 [<a href="#WAMS2012">341</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Muhammed:WAMS:2012">bib</a>&nbsp;]
 
 </td>
@@ -2429,7 +2429,7 @@ Mohammad Jahanzeb.
 <td class="bibtexitem">
 Mohammad Jahanzeb, Arunkumar Palanisamy, Martin Sjölund, and Peter Fritzson.
  A matlab to modelica translator.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Jahanzeb:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ECP140961285">DOI</a>&nbsp;]
 
@@ -2655,7 +2655,7 @@ Zsolt Lattmann, Adrian Pop, Johan de&nbsp;Kleer, Peter Fritzson, Bill Janssen,
   Bhaskar Saha, and Tolga Kurtoglu.
  Verification and design exploration through meta tool integration
   with openmodelica.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Lattmann:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ECP14096353">DOI</a>&nbsp;]
 
@@ -3085,7 +3085,7 @@ Alachew Mengist, Adrian Pop, Adeel Asghar, and Peter Fritzson.
 <td class="bibtexitem">
 Mana Mirzaei, Lena Buffoni, and Peter Fritzson.
  Integration of openmodelica in ptolemy ii.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mirzaei:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ECP140961247">DOI</a>&nbsp;]
 
@@ -3468,7 +3468,7 @@ Arunkumar Palanisamy.
 <td class="bibtexitem">
 Arunkumar Palanisamy, Adrian Pop, Martin Sjölund, and Peter Fritzson.
  Modelica based parser generator with good error handling.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Palanisamy2:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ECP14096567">DOI</a>&nbsp;]
 
@@ -3483,7 +3483,7 @@ Arunkumar Palanisamy, Adrian Pop, Martin Sjölund, and Peter Fritzson.
 <td class="bibtexitem">
 Arunkumar Palanisamy, Adrian Pop, Martin Sjölund, and Peter Fritzson.
  Modelica based parser generator with good error handling.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:palanisamy:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp14096567">DOI</a>&nbsp;]
 
@@ -3962,7 +3962,7 @@ Vitalij Ruge, Willi Braun, Bernhard Bachmann, Andrea Walther, and Kshitij
   Kulshreshtha.
  Efficient implementation of collocation methods for optimization
   using openmodelica and adol-c.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Ruge:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp140961017">DOI</a>&nbsp;]
 
@@ -4052,7 +4052,7 @@ Levon Saldamli and Peter Fritzson.
 <td class="bibtexitem">
 Roland Samaus, Mareike Strach, and Peter Fritzson.
  A framework for automatic modelica model testing.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:samlus:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp14096549">DOI</a>&nbsp;]
 
@@ -4118,7 +4118,7 @@ Roland Samlaus, Peter Fritzson, Adam Zuga, Michael Strobel, and Claudio
 <td class="bibtexitem">
 Roland Samlaus, Mareike Strach, and Peter Fritzson.
  Mounit—a framework for automatic modelica model testing.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Samlaus2:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ECP14096549">DOI</a>&nbsp;]
 
@@ -4233,7 +4233,7 @@ Wladimir Schamai, Peter Fritzson, and Chris&nbsp;JJ Paredis.
 <td class="bibtexitem">
 Wladimir Schamai, Peter Fritzson, Christiaan Paredis, and Philipp Helle.
  ModelicaML value bindings for automated model composition.
- In TMS/DEVS'2012 [<a href="#TMS/DEVS2012">328</a>], pages 31:1--31:8.
+ In TMS/DEVS'2012 [<a href="#TMS/DEVS2012">329</a>], pages 31:1--31:8.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:TMS/DEVS:2012">bib</a>&nbsp;| 
 <a href="https://www.openmodelica.org/images/docs/2012-03-Schamai-Fritzson-Paredis-Helle-TMS2012-ModelicaML-ValueBindings-ModelComposition.pdf">.pdf</a>&nbsp;]
 
@@ -4691,7 +4691,7 @@ Martin Sjölund, Robert Braun, Peter Fritzson, and Petter Krus.
 Martin Sjölund, Francesco Casella, Adrian Pop, Adeel Asghar, Peter Fritzson,
   Willi Braun, Lennart Ochel, and Bernhard Bachmann.
  Integrated Debugging of Equation-Based Models.
- In Tummescheit and Årzén [<a href="#modelica2014">333</a>].
+ In Tummescheit and Årzén [<a href="#modelica2014">334</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:modelica:2014">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp14096195">DOI</a>&nbsp;]
 
@@ -5104,7 +5104,24 @@ John Tinnerholm.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="modelica.org:Tinnerholm:2021">324</a>]
+[<a name="openmodelica.org:tinnerholm:lic:2022">324</a>]
+</td>
+<td class="bibtexitem">
+John Tinnerholm.
+ <em>A Composable and Extensible Environment for Equation-based
+  Modeling and Simulation of Variable Structured Systems in Modelica</em>.
+ Licentiate Thesis No 1937, Linköping University, Department of
+  Computer and Information Science, 2022.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tinnerholm:lic:2022">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/9789179293680">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="modelica.org:Tinnerholm:2021">325</a>]
 </td>
 <td class="bibtexitem">
 John Tinnerholm, Adrian Pop, Andreas Heuermann, and Martin Sj&ouml;lund.
@@ -5124,7 +5141,7 @@ John Tinnerholm, Adrian Pop, Andreas Heuermann, and Martin Sj&ouml;lund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tinnerholm:electronics:2022">325</a>]
+[<a name="openmodelica.org:tinnerholm:electronics:2022">326</a>]
 </td>
 <td class="bibtexitem">
 John Tinnerholm, Adrian Pop, and Martin Sjölund.
@@ -5140,7 +5157,7 @@ John Tinnerholm, Adrian Pop, and Martin Sjölund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tinnerholm:modelica:2020">326</a>]
+[<a name="openmodelica.org:tinnerholm:modelica:2020">327</a>]
 </td>
 <td class="bibtexitem">
 John Tinnerholm, Adrian Pop, Martin Sjölund, Andreas Heuermann, and Karim
@@ -5157,7 +5174,7 @@ John Tinnerholm, Adrian Pop, Martin Sjölund, Andreas Heuermann, and Karim
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tinnerholm:eoolt:2019">327</a>]
+[<a name="openmodelica.org:tinnerholm:eoolt:2019">328</a>]
 </td>
 <td class="bibtexitem">
 John Tinnerholm, Martin Sjölund, and Adrian Pop.
@@ -5173,7 +5190,7 @@ John Tinnerholm, Martin Sjölund, and Adrian Pop.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="TMS/DEVS2012">328</a>]
+[<a name="TMS/DEVS2012">329</a>]
 </td>
 <td class="bibtexitem">
 <em>Proceedings of the 2012 Symposium on Theory of Modeling and Simulation -
@@ -5187,7 +5204,7 @@ John Tinnerholm, Martin Sjölund, and Adrian Pop.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:mohsen:EDUCON:2010">329</a>]
+[<a name="openmodelica.org:mohsen:EDUCON:2010">330</a>]
 </td>
 <td class="bibtexitem">
 Mohsen Torabzadeh-Tari, Peter Fritzson, Adrian Pop, and Martin Sjölund.
@@ -5204,7 +5221,7 @@ Mohsen Torabzadeh-Tari, Peter Fritzson, Adrian Pop, and Martin Sjölund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009">330</a>]
+[<a name="openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009">331</a>]
 </td>
 <td class="bibtexitem">
 Mohsen Torabzadeh-Tari, Peter Fritzson, Martin Sjölund, and Adrian Pop.
@@ -5220,7 +5237,7 @@ Mohsen Torabzadeh-Tari, Peter Fritzson, Martin Sjölund, and Adrian Pop.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:mohsen:sims:2011">331</a>]
+[<a name="openmodelica.org:mohsen:sims:2011">332</a>]
 </td>
 <td class="bibtexitem">
 Mohsen Torabzadeh-Tari, Jhansi Remala, Martin Sjölund, Adrian Pop, and Peter
@@ -5237,7 +5254,7 @@ Mohsen Torabzadeh-Tari, Jhansi Remala, Martin Sjölund, Adrian Pop, and Peter
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:torabzadeh-tari:modelica:2011:drcontrol">332</a>]
+[<a name="openmodelica.org:torabzadeh-tari:modelica:2011:drcontrol">333</a>]
 </td>
 <td class="bibtexitem">
 Mohsen Torabzadeh-Tari, Martin Sjölund, Adrian Pop, and Peter Fritzson.
@@ -5254,7 +5271,7 @@ Mohsen Torabzadeh-Tari, Martin Sjölund, Adrian Pop, and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="modelica2014">333</a>]
+[<a name="modelica2014">334</a>]
 </td>
 <td class="bibtexitem">
 Hubertus Tummescheit and Karl-Erik Årzén, editors.
@@ -5269,7 +5286,7 @@ Hubertus Tummescheit and Karl-Erik Årzén, editors.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tundis:mse:2017">334</a>]
+[<a name="openmodelica.org:tundis:mse:2017">335</a>]
 </td>
 <td class="bibtexitem">
 Andrea Tundis, Lena Buffoni, Peter Fritzson, and Alfredo Garro.
@@ -5284,7 +5301,7 @@ Andrea Tundis, Lena Buffoni, Peter Fritzson, and Alfredo Garro.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tundis:eoolt:2013">335</a>]
+[<a name="openmodelica.org:tundis:eoolt:2013">336</a>]
 </td>
 <td class="bibtexitem">
 Andrea Tundis, Lena Rogovchenko-Buffoni, Peter Fritzson, and Alfredo Garro.
@@ -5299,7 +5316,7 @@ Andrea Tundis, Lena Rogovchenko-Buffoni, Peter Fritzson, and Alfredo Garro.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tundis:eurosim:2013">336</a>]
+[<a name="openmodelica.org:tundis:eurosim:2013">337</a>]
 </td>
 <td class="bibtexitem">
 Andrea Tundis, Lena Rogovchenko-Buffoni, Peter Fritzson, Alfredo Garro, and
@@ -5315,7 +5332,7 @@ Andrea Tundis, Lena Rogovchenko-Buffoni, Peter Fritzson, Alfredo Garro, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:tundis:wasm:2013">337</a>]
+[<a name="openmodelica.org:tundis:wasm:2013">338</a>]
 </td>
 <td class="bibtexitem">
 Andrea Tundis, Lena Rogovchenko-Buffoni, Alfredo Garro, Mattias Nyberg, and
@@ -5323,7 +5340,7 @@ Andrea Tundis, Lena Rogovchenko-Buffoni, Alfredo Garro, Mattias Nyberg, and
  Performing fault tree analysis of a modelica-based system design
   through a probability model. in proc. of workshop on applied modeling and
   simulation.
- In WASM'2013 [<a href="#wasm2013">341</a>].
+ In WASM'2013 [<a href="#wasm2013">342</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:tundis:wasm:2013">bib</a>&nbsp;]
 
 </td>
@@ -5332,7 +5349,7 @@ Andrea Tundis, Lena Rogovchenko-Buffoni, Alfredo Garro, Mattias Nyberg, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:vasaiely:bsc:2009">338</a>]
+[<a name="openmodelica.org:vasaiely:bsc:2009">339</a>]
 </td>
 <td class="bibtexitem">
 Parham Vasaiely.
@@ -5348,7 +5365,7 @@ Parham Vasaiely.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Lars:SP:1995">339</a>]
+[<a name="openmodelica.org:Lars:SP:1995">340</a>]
 </td>
 <td class="bibtexitem">
 Lars Viklund and Peter Fritzson.
@@ -5363,7 +5380,7 @@ Lars Viklund and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="WAMS2012">340</a>]
+[<a name="WAMS2012">341</a>]
 </td>
 <td class="bibtexitem">
 <em>Proceedings of the International Workshop on Applied Modeling &
@@ -5376,7 +5393,7 @@ Lars Viklund and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="wasm2013">341</a>]
+[<a name="wasm2013">342</a>]
 </td>
 <td class="bibtexitem">
 <em>Proceedings of Workshop on Applied Modeling and Simulation WASM 2013</em>,
@@ -5389,7 +5406,7 @@ Lars Viklund and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:niklas:modelica:2012">342</a>]
+[<a name="openmodelica.org:niklas:modelica:2012">343</a>]
 </td>
 <td class="bibtexitem">
 Niklas Worschech and Lars Mikelsons.
@@ -5406,7 +5423,7 @@ Niklas Worschech and Lars Mikelsons.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:wrangsjo:ims:1999">343</a>]
+[<a name="openmodelica.org:wrangsjo:ims:1999">344</a>]
 </td>
 <td class="bibtexitem">
 Andreas Wrangsjö, Peter Fritzson, and Sheshadri K.
@@ -5421,7 +5438,7 @@ Andreas Wrangsjö, Peter Fritzson, and Sheshadri K.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:kinnander:eurosim:2016">344</a>]
+[<a name="openmodelica.org:kinnander:eurosim:2016">345</a>]
 </td>
 <td class="bibtexitem">
 Åke Kinnander, Martin Sjölund, and Adrian Pop.
@@ -5436,7 +5453,7 @@ Andreas Wrangsjö, Peter Fritzson, and Sheshadri K.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:kinnander:mic:2016">345</a>]
+[<a name="openmodelica.org:kinnander:mic:2016">346</a>]
 </td>
 <td class="bibtexitem">
 Åke Kinnander, Martin Sjölund, and Adrian Pop.
@@ -5452,7 +5469,7 @@ Andreas Wrangsjö, Peter Fritzson, and Sheshadri K.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:akesson:modelica:2012">346</a>]
+[<a name="openmodelica.org:akesson:modelica:2012">347</a>]
 </td>
 <td class="bibtexitem">
 Johan Åkesson, Willi Braun, Petter Lindholm, and Bernhard Bachmann.
@@ -5469,7 +5486,7 @@ Johan Åkesson, Willi Braun, Petter Lindholm, and Bernhard Bachmann.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:oestlund:msc:2009">347</a>]
+[<a name="openmodelica.org:oestlund:msc:2009">348</a>]
 </td>
 <td class="bibtexitem">
 Per Östlund.
@@ -5485,7 +5502,7 @@ Per Östlund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:ostlund:POOSC:2010">348</a>]
+[<a name="openmodelica.org:ostlund:POOSC:2010">349</a>]
 </td>
 <td class="bibtexitem">
 Per Östlund, Kristian Stavåker, and Peter Fritzson.
