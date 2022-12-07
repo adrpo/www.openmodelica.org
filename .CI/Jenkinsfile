@@ -3,9 +3,6 @@ def isPR() {
 }
 pipeline {
   agent none
-  parameters {
-    booleanParam(name: 'linkchecker', defaultValue: false, description: 'Run the linkchecker on the library')
-  }
   options {
     newContainerPerStage()
     disableConcurrentBuilds()
@@ -48,7 +45,7 @@ pipeline {
     }
     when {
       beforeAgent true
-      expression { params.linkchecker }
+      branch 'main'
     }
     steps {
       script {
