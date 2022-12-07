@@ -63,7 +63,7 @@ pipeline {
       script {
         def userIds = slackUserIdsFromCommitters() + ["sjoelund"]
         def userIdsString = userIds.collect { "<@$it>" }.join(' ')
-        slackSend(channel: '#jenkins', message: "$userIdsString Something is wrong with ${env.BUILD_URL}")
+        slackSend(channel: '#jenkins', message: "$userIdsString Something is wrong with ${env.BUILD_URL}", sendAsText: true)
       }
     }
   }
