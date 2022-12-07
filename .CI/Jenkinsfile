@@ -50,7 +50,7 @@ pipeline {
     steps {
       script {
         echo "Running on: ${env.NODE_NAME}"
-        sh "linkchecker --ignore-url=http://hugo.openmodelica.org/forum --ignore-url=http://hugo.openmodelica.org/doc --ignore-url=https://openmodelica.org/svn http://hugo.openmodelica.org"
+        sh "linkchecker --threads=30 --check-extern --ignore-url=http://hugo.openmodelica.org/forum --ignore-url=http://hugo.openmodelica.org/doc --ignore-url=https://openmodelica.org/svn http://hugo.openmodelica.org"
       }
     }
   }
