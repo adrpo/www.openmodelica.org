@@ -1,6 +1,6 @@
 ---
 title: "Books"
-aliases: ["research/booksproceedings"]
+aliases: ["/research/booksproceedings"]
 ---
 
 <table class="plain" border="0">

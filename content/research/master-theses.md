@@ -1,6 +1,6 @@
 ---
 title: "Master Theses"
-aliases: ["research/recentlycompletedtheses"]
+aliases: ["/research/recentlycompletedtheses"]
 ---
 <h3>2019</h3>
 
