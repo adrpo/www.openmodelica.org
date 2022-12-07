@@ -229,6 +229,11 @@ div.highlight pre {
     padding: 5pt;
 }
 
+div.highlight tr > td pre {
+    white-space: pre;
+    word-break: normal;
+}
+
 dl {
     width: 100%;
     overflow: hidden;

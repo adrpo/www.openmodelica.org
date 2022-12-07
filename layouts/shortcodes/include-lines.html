@@ -1,0 +1,1 @@
+{{ $file := .Get 0 }}{{- $file := $file | readFile -}}{{ $file := split $file "\n" }}{{ $file := first (add (sub (.Get 2) (.Get 1)) 1) (after (sub (.Get 1) 1) $file) }}{{ $file := delimit $file "\n" }}{{ $file | safeHTML }}
