@@ -3,6 +3,9 @@ def isPR() {
 }
 pipeline {
   agent none
+  parameters {
+    booleanParam(name: 'linkchecker', defaultValue: false, description: 'Run the linkchecker on the library')
+  }
   options {
     newContainerPerStage()
     disableConcurrentBuilds()
@@ -32,6 +35,34 @@ pipeline {
         }
       }
     }
+    }
+    stage('linkchecker') {
+    agent {
+      dockerfile {
+        additionalBuildArgs '--pull'
+        dir '.CI/image'
+        label 'r630-2'
+        args "--mount type=volume,source=hugo-cache,target=/cache/hugo " +
+             "-v /var/www/hugo.openmodelica.org:/var/www/hugo.openmodelica.org"
+      }
+    }
+    when {
+      beforeAgent true
+      expression { params.linkchecker }
+    }
+    steps {
+      script {
+        echo "Running on: ${env.NODE_NAME}"
+        sh "linkchecker --ignore-url=http://hugo.openmodelica.org/forum --ignore-url=http://hugo.openmodelica.org/doc --ignore-url=https://openmodelica.org/svn http://hugo.openmodelica.org"
+      }
+    }
   }
+  post {
+    failure {
+      script {
+        def userIds = slackUserIdsFromCommitters() + ["sjoelund"]
+        def userIdsString = userIds.collect { "<@$it>" }.join(' ')
+        slackSend(channel: '#jenkins', message: "$userIdsString Something is wrong with ${env.BUILD_URL}")
+    }
   }
 }
