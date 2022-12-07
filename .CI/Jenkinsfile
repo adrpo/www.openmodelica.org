@@ -58,7 +58,7 @@ pipeline {
   post {
     failure {
       script {
-        def userIds = slackUserIdsFromCommitters() + ["sjoelund"]
+        def userIds = (slackUserIdsFromCommitters() + ["UBJDHQY3U" /* sjoelund */]).unique { a, b -> a <=> b }
         def userIdsString = userIds.collect { "<@$it>" }.join(' ')
         echo "$userIdsString"
         slackSend(channel: '#jenkins', message: "$userIdsString Something is wrong with ${env.BUILD_URL}", sendAsText: true)
