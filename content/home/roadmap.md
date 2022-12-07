@@ -4,7 +4,7 @@ weight: 3
 ---
 <h2 class="modelicabullet2" style="margin: 3.8pt 0cm 0pt 14.2pt;">Roadmap on Trac</h2>
 <ul>
-<li>See the roadmap on the <a href="https://trac.openmodelica.org/OpenModelica/roadmap">OpenModelica Trac</a> to check for the latest status.</li>
+<li>See the <a href="{{< param "roadmap" >}}">roadmap</a> to check for the latest status.</li>
 </ul>
 <h2 class="modelicabullet2" style="margin: 3.8pt 0cm 0pt 14.2pt;">Roadmap-2020</h2>
 <ul>

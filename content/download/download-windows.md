@@ -21,7 +21,7 @@ Nightly Build
 
 
 Release notes for all releases are available in our <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes">Trac system</a>.
-An overview of the plan for future releases is available in the <a href="https://trac.openmodelica.org/OpenModelica/roadmap">roadmap</a>.
+An overview of the plan for future releases is available in the <a href="{{< param "roadmap" >}}">roadmap</a>.
 
 OpenModelica includes SystemDynamics library with World modeling. <a href="/images/docs/SystemDynamics-World3-Simulation-with-OpenModelica.pdf" target="_blank">Instructions for SystemDynamics World3 simulations</a>.
 
