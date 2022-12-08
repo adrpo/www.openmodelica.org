@@ -333,7 +333,7 @@ Toby Myers, Peter Fritzson, and Geoff Dromey.
   model.
  <em>IEEE Computer</em>, 44:62--70, 2011.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:myers:ieee:2011">bib</a>&nbsp;| 
-<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5582102 ">DOI</a>&nbsp;]
+<a href="http://dx.doi.org/10.1109/MC.2010.270">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -348,7 +348,7 @@ Krishnamurthy Sheshadri and Peter Fritzson.
  Mathpde: A package to solve pdes by finite differences.
  <em>Mathematica Journal</em>, 13, 2011.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:krish:math:2011">bib</a>&nbsp;| 
-<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/ ">DOI</a>&nbsp;]
+<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -413,7 +413,7 @@ Peter Fritzson, Vadim Engelson, and Krishnamurthy Sheshadri.
   mathematica.
  <em>Mathematica Journal</em>, 10(4), 2008.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2008">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/ http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/ ">DOI</a>&nbsp;]
+<a href="http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -479,8 +479,7 @@ Peter Fritzson.
  Mathmodelica - an object oriented mathematical modeling and
   simulation environment.
  <em>Mathematica Journal</em>, 10(1):187--264, February 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2006">bib</a>&nbsp;| 
-<a href="http://www.mathematica-journal.com/issue/v10i1/contents/MathModelicaPaper/MathModelicaPaper.pdf">pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2006">bib</a>&nbsp;]
 
 </td>
 </tr>

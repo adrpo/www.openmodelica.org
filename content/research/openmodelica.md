@@ -152,8 +152,7 @@ Peter Aronsson and David Broman.
   reporting.
  In Casella [<a href="#modelica2009">52</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:aronsson:modelica:2009">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/ecp09430027">DOI</a>&nbsp;| 
-<a href="http://www.ep.liu.se/ecp/043/105/ecp09430027.pdf">.pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3384/ecp09430027">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -214,8 +213,7 @@ Adeel Asghar, Adrian Pop, Martin Sjölund, and Peter Fritzson.
  Efficient debugging of large algorithmic Modelica applications.
  In MATHMOD'2012 [<a href="#mathmod2012">189</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:asghar:MATHMOD:2012">bib</a>&nbsp;| 
-<a href="http://seth.asc.tuwien.ac.at/proc12/web/html/sessions/MS23.html">.html</a>&nbsp;| 
-<a href="http://seth.asc.tuwien.ac.at/proc12/full_paper/Contribution197.pdf">.pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3182/20120215-3-AT-3016.00192">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -489,7 +487,7 @@ Willi Braun, Lennart Ochel, and Bernhard Bachmann.
   enhancement of the openmodelica compiler.
  In Clauß [<a href="#modelica2011">64</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:willi:modelica:2011">bib</a>&nbsp;| 
-<a href="https://modelica.org/events/modelica2011/Proceedings/pages/papers/19_4_ID_159_a_fv.pdf">.pdf</a>&nbsp;]
+<a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/19_4_ID_159_a_fv.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -885,8 +883,7 @@ Francesco Casella, Filippo Donida, and Johan Åkesson.
   models.
  In Casella [<a href="#modelica2009">52</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:casella:modelica:2009">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/ecp09430073">DOI</a>&nbsp;| 
-<a href="https://www.modelica.org/events/modelica2009/Proceedings/memorystick/pages/papers/0073/0073.pdf">.pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3384/ecp09430073">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1109,7 +1106,7 @@ Oscar Duarte.
   for educational purposes.
  In Clauß [<a href="#modelica2011">64</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:oscar:modelica:2011">bib</a>&nbsp;| 
-<a href="https://modelica.org/events/modelica2011/Proceedings/pages/papers/30_poster_ID__a_fv.pdf">.pdf</a>&nbsp;]
+<a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/30_poster_ID__a_fv.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1125,7 +1122,7 @@ Stina Edelfeldt and Peter Fritzson.
   nitrogen processes in wetlands.
  In SIMS'2005 [<a href="#sims2005">285</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:edelfeldt:sims:2005">bib</a>&nbsp;| 
-<a href="http://scansims.org/sims2005/SIMS2005_33.pdf">.pdf</a>&nbsp;]
+<a href="http://scansims.org/media-files/sims2005/SIMS2005_33.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1174,7 +1171,7 @@ Vadim Engelson, Peter Bunus, Lucian Popescu, and Peter Fritzson.
   simulation.
  In SIMS'2003 [<a href="#sims2003">283</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:engelson:sims:2003">bib</a>&nbsp;| 
-<a href="http://scansims.org/sims2003/papers/SIMS2003_34.pdf">.pdf</a>&nbsp;]
+<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1447,7 +1444,7 @@ Jens Frenkel, Günter Kunze, Peter Fritzson, Martin Sjölund, Adrian Pop, and
  Towards a modular and accessible modelica compiler backend.
  In Clauß [<a href="#modelica2011">64</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jens:modelica:2011">bib</a>&nbsp;| 
-<a href="https://modelica.org/events/modelica2011/Proceedings/pages/papers/10_3_ID_110_a_fv.pdf">.pdf</a>&nbsp;]
+<a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/10_3_ID_110_a_fv.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1464,7 +1461,7 @@ Jens Frenkel, Christian Schubert, Günter Kunze, Peter Fritzson, Martin
  In Clauß [<a href="#modelica2011">64</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:frenkel:modelica:2011:benchmark">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp11063232">DOI</a>&nbsp;| 
-<a href="https://modelica.org/events/modelica2011/Proceedings/pages/papers/07_1_ID_183_a_fv.pdf">.pdf</a>&nbsp;]
+<a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/07_1_ID_183_a_fv.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1605,8 +1602,7 @@ Peter Fritzson.
  Mathmodelica - an object oriented mathematical modeling and
   simulation environment.
  <em>Mathematica Journal</em>, 10(1):187--264, February 2006.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2006">bib</a>&nbsp;| 
-<a href="http://www.mathematica-journal.com/issue/v10i1/contents/MathModelicaPaper/MathModelicaPaper.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2006">bib</a>&nbsp;]
 
 </td>
 </tr>
@@ -1717,7 +1713,7 @@ Peter Fritzson, Peter Aronsson, Håkan Lundvall, Kaj Nyström, Adrian Pop,
  The openmodelica modeling, simulation, and development environment.
  In SIMS'2005 [<a href="#sims2005">285</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:sims:2005">bib</a>&nbsp;| 
-<a href="http://scansims.org/sims2005/SIMS2005_58.pdf">.pdf</a>&nbsp;]
+<a href="http://scansims.org/media-files/sims2005/SIMS2005_58.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1881,7 +1877,7 @@ Peter Fritzson, Vadim Engelson, and Krishnamurthy Sheshadri.
   mathematica.
  <em>Mathematica Journal</em>, 10(4), 2008.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2008">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/ http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/ ">DOI</a>&nbsp;]
+<a href="http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -2296,7 +2292,7 @@ Muhammed&nbsp;Zoheb Hossain, Mattias Nyberg, Olena Rogovchenko, and Peter Fritzs
  Computerized model based functional safety analysis.
  In MATHMOD'2012 [<a href="#mathmod2012">189</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:muhammed:MATHMOD:2012">bib</a>&nbsp;| 
-<a href="https://www.openmodelica.org/images/docs/2012-02-Hossain-Nyberg-Rogovchenko-Fritzson-mathmod2012-Functional-Safety.pdf">.pdf</a>&nbsp;]
+<a href="10.3182/20120215-3-AT-3016.00011">www:</a>&nbsp;]
 
 </td>
 </tr>
@@ -2327,7 +2323,7 @@ Michaela Huhn, Martin Sjölund, Wuzhu Chen, Christian Schulze, and Peter
  In Clauß [<a href="#modelica2011">64</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:huhn:modelica:2011">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/ecp11063537">DOI</a>&nbsp;| 
-<a href="https://modelica.org/events/modelica2011/Proceedings/pages/papers/44_1_ID_163_a_fv.pdf">.pdf</a>&nbsp;]
+<a href="https://2011.international.conference.modelica.org/proceedings/pages/papers/44_1_ID_163_a_fv.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2672,7 +2668,7 @@ Eva-Lena Lengquist-Sandelin, Susanna Monemar, Peter Fritzson, and Peter Bunus.
  DrModelica An Interactive Tutoring Environment for Modelica.
  In Fritzson [<a href="#modelica2003">98</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:evalena:modelica:2003">bib</a>&nbsp;| 
-<a href="https://www.researchgate.net/publication/237338415_DrModelica_An_Interactive_Tutoring_Environment_for_Modelica">http</a>&nbsp;]
+<a href="https://modelica.org/events/Conference2003/papers/h27_Lengquist_Sandelin.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2687,7 +2683,7 @@ Eva-Lena Lengquist-Sandelin, Susanna Monemar, Peter Fritzson, and Peter Bunus.
  Drmodelica – a web-based teaching environment for modelica.
  In SIMS'2003 [<a href="#sims2003">283</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:evalena:sims:2003">bib</a>&nbsp;| 
-<a href="http://scansims.org/sims2003/papers/SIMS2003_3.pdf">.pdf</a>&nbsp;]
+<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2832,7 +2828,7 @@ Håkan Lundvall and Peter Fritzson.
  Modeling concurrent activities and resource sharing in modelica.
  In SIMS'2003 [<a href="#sims2003">283</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2003">bib</a>&nbsp;| 
-<a href="http://scansims.org/sims2003/papers/SIMS2003_14.pdf">.pdf</a>&nbsp;]
+<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2847,7 +2843,7 @@ Håkan Lundvall and Peter Fritzson.
  Event handling in the openmodelica compiler and run-time system.
  In SIMS'2005 [<a href="#sims2005">285</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:lundvall:sims:2005">bib</a>&nbsp;| 
-<a href="http://www.scansims.org/sims2005/SIMS2005_57.pdf">.pdf</a>&nbsp;]
+<a href="http://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2978,7 +2974,7 @@ Ericsson Magnusson, Peter Fritzson, and Adian Pop.
   simulations in openmodelica.
  In SIMS'2008 [<a href="#sims2008">288</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:magnusson:sims:2008">bib</a>&nbsp;| 
-<a href="http://www.scansims.org/sims2008/23.pdf">.pdf</a>&nbsp;]
+<a href="http://www.scansims.org/media-files/sims2008/23.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -3210,7 +3206,7 @@ Toby Myers, Peter Fritzson, and Geoff Dromey.
   model.
  <em>IEEE Computer</em>, 44:62--70, 2011.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:myers:ieee:2011">bib</a>&nbsp;| 
-<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5582102 ">DOI</a>&nbsp;]
+<a href="http://dx.doi.org/10.1109/MC.2010.270">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -3303,7 +3299,7 @@ Kristoffer Norling, David Broman, Peter Fritzson, Alexander Siemers, and Dag
  Secure distributed co-simulation over wide area networks.
  In SIMS'2007 [<a href="#sims2007">287</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:norling:sims:2007">bib</a>&nbsp;| 
-<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.3774&amp;rep=rep1&amp;type=pdf">http</a>&nbsp;]
+<a href="https://ep.liu.se/en/conference-article.aspx?series=ecp&amp;issue=27&amp;Article_No=3">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -3502,7 +3498,7 @@ Christjaan Paredis, Yves Bernard, Roger Burkhart, Hans-Peter de&nbsp;Koning, San
  In <em>Proceedings of International Workshop and Model-Based Systems
   Engineering (MBSE) Workshop</em>, July 2010.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Christjaan:INCOSE:2010">bib</a>&nbsp;| 
-<a href="http://www.kth.se/polopoly_fs/1.216153!/Menu/general/column-content/attachment/Paredis_10.10.19.pdf">.pdf</a>&nbsp;]
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -3737,7 +3733,7 @@ Adrian Pop, Olof Johansson, and Peter Fritzson.
   modelica.
  In SIMS'2004 [<a href="#sims2004">284</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:sims:2004">bib</a>&nbsp;| 
-<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9407&amp;rep=rep1&amp;type=pdf">http</a>&nbsp;]
+<a href="https://www.scansims.org/media-files/sims2004/SIMS2004proceedings.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -4008,8 +4004,7 @@ Levon Saldamli.
 Levon Saldamli and Peter Fritzson.
  Domains and partial differential equations in modelica.
  In SIMS'2001 [<a href="#sims2001">281</a>].
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:saldamli:sims:2001">bib</a>&nbsp;| 
-<a href="http://www.scansims.org/sims2001/SIMS2001/Papers/Paper07%20-%20L.Saldamli%20%28sims2001Saldamli_v2%29.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:saldamli:sims:2001">bib</a>&nbsp;]
 
 </td>
 </tr>
@@ -4202,8 +4197,7 @@ Wladimir Schamai, Peter Fritzson, Chris Paredis, and Adrian Pop.
   Modeling of executable behavior using graphical notations.
  In Casella [<a href="#modelica2009">52</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:modelica:2009">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/ecp09430081">DOI</a>&nbsp;| 
-<a href="https://www.modelica.org/events/modelica2009/Proceedings/memorystick/pages/papers/0081/0081.pdf">.pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3384/ecp09430081">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -4324,7 +4318,7 @@ Krishnamurthy Sheshadri and Peter Fritzson.
  Mathpde: A package to solve pdes by finite differences.
  <em>Mathematica Journal</em>, 13, 2011.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:krish:math:2011">bib</a>&nbsp;| 
-<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/ ">DOI</a>&nbsp;]
+<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -5221,14 +5215,14 @@ Mohsen Torabzadeh-Tari, Peter Fritzson, Adrian Pop, and Martin Sjölund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009">331</a>]
+[<a name="openmodelica.org:mohsen:sims:2009">331</a>]
 </td>
 <td class="bibtexitem">
 Mohsen Torabzadeh-Tari, Peter Fritzson, Martin Sjölund, and Adrian Pop.
  Openmodelica-python interoperability applied to monte carlo
   simulation.
  In Casella [<a href="#modelica2009">52</a>].
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009">bib</a>&nbsp;| 
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:sims:2009">bib</a>&nbsp;| 
 <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-50804">http</a>&nbsp;]
 
 </td>
@@ -5246,7 +5240,7 @@ Mohsen Torabzadeh-Tari, Jhansi Remala, Martin Sjölund, Adrian Pop, and Peter
   book, omnotebook.
  In Bunus et&nbsp;al. [<a href="#sims2011">46</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mohsen:sims:2011">bib</a>&nbsp;| 
-<a href="http://www.scansims.org/sims2011/SIMS2011.pdf">.pdf</a>&nbsp;]
+<a href="https://www.scansims.org/media-files/sims2011/SIMS2011.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>

@@ -1259,7 +1259,7 @@ title: "openmodelica.bib"
   journal = {IEEE Computer},
   volume = {44},
   pages = {62--70},
-  doi = {<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5582102 ">http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5582102 </a>},
+  doi = {10.1109/MC.2010.270},
   year = {2011}
 }
 </pre>
@@ -1270,7 +1270,7 @@ title: "openmodelica.bib"
   title = {MathPDE: A Package to Solve PDEs by Finite Differences},
   journal = {Mathematica Journal},
   volume = {13},
-  doi = {<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/ ">http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/ </a>},
+  url = {<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/</a>},
   year = {2011}
 }
 </pre>
@@ -1299,8 +1299,7 @@ title: "openmodelica.bib"
   number = {1},
   year = {2008},
   pages = {26--49},
-  doi = {10.1016/j.simpat.2007.08.010},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
+  doi = {10.1016/j.simpat.2007.08.010}
 }
 </pre>
 
@@ -1323,7 +1322,7 @@ title: "openmodelica.bib"
   volume = {10},
   number = {4},
   year = {2008},
-  doi = { http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/ }
+  url = {<a href="http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/</a>}
 }
 </pre>
 
@@ -1381,8 +1380,7 @@ title: "openmodelica.bib"
   pages = {187--264},
   issn = {1047-5974},
   month = feb,
-  year = 2006,
-  pdf = {<a href="http://www.mathematica-journal.com/issue/v10i1/contents/MathModelicaPaper/MathModelicaPaper.pdf">http://www.mathematica-journal.com/issue/v10i1/contents/MathModelicaPaper/MathModelicaPaper.pdf</a>}
+  year = 2006
 }
 </pre>
 
@@ -2329,9 +2327,7 @@ title: "openmodelica.bib"
   author = {Adeel Asghar and Adrian Pop and Martin Sjölund and Peter Fritzson},
   title = {Efficient Debugging of Large Algorithmic {Modelica} Applications},
   crossref = {<a href="#mathmod2012">mathmod2012</a>},
-  url = {<a href="http://seth.asc.tuwien.ac.at/proc12/web/html/sessions/MS23.html">http://seth.asc.tuwien.ac.at/proc12/web/html/sessions/MS23.html</a>},
-  urldate = {2013-04-01},
-  pdf = {<a href="http://seth.asc.tuwien.ac.at/proc12/full_paper/Contribution197.pdf">http://seth.asc.tuwien.ac.at/proc12/full_paper/Contribution197.pdf</a>}
+  doi = {10.3182/20120215-3-AT-3016.00192}
 }
 </pre>
 
@@ -2340,7 +2336,7 @@ title: "openmodelica.bib"
   author = {Muhammed Zoheb Hossain and Mattias Nyberg and Olena Rogovchenko and Peter Fritzson},
   title = {Computerized Model Based Functional Safety Analysis},
   crossref = {<a href="#mathmod2012">mathmod2012</a>},
-  pdf = {https://www.openmodelica.org/images/docs/2012-02-Hossain-Nyberg-Rogovchenko-Fritzson-mathmod2012-Functional-Safety.pdf}
+  pdf = {10.3182/20120215-3-AT-3016.00011}
 }
 </pre>
 
@@ -2379,7 +2375,7 @@ title: "openmodelica.bib"
   author = {Mohsen Torabzadeh-Tari and Jhansi Remala and Martin Sjölund and Adrian Pop and Peter Fritzson},
   title = {{OMSketch} -- Graphical Sketching in the {OpenModelica} Interactive Book, OMNotebook},
   crossref = {<a href="#sims2011">sims2011</a>},
-  pdf = {<a href="http://www.scansims.org/sims2011/SIMS2011.pdf">http://www.scansims.org/sims2011/SIMS2011.pdf</a>}
+  pdf = {https://www.scansims.org/media-files/sims2011/SIMS2011.pdf}
 }
 </pre>
 
@@ -2466,7 +2462,7 @@ title: "openmodelica.bib"
   title = {Towards a Benchmark Suite for {Modelica} Compilers: Large Models},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063232},
-  pdf = {https://modelica.org/events/modelica2011/Proceedings/pages/papers/07_1_ID_183_a_fv.pdf}
+  pdf = {https://2011.international.conference.modelica.org/proceedings/pages/papers/07_1_ID_183_a_fv.pdf}
 }
 </pre>
 
@@ -2476,7 +2472,7 @@ title: "openmodelica.bib"
   title = {Tool Support for {Modelica} Real-time Models},
   crossref = {<a href="#modelica2011">modelica2011</a>},
   doi = {10.3384/ecp11063537},
-  pdf = {https://modelica.org/events/modelica2011/Proceedings/pages/papers/44_1_ID_163_a_fv.pdf}
+  pdf = {https://2011.international.conference.modelica.org/proceedings/pages/papers/44_1_ID_163_a_fv.pdf}
 }
 </pre>
 
@@ -2494,7 +2490,7 @@ title: "openmodelica.bib"
   author = {Willi Braun and Lennart Ochel and Bernhard Bachmann},
   title = {Symbolically Derived Jacobians Using Automatic Differentiation – Enhancement of the OpenModelica Compiler},
   crossref = {<a href="#modelica2011">modelica2011</a>},
-  pdf = {https://modelica.org/events/modelica2011/Proceedings/pages/papers/19_4_ID_159_a_fv.pdf}
+  pdf = {https://2011.international.conference.modelica.org/proceedings/pages/papers/19_4_ID_159_a_fv.pdf}
 }
 </pre>
 
@@ -2503,7 +2499,7 @@ title: "openmodelica.bib"
   author = {Oscar Duarte},
   title = {UN‐VirtualLab : A web simulation environment of OpenModelica models for educational purposes},
   crossref = {<a href="#modelica2011">modelica2011</a>},
-  pdf = {https://modelica.org/events/modelica2011/Proceedings/pages/papers/30_poster_ID__a_fv.pdf}
+  pdf = {https://2011.international.conference.modelica.org/proceedings/pages/papers/30_poster_ID__a_fv.pdf}
 }
 </pre>
 
@@ -2512,7 +2508,7 @@ title: "openmodelica.bib"
   author = {Jens Frenkel and Günter Kunze and Peter Fritzson and Martin Sjölund and Adrian Pop and Willi Braun},
   title = {Towards a Modular and Accessible Modelica Compiler Backend},
   crossref = {<a href="#modelica2011">modelica2011</a>},
-  pdf = {https://modelica.org/events/modelica2011/Proceedings/pages/papers/10_3_ID_110_a_fv.pdf}
+  pdf = {https://2011.international.conference.modelica.org/proceedings/pages/papers/10_3_ID_110_a_fv.pdf}
 }
 </pre>
 
@@ -2550,7 +2546,7 @@ title: "openmodelica.bib"
   month = jul,
   year = {2010},
   location = {Chicago, USA},
-  pdf = {<a href="http://www.kth.se/polopoly_fs/1.216153!/Menu/general/column-content/attachment/Paredis_10.10.19.pdf">http://www.kth.se/polopoly_fs/1.216153!/Menu/general/column-content/attachment/Paredis_10.10.19.pdf</a>}
+  pdf = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236</a>}
 }
 </pre>
 
@@ -2560,7 +2556,7 @@ title: "openmodelica.bib"
   title = {Platform-independent modeling of explicitly parallel programs},
   pages = {83--94},
   crossref = {<a href="#ARCS2010">ARCS2010</a>},
-  http = {<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5758990&tag=1</a>}
+  url = {<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5758990&tag=1</a>}
 }
 </pre>
 
@@ -2633,8 +2629,8 @@ title: "openmodelica.bib"
 }
 </pre>
 
-<a name="openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009"></a><pre>
-@inproceedings{<a href="/research/openmodelica#openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009">openmodelica.org:mohsen:Torabzadeh-Tari:modelica:2009</a>,
+<a name="openmodelica.org:mohsen:sims:2009"></a><pre>
+@inproceedings{<a href="/research/openmodelica#openmodelica.org:mohsen:sims:2009">openmodelica.org:mohsen:sims:2009</a>,
   author = {Mohsen Torabzadeh-Tari and Peter Fritzson and Martin Sjölund and Adrian Pop},
   title = {OpenModelica-Python Interoperability Applied to Monte Carlo Simulation},
   crossref = {<a href="#modelica2009">modelica2009</a>},
@@ -2657,8 +2653,7 @@ title: "openmodelica.bib"
   author = {Peter Aronsson and David Broman},
   title = {Extendable Physical Unit Checking with Understandable Error Reporting},
   crossref = {<a href="#modelica2009">modelica2009</a>},
-  doi = {10.3384/ecp09430027},
-  pdf = {<a href="http://www.ep.liu.se/ecp/043/105/ecp09430027.pdf">http://www.ep.liu.se/ecp/043/105/ecp09430027.pdf</a>}
+  doi = {10.3384/ecp09430027}
 }
 </pre>
 
@@ -2667,8 +2662,7 @@ title: "openmodelica.bib"
   author = {Wladimir Schamai and Peter Fritzson and Chris Paredis and Adrian Pop},
   title = {Towards Unified System Modeling and Simulation with ModelicaML: Modeling of Executable Behavior Using Graphical Notations},
   crossref = {<a href="#modelica2009">modelica2009</a>},
-  doi = {10.3384/ecp09430081},
-  pdf = {https://www.modelica.org/events/modelica2009/Proceedings/memorystick/pages/papers/0081/0081.pdf}
+  doi = {10.3384/ecp09430081}
 }
 </pre>
 
@@ -2677,8 +2671,7 @@ title: "openmodelica.bib"
   author = {Francesco Casella and Filippo Donida and Johan Åkesson},
   title = {An {XML} Representation of {DAE} Systems Obtained from {Modelica} Models},
   crossref = {<a href="#modelica2009">modelica2009</a>},
-  doi = {10.3384/ecp09430073},
-  pdf = {https://www.modelica.org/events/modelica2009/Proceedings/memorystick/pages/papers/0073/0073.pdf}
+  doi = {10.3384/ecp09430073}
 }
 </pre>
 
@@ -2753,7 +2746,7 @@ title: "openmodelica.bib"
   author = {Ericsson Magnusson and Peter Fritzson and Adian Pop},
   title = {3D Animation and Programmable 2D Graphics for Visualization of Simulations in OpenModelica},
   crossref = {<a href="#sims2008">sims2008</a>},
-  pdf = {<a href="http://www.scansims.org/sims2008/23.pdf">http://www.scansims.org/sims2008/23.pdf</a>}
+  pdf = {<a href="http://www.scansims.org/media-files/sims2008/23.pdf">http://www.scansims.org/media-files/sims2008/23.pdf</a>}
 }
 </pre>
 
@@ -2839,9 +2832,9 @@ title: "openmodelica.bib"
 <a name="openmodelica.org:norling:sims:2007"></a><pre>
 @inproceedings{<a href="/research/openmodelica#openmodelica.org:norling:sims:2007">openmodelica.org:norling:sims:2007</a>,
   author = {Kristoffer Norling and David Broman and Peter Fritzson and Alexander Siemers and Dag Fritzson},
-  title = { Secure Distributed Co-Simulation over Wide Area Networks},
+  title = {Secure Distributed Co-Simulation over Wide Area Networks},
   crossref = {<a href="#sims2007">sims2007</a>},
-  pdf = {<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.3774&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.3774&rep=rep1&type=pdf</a>}
+  url = {https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=27&Article_No=3}
 }
 </pre>
 
@@ -3039,7 +3032,7 @@ title: "openmodelica.bib"
   author = {Stina Edelfeldt and Peter Fritzson},
   title = {Evaluation and Comparison of Models and Modeling Tools Simulating Nitrogen Processes in Wetlands},
   crossref = {<a href="#sims2005">sims2005</a>},
-  pdf = {<a href="http://scansims.org/sims2005/SIMS2005_33.pdf">http://scansims.org/sims2005/SIMS2005_33.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2005/SIMS2005_33.pdf">http://scansims.org/media-files/sims2005/SIMS2005_33.pdf</a>}
 }
 </pre>
 
@@ -3048,7 +3041,7 @@ title: "openmodelica.bib"
   author = {Peter Fritzson and Peter Aronsson and Håkan Lundvall and Kaj Nyström and Adrian Pop and Levon Saldamli and David Broman},
   title = {The OpenModelica Modeling, Simulation, and Development Environment},
   crossref = {<a href="#sims2005">sims2005</a>},
-  pdf = {<a href="http://scansims.org/sims2005/SIMS2005_58.pdf">http://scansims.org/sims2005/SIMS2005_58.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2005/SIMS2005_58.pdf">http://scansims.org/media-files/sims2005/SIMS2005_58.pdf</a>}
 }
 </pre>
 
@@ -3057,8 +3050,7 @@ title: "openmodelica.bib"
   author = {Håkan Lundvall and Peter Fritzson},
   title = {Event Handling in the OpenModelica Compiler and Run-time System},
   crossref = {<a href="#sims2005">sims2005</a>},
-  pdf = {<a href="http://www.scansims.org/sims2005/SIMS2005_57.pdf">http://www.scansims.org/sims2005/SIMS2005_57.pdf</a>},
-  pdf = {https://www.modelica.org/publications/papers/2005-10-Lundvall-Fritzson-SIMS05-EventsinOpenModelica.pdf}
+  pdf = {<a href="http://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf">http://www.scansims.org/media-files/sims2005/SIMS2005_57.pdf</a>}
 }
 </pre>
 
@@ -3093,7 +3085,7 @@ title: "openmodelica.bib"
   author = {Adrian Pop and Olof Johansson and Peter Fritzson},
   title = {An integrated framework for model-driven design and development using Modelica},
   crossref = {<a href="#sims2004">sims2004</a>},
-  pdf = {<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9407&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.9407&rep=rep1&type=pdf</a>}
+  pdf = {https://www.scansims.org/media-files/sims2004/SIMS2004proceedings.pdf}
 }
 </pre>
 
@@ -3163,7 +3155,7 @@ title: "openmodelica.bib"
   author = {Håkan Lundvall and Peter Fritzson},
   title = {Modeling Concurrent Activities and Resource Sharing in Modelica.},
   crossref = {<a href="#sims2003">sims2003</a>},
-  pdf = {<a href="http://scansims.org/sims2003/papers/SIMS2003_14.pdf">http://scansims.org/sims2003/papers/SIMS2003_14.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf">http://scansims.org/media-files/sims2003/papers/SIMS2003_14.pdf</a>}
 }
 </pre>
 
@@ -3172,7 +3164,7 @@ title: "openmodelica.bib"
   author = {Vadim Engelson and Peter Bunus and Lucian Popescu and Peter Fritzson},
   title = {Mechanical CAD with Multibody Dynamic Analysis Based on Modelica Simulation},
   crossref = {<a href="#sims2003">sims2003</a>},
-  pdf = {<a href="http://scansims.org/sims2003/papers/SIMS2003_34.pdf">http://scansims.org/sims2003/papers/SIMS2003_34.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf">http://scansims.org/media-files/sims2003/papers/SIMS2003_34.pdf</a>}
 }
 </pre>
 
@@ -3181,7 +3173,7 @@ title: "openmodelica.bib"
   author = {Eva-Lena Lengquist-Sandelin and Susanna Monemar and Peter Fritzson and Peter Bunus},
   title = {DrModelica – A Web-Based Teaching Environment for Modelica},
   crossref = {<a href="#sims2003">sims2003</a>},
-  pdf = {<a href="http://scansims.org/sims2003/papers/SIMS2003_3.pdf">http://scansims.org/sims2003/papers/SIMS2003_3.pdf</a>}
+  pdf = {<a href="http://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf">http://scansims.org/media-files/sims2003/papers/SIMS2003_3.pdf</a>}
 }
 </pre>
 
@@ -3190,7 +3182,7 @@ title: "openmodelica.bib"
   author = {Eva-Lena Lengquist-Sandelin and Susanna Monemar and Peter Fritzson and Peter Bunus},
   title = {{DrModelica An Interactive Tutoring Environment for Modelica}},
   crossref = {<a href="#modelica2003">modelica2003</a>},
-  url = {https://www.researchgate.net/publication/237338415_DrModelica_An_Interactive_Tutoring_Environment_for_Modelica}
+  url = {https://modelica.org/events/Conference2003/papers/h27_Lengquist_Sandelin.pdf}
 }
 </pre>
 
@@ -3225,8 +3217,7 @@ title: "openmodelica.bib"
 @inproceedings{<a href="/research/openmodelica#openmodelica.org:saldamli:sims:2001">openmodelica.org:saldamli:sims:2001</a>,
   author = {Levon Saldamli and Peter Fritzson},
   title = {Domains and Partial Differential Equations in Modelica},
-  crossref = {<a href="#sims2001">sims2001</a>},
-  pdf = {<a href="http://www.scansims.org/sims2001/SIMS2001/Papers/Paper07%20-%20L.Saldamli%20%28sims2001Saldamli_v2%29.pdf">http://www.scansims.org/sims2001/SIMS2001/Papers/Paper07%20-%20L.Saldamli%20%28sims2001Saldamli_v2%29.pdf</a>}
+  crossref = {<a href="#sims2001">sims2001</a>}
 }
 </pre>
 
