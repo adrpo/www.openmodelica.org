@@ -2,7 +2,7 @@
 title: "OMOptim"
 ---
 
-<a href="http://openmodelica.org/images/ModelicaTools/OMOptiumParameterOptimicationSenario.jpg" target="_blank" title="OMOptium Optimization Senario"><img style="border: 0;" title="omnotebook" src="/images/ModelicaTools/OMOptiumParameterOptimicationSenario.jpg" alt="OMOptium Parameter Optimization" width="480" border="0" /></a>
+<a href="/images/ModelicaTools/OMOptiumParameterOptimicationSenario.jpg" target="_blank" title="OMOptium Optimization Senario"><img style="border: 0;" title="omnotebook" src="/images/ModelicaTools/OMOptiumParameterOptimicationSenario.jpg" alt="OMOptium Parameter Optimization" width="480" border="0" /></a>
 
 OMOptim is a sub‐system of the OpenModelica platform facilitating optimization in engineering. OMOptim is initially developed in a collaboration between Linköping University and Mines‐ParisTech within the framework of Open Source Modelica Consortium.
 
@@ -15,7 +15,7 @@ OMOptim extends the capabilities of OpenModelica towards design optimization e.g
 <li>Optimal control</li>
 <li>Hybrid systems</li>
 </ul>
-<a href="http://openmodelica.org/images/ModelicaTools/OMOptiumInterface.jpg" target="_blank" title="OMOptium GUI"><img src="/images/ModelicaTools/OMOptiumInterface.jpg" alt="OMOptium Interface" width="480" border="0" /></a>
+<a href="/images/ModelicaTools/OMOptiumInterface.jpg" target="_blank" title="OMOptium GUI"><img src="/images/ModelicaTools/OMOptiumInterface.jpg" alt="OMOptium Interface" width="480" border="0" /></a>
 
 ## Planned Optimization Methods
 
@@ -34,7 +34,7 @@ OMOptim extends the capabilities of OpenModelica towards design optimization e.g
 
 ## Request for Contributions
 
-<a href="http://openmodelica.org/images/ModelicaTools/OMOptiumTopLevelView.jpg" target="_blank" title="OMOptium Top Level View"><img src="/images/ModelicaTools/OMOptiumTopLevelView.jpg" alt="OMOptium Top Level View" width="445" height="486" border="0" /></a>
+<a href="/images/ModelicaTools/OMOptiumTopLevelView.jpg" target="_blank" title="OMOptium Top Level View"><img src="/images/ModelicaTools/OMOptiumTopLevelView.jpg" alt="OMOptium Top Level View" width="445" height="486" border="0" /></a>
 
 ## Contributors
 
