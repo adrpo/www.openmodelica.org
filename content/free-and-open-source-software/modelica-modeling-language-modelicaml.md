@@ -1,5 +1,6 @@
 ---
 title: "Modelica Modeling Language (ModelicaML)"
+aliases: ["/free-and-open-source-software/modelicaml"]
 ---
 <h1>ModelicaML - A UML Profile for Modelica</h1>
 <p><img src="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/pix/modelicaml_concept.png" border="0" alt="ModelicaML concept" width="546" height="327" align="right" name="ModelicaML concept" />Modelica Modeling Language (ModelicaML) is a graphical modeling language for the description of time-continuous and time-discrete/event-based system dynamics. ModelicaML is defined as an extended subset of the <a href="http://www.uml.org/" target="_blank">OMG Unified Modeling Language (UML)</a>. This subset enables the generation of executable <a href="http://www.modelica.org/" target="_blank">Modelica</a> code.</p>
