@@ -22,7 +22,7 @@ title: "Modelica Development Tooling (MDT)"
 <p>MDT is used at <a href="http://www.ida.liu.se/labs/pelab">PELAB</a> for the development of the <a href="http://www.openmodelica.org">OpenModelica</a> compiler.</p>
 <h2>Using</h2>
 <p>To use MDT you need the OpenModelica Compiler and <a href="http://www.eclipse.org./downloads/">Eclipse</a> installed on your system.</p>
-<p>You can find MDT documentation <a href="https://openmodelcia.org/svn/MDT/trunk/docs">HERE</a>.</p>
+<p>You can find MDT documentation <a href="https://openmodelica.org/svn/MDT/trunk/docs">HERE</a>.</p>
 <p><span style="text-decoration: underline;"><strong>You will also need Java 5.0 (aka 1.5) to use the plugin.</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>
 <h2 id="Installing"><a></a>Installing</h2>

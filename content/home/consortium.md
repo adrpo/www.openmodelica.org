@@ -227,7 +227,7 @@ weight: 1
 <li><a href="https://www.perpetuallabs.io/">Perpertual Labs, London, Great Britain</a></li>
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 <li><a href="https://www.ri.se">RISE, Research Institutes of Sweden, Linköping</a></li>
-<li><a href="https://www.rte-france.com">RTE France, Paris, France</a></li>
+<li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
 <li><a href="http://en.tongyuan.cc/">Suzhou Tongyuan Software &amp; Control Technology Co., Ltd., China</a></li>
 <li><a href="https://www.saab.com">Saab, Linköping, Sweden</a></li>
 <li><a href="https://www.bloomberg.com/profile/company/1732547D:CH">Shanghai Duanyan Information Technology Co., Ltd., China</a></li>

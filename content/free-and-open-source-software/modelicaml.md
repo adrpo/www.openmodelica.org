@@ -17,7 +17,7 @@ title: "ModelicaML - A UML Profile for Modelica"
 <!--
 <li><a href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/examples/" mce_href="http://www.ida.liu.se/%7Epelab/modelica/OpenModelica/MDT/ModelicaML/examples/" target="_blank">ModelicaML example-models</a></li>
 -->
-<li>Source code: <a href="https://openmodelcia.org/svn/MDT/">https://openmodelica.ida.liu.se/svn/MDT/</a> (user: <strong>anonymous</strong> password: <strong>none</strong>)</li>
+<li>Source code: <a href="https://openmodelica.org/svn/MDT/">https://openmodelica.org/svn/MDT/</a> (user: <strong>anonymous</strong> password: <strong>none</strong>)</li>
 </ul>
 <h2>Tutorials</h2>
 <ul>

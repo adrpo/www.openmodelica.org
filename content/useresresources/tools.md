@@ -225,7 +225,7 @@ aliases: ["/openmodelicaworld/tools"]
 <ul>
 <li>OpenModelica Development (OMDev) is a package of tools needed to compile OpenModelica on Windows.</li>
 </ul>
-<p style="padding-left: 60px;">OMDev can be found on SVN repository <a href="https://openmodelica.ida.liu.se/svn/OpenModelica/installers/windows/OMDev/">here</a> (user: anonymous, password: none), this package contains the tools needed to compile OpenModelica on Windows platform. Please read the instructions in the INSTALL.txt file present in the package.</p>
+<p style="padding-left: 60px;">OMDev can be found on <a href="https://openmodelica.org/git/OMDev.git">GIT</a>, this package contains the tools needed to compile OpenModelica on Windows platform. Please read the instructions in the INSTALL.txt file present in the package.</p>
 <p>&nbsp;</p>
 <h3>Additional OpenModelica Contributions</h3>
 <p>We have started a collection of tools contributed to OpenModelica by various people. Thank you!</p>
