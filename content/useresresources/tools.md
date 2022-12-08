@@ -9,88 +9,50 @@ aliases: ["/openmodelicaworld/tools"]
 <figcaption>Arrows denote data and control flow</figcaption>
 </figure>
 
-<table border="0">
-<tbody>
-<tr>
-<td><a href="/images/omstructure.png" target="_blank"><img style="border: 0;" title="omc structure" src="/images/ModelicaTools/OMShell.jpg" alt="omc structure" width="120" border="0" /></a></td>
-<td>
-<h3><a href="/free-and-open-source-software/open-modelica-compiler-omc">Advanced Interactive OpenModelica Compiler (OMC)</a></h3>
-<ul>
-<li>Compiles Modelica code to C for Simulation.</li>
-<li>Provides an API to query the loaded Modelica code.</li>
-<li>Can be used from command line or interactively as a Corba object.</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="height: 102px; width: 584px;" border="0">
-<tbody>
-<tr>
-<td>
-<h5><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMShell-screenshot.jpg" target="_blank"><img style="border: 0;" src="/images/ModelicaTools/OMS.jpg" alt="omshell" width="120" border="0" /></a></h5>
-</td>
-<td>
-<h3><a href="/free-and-open-source-software/open-modelica-shell-omshell">Interactive OpenModelica Shell (OMShell)</a></h3>
-<ul>
-<li>The purpose of OMShel is to provide an interactive environment for working with OMC.</li>
-<li>Click the thumbnail for a screenshot.</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table border="0">
-<tbody>
-<tr>
-<td><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMNotebook-screenshot.jpg" target="_blank"><img style="border: 0;" src="/images/ModelicaTools/OMNotebook.jpg" alt="omnotebook" width="120" border="0" /></a></td>
-<td>
-<h3><a href="/free-and-open-source-software/omnotebook">OpenModelica Notebook (OMNotebook)</a></h3>
-<ul>
-<li>A literate programming notebook</li>
-<li>OMNotebook is a Mathematica style Notebook for Modelica.</li>
-<li>The purpose of OMNotebook is to provide an advanced Modelica teaching tool.</li>
-<li>Click the thumbnail for a screenshot.</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="height: 111px; width: 748px;" border="0">
-<tbody>
-<tr>
-<td>
-<h5><a title="Dr Control Usage Senario" href="/images/ModelicaTools/Dr%20Control%20Usage.jpg" target="_blank"><img style="border: 0;" src="/images/ModelicaTools/DrControl.jpg" alt="Dr Control" width="120" border="0" /></a></h5>
-</td>
-<td>
-<h3><a title="Dr Control" href="/free-and-open-source-software/drcontrol" target="_blank">DrControl Under OMNotebook</a></h3>
-<ul>
-<li>DrControl is an interactive course material&nbsp; in control theory based on the electronic book OMNotebook.</li>
-<li>DrControl can be an alternative or complement to the traditional teaching method with lecturing and reading textbooks in control theory.</li>
-<li>Click the thumbnail for a screenshot.</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table border="0">
-<tbody>
-<tr>
-<td>
-<h5><a title="OMEdit Example" href="/images/ModelicaTools/omeditexample.png" target="_blank"><img style="border: 0;" src="/images/ModelicaTools/OMEdit.jpg" alt="OMEdit" width="120" border="0" /></a></h5>
-</td>
-<td>
-<h3><a href="/free-and-open-source-software/omconnectioneditoromedit"><strong>OpenModelica Connection Editor (OMEdit)</strong></a></h3>
-<ul>
-<li>Graphical Connection Editor</li>
-<li>Modelica annotation 3.1 is supported making the exchange of models to other tools easier</li>
-<li>Qt C++ libraries used</li>
-<li>Click the thumbnail for a screenshot.</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+### <a href="/free-and-open-source-software/open-modelica-compiler-omc">Advanced Interactive OpenModelica Compiler (OMC)</a>
+
+<div class="clearfix">
+<a href="/images/omstructure.png"><img style="border: 0; margin-right: 30pt; float: left;" title="omc structure" src="/images/ModelicaTools/OMShell.jpg" alt="omc structure" width="120" border="0" /></a>
+
+* Compiles Modelica code to C for Simulation.
+* Provides an API to query the loaded Modelica code.
+* Can be used from command line or interactively as a Corba object.
+</div>
+
+### <a href="/free-and-open-source-software/open-modelica-shell-omshell">Interactive OpenModelica Shell (OMShell)</a>
+
+<div class="clearfix"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMShell-screenshot.jpg"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMS.jpg" alt="omshell" width="120" border="0" /></a>
+
+The purpose of OMShell is to provide an interactive environment for working with OMC.
+</div>
+
+### <a href="/free-and-open-source-software/omnotebook">OpenModelica Notebook (OMNotebook)</a>
+
+<div class="clearfix"><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Screenshots/OMNotebook-screenshot.jpg"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMNotebook.jpg" alt="omnotebook" width="120" border="0" /></a>
+
+* A literate programming notebook.
+* OMNotebook is a Mathematica style Notebook for Modelica.
+* The purpose of OMNotebook is to provide an advanced Modelica teaching tool.
+</div>
+
+### <a title="Dr Control" href="/free-and-open-source-software/drcontrol" target="_blank">DrControl Under OMNotebook</a>
+
+<div class="clearfix"><a title="Dr Control Usage Senario" href="/images/ModelicaTools/Dr%20Control%20Usage.jpg" ><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/DrControl.jpg" alt="Dr Control" width="120" border="0" /></a>
+
+* DrControl is an interactive course material&nbsp; in control theory based on the electronic book OMNotebook.
+* DrControl can be an alternative or complement to the traditional teaching method with lecturing and reading textbooks in control theory.
+</div>
+
+### <a href="/free-and-open-source-software/omconnectioneditoromedit">OpenModelica Connection Editor (OMEdit)</a>
+
+<div class="clearfix"><a title="OMEdit Example" href="/images/ModelicaTools/omeditexample.png"><img style="border: 0; margin-right: 30pt; float: left;" src="/images/ModelicaTools/OMEdit.jpg" alt="OMEdit" width="120" border="0" /></a>
+
+* Graphical Connection Editor
+* Modelica annotation 3.1 is supported making the exchange of models to other tools easier
+* Qt C++ libraries used
+* Click the thumbnail for a screenshot
+</div>
+
 <table border="0">
 <tbody>
 <tr>
@@ -146,7 +108,7 @@ aliases: ["/openmodelicaworld/tools"]
 <tbody>
 <tr>
 <td>
-<h5><a href="http://www.ida.liu.se/%7Eadrpo/mdt/mdt-0.7.0/MDT-0.7.0-HoverInfo-F2-Focus.jpg" target="_blank"><img src="/images/MDT/MDT.jpg" alt="MDT Screenshot" width="117" /></a></h5>
+<a href="/images/MDT/MDT.jpg" target="_blank"><img src="/images/MDT/MDT.jpg" alt="MDT Screenshot" width="117" /></a>
 </td>
 <td>
 <h3><a href="/free-and-open-source-software/modelica-development-tooling-mdt">Modelica Development Tooling (MDT)</a></h3>
@@ -200,44 +162,3 @@ aliases: ["/openmodelicaworld/tools"]
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h3>Other Useful Tools (not part of OpenModelica)</h3>
-<table style="height: 122px; width: 473px;" border="0">
-<tbody>
-<tr>
-<td>
-<h5><a href="/images/simforge.jpg" target="_blank"><img src="/images/simforge.jpg" alt="simforge" width="113" border="0" /></a></h5>
-</td>
-<td>
-<h3><a href="https://trac.ws.dei.polimi.it/simforge/">Graphical Model Editor&nbsp;(SimForge)</a></h3>
-<ul>
-<li>Graphical model editor from <a href="http://www.dei.polimi.it/index.php?&amp;idlang=eng">Politecnico di Milano</a>.</li>
-<li>Simforge is not mantained anymore.</li>
-<li>Click the thumbnail for a screenshot.</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h3>Development Tools</h3>
-<p>These are additional tools we use for OpenModelica Development.</p>
-<ul>
-<li>OpenModelica Development (OMDev) is a package of tools needed to compile OpenModelica on Windows.</li>
-</ul>
-<p style="padding-left: 60px;">OMDev can be found on <a href="https://openmodelica.org/git/OMDev.git">GIT</a>, this package contains the tools needed to compile OpenModelica on Windows platform. Please read the instructions in the INSTALL.txt file present in the package.</p>
-<p>&nbsp;</p>
-<h3>Additional OpenModelica Contributions</h3>
-<p>We have started a collection of tools contributed to OpenModelica by various people. Thank you!</p>
-<ul>
-<li><a href="http://www.ida.liu.se/labs/pelab/modelica/OpenModelica/Additional">Additional OpenModelica Contributions Area</a></li>
-</ul>
-<p>&nbsp;</p>
-<h3>Fun Zone</h3>
-<p>These are just small tools we had fun implementing :)</p>
-<p><a href="http://www.ida.liu.se/%7Eadrpo/omc/corba">OMC Corba clients in several languages (Java, C++, Python)</a></p>
-<ul>
-<li><a href="http://www.ida.liu.se/%7Eadrpo/omc/corba/_java/">Java (Platform Independent they say ...)</a></li>
-<li><a href="http://www.ida.liu.se/%7Eadrpo/omc/corba/_windows/">windows+python+omniORBpy</a></li>
-<li><a href="http://www.ida.liu.se/%7Eadrpo/omc/corba/_cygwin">cygwin+g++</a></li>
-</ul>

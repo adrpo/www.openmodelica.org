@@ -177,6 +177,12 @@ li[role=doc-endnote] {
   clear: both;
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 #osdonatestatic {
     margin: auto;
     text-align: center;
