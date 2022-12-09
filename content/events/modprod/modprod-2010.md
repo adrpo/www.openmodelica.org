@@ -37,7 +37,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2010/
 <p style="margin-top: 0in;">Henric Andersson, Saab Aerosystems. Needs for Performance of Large-Scale Modeling and Simulation <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-Henric-Andersson_public.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
 <p class="western"><strong>14.00-15.15</strong> <strong>Session 1b. </strong>Place: ACAS, Building A. Session&nbsp;Chair:&nbsp;Petter&nbsp;Krus</p>
-<p style="margin-top: 0in;">Johan Ölvander, Linköping University: Model based optimization as a support in aircraft conceptual design <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-Johan-%d6lvander-MODPROD_2010.pdf"><strong>pdf</strong></a></p>
+<p style="margin-top: 0in;">Johan Ölvander, Linköping University: Model based optimization as a support in aircraft conceptual design <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-Johan-Ölvander-MODPROD_2010.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">Matts karlsson, Linköping University: Computational Fluid Dynamics in Design</p>
 <p style="margin-top: 0in;">Luc Joudrier, ESA, Overview of 3DROV, a planetary exploration rover design and verification tool <a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day1/modprod2010-Day1-Luc-Joudrier-MarsRover.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">&nbsp;</p>
