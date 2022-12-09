@@ -8,10 +8,9 @@ tags: [news]
 <p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;"><span style="font-size: 12pt;">&nbsp;&nbsp;<span style="color: #993366;"><strong>Supported by</strong></span></span></p>
 <p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>Open Source Modelica Consortium (OSMC) and </strong></span></p>
 <p style="margin-right: 266.3pt; line-height: 19.2128px; padding-left: 180px; text-align: center;"><span style="color: #993366; font-size: 12pt;"><strong>Linköping&nbsp;&nbsp;</strong></span><strong style="color: #993366; font-size: 12pt; caret-color: auto;">University (LIU)</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="font-family: 'times new roman', times; font-size: 14pt;"><span style="font-size: 18pt; color: #0000ff;">Registration</span> :&nbsp;<a href="https://liu-se.zoom.us/webinar/register/WN_SwqwBLItQCK7aY66ZzEE2g">https://liu-se.zoom.us/webinar/register/WN_SwqwBLItQCK7aY66ZzEE2g</a></span></p>
-<p>&nbsp;</p>
+
+Registration was via Zoom (link removed)
+
 <p><strong style="color: #993366; font-size: 16px; text-align: center;">Program</strong></p>
 <p style="text-align: justify;"><span style="color: #0000ff;">&nbsp;<span style="font-size: 11pt; font-family: Verdana, sans-serif;"><span style="font-family: 'Times New Roman'; font-size: medium;">08.45-09.00&nbsp;&nbsp;Web-meeting opens</span></span></span></p>
 <p style="color: #000000; font-family: 'Times New Roman'; font-size: medium;"><span style="color: #800080;">&nbsp;09.00-09.10&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="color: #993300;">Martin Sjölund and Adrian Pop (Linköping University and RISE Linköping, Sweden)</span></p>

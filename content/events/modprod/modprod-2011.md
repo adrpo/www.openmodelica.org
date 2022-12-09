@@ -75,7 +75,7 @@ external_url: https://modprodblog.wordpress.com/modprod-2011/
 <p style="margin-top: 0in;">Room: A2, Auilding A</p>
 <p class="western">Peter Fritzson, Linköping Univeristy, "Tool Interoperability with FMI - The Funictional Mock-up Interface (FMI) Standard for Model Exchange and Tool Interoperability"&nbsp;<a href="/images/docs/modprod2011-talks-day2/modprod2011-day2-talk7a-PeterFritzson-FMI.pdf"><strong>pdf</strong></a></p>
 <p style="margin-top: 0in;">Jonas Jansson, Swedish Road and Traffic Institute, "Hardware-in-the-loop Real-Time simulation in Driving Simulators"&nbsp;<a href="/images/docs/modprod2011-talks-day2/modprod2011-day2-talk8a-Jonas-Jansson-Hardware-iin-the-loop-driving-simulation.pdf"><strong>pdf</strong></a></p>
-<p class="western">Wuzhu Chen, Univeristy of&nbsp;Clausthal, "Profiling of Modelica Real-time Models"&nbsp;<a href="http://www.ida.liu.se/%7Epetfr/MODPROD2010talks/Day2/modprod2010-Day2-Dag-Fritzson-RollerScrew.pdf"></a><strong><a href="/images/docs/modprod2011-talks-day2/modprod2011-day2-talk9a-Wuzhu-Chen-Profiling-real-time.pdf"><strong>pdf</strong></a></strong></p>
+<p class="western">Wuzhu Chen, Univeristy of&nbsp;Clausthal, "Profiling of Modelica Real-time Models"&nbsp;<a href="https://www.ida.liu.se/~petfr27/MODPROD2010talks/Day2/modprod2010-Day2-Dag-Fritzson-RollerScrew.pdf"></a><strong><a href="/images/docs/modprod2011-talks-day2/modprod2011-day2-talk9a-Wuzhu-Chen-Profiling-real-time.pdf"><strong>pdf</strong></a></strong></p>
 <p class="western">&nbsp;</p>
 <p class="western"><strong>15.30-16.30 Parallel Session 2bModel-Based Software Design. </strong>Session&nbsp;Chair:&nbsp;Peter Fritzson<strong><br /></strong></p>
 <p style="margin-top: 0in;">Room: ACAS, Building A</p>
