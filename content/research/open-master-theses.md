@@ -1,16 +1,28 @@
 ---
 title: "Open Master Theses Related to the OpenModelica Platform"
+date: 2022-12-12
 ---
-<div style="text-align: center;"><br /> <br /> These projects are suitable for students with skill and interest in advanced programming.<br /> If you are interested in one of the projects, please send a copy of your CV and course transcript, to the contacts indicated for the project you are interested in.<br /> <br /> Updated on 2020-11-10</div>
-<p>&nbsp;</p>
-<h1>Compiler Construction</h1>
-<p><strong><strong><span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Package manager</span></strong></strong></p>
-<p>We currently have a package manager in OpenModelica generating and using this <a href="https://libraries.openmodelica.org/index/v1/index.json">index file</a>. However, the OMEdit GUI needs to be integrated with the package manager and some new features could be interesting (such as proper dependency resolution). This work is probably suitable for a 15/16 ECTS thesis.</p>
-<p>Contact:&nbsp;<a href="http://www.ida.liu.se/~marsj34/">Martin Sjölund</a></p>
-<p><strong><strong><span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Investigating the language server protocol in the context of declarative Equation-Oriented languages</span></strong></strong></p>
-<p>This thesis project aims to investigate language servers in the context of simulation tools. We are interested in examining if there are any domain-specific difficulties in this context compared to other domains. Based on existing empiric knowledge and interviews with experts in simulation tools, we hope that you can investigate what guidelines and experiences are to be gained when examining language servers in the context equation oriented languages</p>
-<p>Contact: <a href="mailto:john.tinnerholm@liu.se">John Tinnerholm</a></p>
-<p><span color="#222222" face="Arial, sans-serif" style="color: #222222; font-family: Arial, sans-serif;"><span style="font-size: 15.3333px;"><b>Julia integration</b></span></span></p>
+
+These projects are suitable for students with skill and interest in advanced programming.<br /> If you are interested in one of the projects, please send a copy of your CV and course transcript, to the contacts indicated for the project you are interested in.
+
+## Compiler Construction
+
+### Package manager
+
+We currently have a package manager in OpenModelica generating and using this <a href="https://libraries.openmodelica.org/index/v1/index.json">index file</a>.
+
+However, the OMEdit GUI integration needs to be improved and new features are necessary (such as proper dependency resolution). This work is probably suitable for a 15/16 ECTS thesis.
+
+Contact: <a href="http://www.ida.liu.se/~marsj34/">Martin Sjölund</a>
+
+### Investigating the language server protocol in the context of declarative Equation-Oriented languages
+
+This thesis project aims to investigate language servers in the context of simulation tools. We are interested in examining if there are any domain-specific difficulties in this context compared to other domains. Based on existing empiric knowledge and interviews with experts in simulation tools, we hope that you can investigate what guidelines and experiences are to be gained when examining language servers in the context equation oriented languages.
+
+Contact: <a href="mailto:john.tinnerholm@liu.se">John Tinnerholm</a>
+
+### Julia integration
+
 <p>There is ongoing work to translate our MetaModelica code to Julia code. We have many ideas on what this could be used for, including JIT-compiling Julia code instead of generating C-code or using our own slow function interpreter. Contact us for our current thoughts and ideas of formulating a thesis for this.</p>
 <p>Contact:&nbsp;<a href="http://www.ida.liu.se/~marsj34/">Martin Sjölund</a>&nbsp;or <a href="http://www.ida.liu.se/department/contact/search.en.shtml?NAME=lena"></a><a href="http://www.ida.liu.se/%7Epetfr/">Peter Fritzson</a>&nbsp;or&nbsp;<a href="http://www.ida.liu.se/%7Eadrpo/">Adrian Pop</a></p>
 <p><strong><strong><span style="font-size: 11.5pt; line-height: 17.6333px; font-family: Arial, sans-serif; color: #222222;">Efficient and correct handling of arrays</span></strong></strong></p>
@@ -53,7 +65,11 @@ title: "Open Master Theses Related to the OpenModelica Platform"
 <p class="MsoNormal">Modelica Code generation from configuration application data</p>
 <p class="MsoNormal">PAID WORK</p>
 <p><a href="/open-theses/exjobbfrontwaymodelicakodgenereringv3.pdf">Click for more details</a><br /> Contact: <a href="mailto:anders.nilsson@frontway.se">Anders Nilsson</a>: CEO, Frontway AB&nbsp;</p>
-<h3><span style="line-height: 1.2;">Development of a high-fidelity non-linear rotorcraft dynamics model using OpenModelica framework</span></h3>
-<p>The goal of this master thesis is to develop a high-fidelity non-linear rotorcraft dynamics model using OpenModelica framework for real-time usage under Linux on the LinkQuad platform - a Micro Air Vehicle quadrotor system. <br /> <a href="/open-theses/2012-UAVHelicopter-OpenModelica-Control-v3.pdf">Click for more details.</a><br /> Contact: <a href="http://www.ida.liu.se/%7Egiaco/giacosite/">Gianpaolo Conte</a> or <a href="http://www.ida.liu.se/department/contact/contactcard.en.shtml?olero90">Lena Buffon</a>i&nbsp;or <a href="http://www.ida.liu.se/%7Epetfr/">Peter Fritzson</a></p>
-<h3>Investigating the language server protocol in the context of declarative Equation-Oriented languages</h3>
-Contact: <a href="https://liu.se/en/employee/johti17">John Tinnerholm</a>.
+
+### Development of a high-fidelity non-linear rotorcraft dynamics model using OpenModelica framework
+
+The goal of this master thesis is to develop a high-fidelity non-linear rotorcraft dynamics model using OpenModelica framework for real-time usage under Linux on the LinkQuad platform - a Micro Air Vehicle quadrotor system.
+
+<a href="/open-theses/2012-UAVHelicopter-OpenModelica-Control-v3.pdf">Click for more details.</a>
+
+Contact: <a href="http://www.ida.liu.se/department/contact/contactcard.en.shtml?olero90">Lena Buffoni</a> or <a href="http://www.ida.liu.se/%7Epetfr/">Peter Fritzson</a></p>
