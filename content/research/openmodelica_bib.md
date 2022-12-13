@@ -2336,7 +2336,7 @@ title: "openmodelica.bib"
   author = {Muhammed Zoheb Hossain and Mattias Nyberg and Olena Rogovchenko and Peter Fritzson},
   title = {Computerized Model Based Functional Safety Analysis},
   crossref = {<a href="#mathmod2012">mathmod2012</a>},
-  pdf = {10.3182/20120215-3-AT-3016.00011}
+  doi = {10.3182/20120215-3-AT-3016.00011}
 }
 </pre>
 
@@ -3023,7 +3023,7 @@ title: "openmodelica.bib"
   booktitle = {In Proc. of the Workshop on Developing Computer Science Education – How Can It Be Done?, Linkoping, Sweden},
   month = {March},
   year = {2006},
-  url = {https://www.researchgate.net/publication/239925042_OMNotebook_-_Interactive_WYSIWYG_Book_Software_for_Teaching_Programming}
+  url = {https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf}
 }
 </pre>
 
@@ -3249,7 +3249,7 @@ title: "openmodelica.bib"
   author = {Jirstrand Mats and Johan Gunnarsson and Peter Fritzson},
   title = {A New Modeling and Simulation Environment for Modelica},
   crossref = {<a href="#ims1999">ims1999</a>},
-  pdf = {https://www.modelica.org/publications/papers/1999-08-jirstrand-gunnarsson-fritzson-IMS99-MathModelica.pdf}
+  pdf = {https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf}
 }
 </pre>
 
@@ -3270,7 +3270,7 @@ title: "openmodelica.bib"
   location = {Brussels, Belgium},
   month = jul,
   year = {1998},
-  pdf = {<a href="http://www.ifs.uni-linz.ac.at/~ecoop/cd/papers/1445/14450067.pdf">http://www.ifs.uni-linz.ac.at/~ecoop/cd/papers/1445/14450067.pdf</a>}
+  doi = {10.1007/BFb0054087}
 }
 </pre>
 
@@ -3390,7 +3390,7 @@ title: "openmodelica.bib"
   author = {Fritzson, Peter and others},
   year = {2010},
   month = {feb},
-  url = {https://github.com/OpenModelica/OpenModelica-doc/blob/v1.9.1/OpenModelicaSystem.pdf}
+  url = {https://github.com/OpenModelica/OpenModelica/blob/v1.20.0/doc/OpenModelicaSystem.pdf}
 }
 </pre>
 
@@ -3516,7 +3516,7 @@ title: "openmodelica.bib"
   issn = {1650-3740},
   location = {Zürich, Switzerland},
   publisher = {Linköping University Electronic Press},
-  url = {<a href="http://www.ep.liu.se/ecp_home/index.en.aspx?issue=056">http://www.ep.liu.se/ecp_home/index.en.aspx?issue=056</a>},
+  url = {https://ep.liu.se/konferensnummer.aspx?series=ecp&issue=56},
   urldate = {2011-11-15}
 }
 </pre>
@@ -3532,7 +3532,7 @@ title: "openmodelica.bib"
   issn = {1650-3740},
   location = {Nottingham, UK},
   publisher = {Linköping University Electronic Press},
-  url = {<a href="http://www.ep.liu.se/ecp_home/index.en.aspx?issue=084">http://www.ep.liu.se/ecp_home/index.en.aspx?issue=084</a>},
+  url = {https://ep.liu.se/konferensnummer.aspx?series=ecp&issue=84},
   urldate = {2013-03-31}
 }
 </pre>

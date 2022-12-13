@@ -1314,7 +1314,7 @@ Muhammed&nbsp;Zoheb Hossain, Mattias Nyberg, Olena Rogovchenko, and Peter Fritzs
  In <em>Proceedings of MATHMOD 2012 - 7th Vienna International
   Conference on Mathematical Modelling</em>, February 2012.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:muhammed:MATHMOD:2012">bib</a>&nbsp;| 
-<a href="10.3182/20120215-3-AT-3016.00011">pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3182/20120215-3-AT-3016.00011">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -2415,7 +2415,7 @@ Anders Fernström, Ingemar Axelsson, Peter Fritzson, Anders Sandholm, and
  In <em>In Proc. of the Workshop on Developing Computer Science
   Education – How Can It Be Done?, Linkoping, Sweden</em>, March 2006.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:Anders:DCSE:2006">bib</a>&nbsp;| 
-<a href="https://www.researchgate.net/publication/239925042_OMNotebook_-_Interactive_WYSIWYG_Book_Software_for_Teaching_Programming">http</a>&nbsp;]
+<a href="https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2852,7 +2852,7 @@ Jirstrand Mats, Johan Gunnarsson, and Peter Fritzson.
  In <em>In Proceedings of the Third International Mathematica
   Symposium(IMS)</em>, August 1999.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mats:ims:1999">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/1999-08-jirstrand-gunnarsson-fritzson-IMS99-MathModelica.pdf">pdf</a>&nbsp;]
+<a href="https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2887,7 +2887,7 @@ Peter Fritzson and Vadim Engelson.
  In <em>In Proceedings of the 12th European Conference on
   Object-Oriented Programming(ECOOP)</em>, July 1998.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:ecoop:1998">bib</a>&nbsp;| 
-<a href="http://www.ifs.uni-linz.ac.at/~ecoop/cd/papers/1445/14450067.pdf">pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.1007/BFb0054087">DOI</a>&nbsp;]
 
 </td>
 </tr>

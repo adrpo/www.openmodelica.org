@@ -932,7 +932,7 @@ Fran&ccedil;ois Cellier, David Broman, Peter Fritzson, and Edward Lee, editors.
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, September 2011.
 [&nbsp;<a href="/research/openmodelica_bib#eoolt2011">bib</a>&nbsp;| 
-<a href="http://www.ep.liu.se/ecp_home/index.en.aspx?issue=056">http</a>&nbsp;]
+<a href="https://ep.liu.se/konferensnummer.aspx?series=ecp&amp;issue=56">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1366,7 +1366,7 @@ Anders Fernström, Ingemar Axelsson, Peter Fritzson, Anders Sandholm, and
  In <em>In Proc. of the Workshop on Developing Computer Science
   Education – How Can It Be Done?, Linkoping, Sweden</em>, March 2006.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:Anders:DCSE:2006">bib</a>&nbsp;| 
-<a href="https://www.researchgate.net/publication/239925042_OMNotebook_-_Interactive_WYSIWYG_Book_Software_for_Teaching_Programming">http</a>&nbsp;]
+<a href="https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1829,7 +1829,7 @@ Peter Fritzson and Vadim Engelson.
  In <em>In Proceedings of the 12th European Conference on
   Object-Oriented Programming(ECOOP)</em>, July 1998.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fritzson:ecoop:1998">bib</a>&nbsp;| 
-<a href="http://www.ifs.uni-linz.ac.at/~ecoop/cd/papers/1445/14450067.pdf">.pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.1007/BFb0054087">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -1891,7 +1891,7 @@ Peter Fritzson, Vadim Engelson, and Krishnamurthy Sheshadri.
 Peter Fritzson et&nbsp;al.
  OpenModelica System Documentation, feb 2010.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:doc:system">bib</a>&nbsp;| 
-<a href="https://github.com/OpenModelica/OpenModelica-doc/blob/v1.9.1/OpenModelicaSystem.pdf">.pdf</a>&nbsp;]
+<a href="https://github.com/OpenModelica/OpenModelica/blob/v1.20.0/doc/OpenModelicaSystem.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2292,7 +2292,7 @@ Muhammed&nbsp;Zoheb Hossain, Mattias Nyberg, Olena Rogovchenko, and Peter Fritzs
  Computerized model based functional safety analysis.
  In MATHMOD'2012 [<a href="#mathmod2012">189</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:muhammed:MATHMOD:2012">bib</a>&nbsp;| 
-<a href="10.3182/20120215-3-AT-3016.00011">www:</a>&nbsp;]
+<a href="http://dx.doi.org/10.3182/20120215-3-AT-3016.00011">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -3018,7 +3018,7 @@ Jirstrand Mats, Johan Gunnarsson, and Peter Fritzson.
  A new modeling and simulation environment for modelica.
  In IMS'1999 [<a href="#ims1999">150</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mats:ims:1999">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/1999-08-jirstrand-gunnarsson-fritzson-IMS99-MathModelica.pdf">.pdf</a>&nbsp;]
+<a href="https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -3254,7 +3254,7 @@ Henrik Nilsson, editor.
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, April 2013.
 [&nbsp;<a href="/research/openmodelica_bib#eoolt2013">bib</a>&nbsp;| 
-<a href="http://www.ep.liu.se/ecp_home/index.en.aspx?issue=084">http</a>&nbsp;]
+<a href="https://ep.liu.se/konferensnummer.aspx?series=ecp&amp;issue=84">http</a>&nbsp;]
 
 </td>
 </tr>
