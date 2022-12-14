@@ -3015,10 +3015,11 @@ Henrik Magnusson.
 </td>
 <td class="bibtexitem">
 Jirstrand Mats, Johan Gunnarsson, and Peter Fritzson.
- A new modeling and simulation environment for modelica.
+ Mathmodelica - a new modeling and simulation environment for
+  mathematica.
  In IMS'1999 [<a href="#ims1999">150</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:mats:ims:1999">bib</a>&nbsp;| 
-<a href="https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">.pdf</a>&nbsp;]
+<a href="https://www.internationalmathematicasymposium.org/IMS99/paper12/MathModelica-IMS99.nb">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -5420,11 +5421,11 @@ Niklas Worschech and Lars Mikelsons.
 [<a name="openmodelica.org:wrangsjo:ims:1999">344</a>]
 </td>
 <td class="bibtexitem">
-Andreas Wrangsjö, Peter Fritzson, and Sheshadri K.
+Andreas Wrangsjö, Peter Fritzson, and Sheshadri Krishnamurthy.
  Transforming systems of pdes for efficient numerical solution.
  In IMS'1999 [<a href="#ims1999">150</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wrangsjo:ims:1999">bib</a>&nbsp;| 
-<a href="http://south.rotol.ramk.fi/IMS/IMS99/paper7/Transformations.pdf">.pdf</a>&nbsp;]
+<a href="http://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>

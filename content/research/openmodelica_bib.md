@@ -3247,18 +3247,18 @@ title: "openmodelica.bib"
 <a name="openmodelica.org:mats:ims:1999"></a><pre>
 @inproceedings{<a href="/research/openmodelica#openmodelica.org:mats:ims:1999">openmodelica.org:mats:ims:1999</a>,
   author = {Jirstrand Mats and Johan Gunnarsson and Peter Fritzson},
-  title = {A New Modeling and Simulation Environment for Modelica},
+  title = {MathModelica - a New Modeling and Simulation Environment for Mathematica},
   crossref = {<a href="#ims1999">ims1999</a>},
-  pdf = {https://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf}
+  pdf = {https://www.internationalmathematicasymposium.org/IMS99/paper12/MathModelica-IMS99.nb}
 }
 </pre>
 
 <a name="openmodelica.org:wrangsjo:ims:1999"></a><pre>
 @inproceedings{<a href="/research/openmodelica#openmodelica.org:wrangsjo:ims:1999">openmodelica.org:wrangsjo:ims:1999</a>,
-  author = {Andreas Wrangsjö and Peter Fritzson and Sheshadri K},
+  author = {Andreas Wrangsjö and Peter Fritzson and Sheshadri Krishnamurthy},
   title = {Transforming Systems of PDEs for Efficient Numerical Solution},
   crossref = {<a href="#ims1999">ims1999</a>},
-  pdf = {<a href="http://south.rotol.ramk.fi/IMS/IMS99/paper7/Transformations.pdf">http://south.rotol.ramk.fi/IMS/IMS99/paper7/Transformations.pdf</a>}
+  pdf = {<a href="http://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf">http://www.internationalmathematicasymposium.org/IMS99/paper7/Transformations.pdf</a>}
 }
 </pre>
 
