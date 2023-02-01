@@ -1,0 +1,1 @@
+{{ $res := .Get 0 | index .Site.Params.current_branch }}{{ $res := replace $res "master" "latest" }}{{ replace $res "maintenance/v" "" }}
