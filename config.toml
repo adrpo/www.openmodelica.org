@@ -1,4 +1,4 @@
-baseURL = 'http://hugo.openmodelica.org/'
+baseURL = 'https://openmodelica.org/'
 languageCode = 'en-us'
 title = 'OpenModelica'
 theme = 'openmodelica'
