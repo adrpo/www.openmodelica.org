@@ -1,0 +1,1 @@
+{{ .Get 0 | index .Site.Params.current_version | replaceRE "^([0-9]+[.][0-9]+)[.](.*)" "$1/$2" }}
