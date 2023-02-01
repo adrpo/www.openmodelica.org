@@ -6,7 +6,7 @@ title: "Courses"
 <p>The links from below&nbsp;are useful for the course in MetaModelica:</p>
 <ul>
 <li><a href="https://github.com/OpenModelica/OpenModelica/tree/master/testsuite/metamodelica/MetaModelicaDev"><span style="text-decoration: underline;"><span style="color: #800080;">The course material</span></span></a>.</li>
-<li><a href="https://openmodelica.org/git/OMDev.git"><span style="text-decoration: underline;"><span style="color: #800080;">OMDEV</span></span></a> - everything needed to compile OpenModelica (and this course material).</li>
+<li><a href="https://gitlab.liu.se/OpenModelica/OMDev.git"><span style="text-decoration: underline;"><span style="color: #800080;">OMDEV</span></span></a> - everything needed to compile OpenModelica (and this course material).</li>
 <li><a href="/?id=49:modelica-development-tooling-mdt&amp;catid=10:main-category"><span style="text-decoration: underline;"><span style="color: #800080;">MDT</span></span></a> - the Eclipse plugin used as development environment (a full copy including Eclipse is provided, if you don't have it installed).</li>
 <li><a href="/developersresources/devdocumentation"><span style="text-decoration: underline;"><span style="color: #800080;">Documentation</span></span></a>, so you can read about the MetaModelica language.</li>
 <li><span lang="EN-US"><span style="color: #333333;"><a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-66440">Meta-Programming and Language Modeling with MetaModelica 1.0</a></span> by Peter </span>Fritzson and Adrian Pop,&nbsp;2011</li>
