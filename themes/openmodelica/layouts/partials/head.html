@@ -1,6 +1,8 @@
 <title>{{ .Title }}</title>
 <link rel="stylesheet" href="/css/openmodelica.css">
 <link rel="icon" type="image/x-icon" href="/images/logo-small.svg">
-{{ with .Params.external_url }}
+{{ if .Params.qrcodejs }}
+<script src="/js/qrcode.min.js"></script>
+{{ end }}{{ with .Params.external_url }}
 <meta http-equiv="refresh" content="0; URL={{ . }}" />
 {{ end }}
