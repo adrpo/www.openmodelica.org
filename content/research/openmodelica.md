@@ -4230,7 +4230,7 @@ Wladimir Schamai, Peter Fritzson, Christiaan Paredis, and Philipp Helle.
  ModelicaML value bindings for automated model composition.
  In TMS/DEVS'2012 [<a href="#TMS/DEVS2012">329</a>], pages 31:1--31:8.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:TMS/DEVS:2012">bib</a>&nbsp;| 
-<a href="https://www.openmodelica.org/images/docs/2012-03-Schamai-Fritzson-Paredis-Helle-TMS2012-ModelicaML-ValueBindings-ModelComposition.pdf">.pdf</a>&nbsp;]
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -4767,7 +4767,7 @@ Martin Sjölund, Mahder Gebremedhin, and Peter Fritzson.
   platforms by utilizing model structure.
  In Darte [<a href="#cpc2013">67</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:cpc:2013">bib</a>&nbsp;| 
-<a href="https://openmodelica.org/publications/CPC2013-sjoelund.pdf">.pdf</a>&nbsp;]
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -5061,7 +5061,7 @@ Gustaf Thorslund, Mahder Gebremedhin, and Peter Fritzson.
   ParModelica.
  In EUROSIM'2016 [<a href="#eurosim2016">85</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thorslund:eurosim:2016">bib</a>&nbsp;| 
-<a href="https://www.openmodelica.org/images/docs/PDEParModelicaLiuPress.pdf">.pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3384/ecp17142660">DOI</a>&nbsp;]
 
 </td>
 </tr>

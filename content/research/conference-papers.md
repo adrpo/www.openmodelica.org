@@ -455,7 +455,7 @@ Gustaf Thorslund, Mahder Gebremedhin, and Peter Fritzson.
  In <em>Proceedings of 9th EUROSIM Congress on Modelling and
   Simulation</em>, September 2016.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:thorslund:eurosim:2016">bib</a>&nbsp;| 
-<a href="https://www.openmodelica.org/images/docs/PDEParModelicaLiuPress.pdf">pdf</a>&nbsp;]
+<a href="http://dx.doi.org/10.3384/ecp17142660">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -933,7 +933,7 @@ Martin Sjölund, Mahder Gebremedhin, and Peter Fritzson.
  In Alain Darte, editor, <em>Proceedings of the 17th Workshop on
   Compilers for Parallel Computing</em>, July 2013.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:cpc:2013">bib</a>&nbsp;| 
-<a href="https://openmodelica.org/publications/CPC2013-sjoelund.pdf">pdf</a>&nbsp;]
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -1265,7 +1265,7 @@ Wladimir Schamai, Peter Fritzson, Christiaan Paredis, and Philipp Helle.
   Simulation - DEVS Integrative M&amp;S Symposium</em>, pages 31:1--31:8. Society for
   Computer Simulation International, March 2012.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:TMS/DEVS:2012">bib</a>&nbsp;| 
-<a href="https://www.openmodelica.org/images/docs/2012-03-Schamai-Fritzson-Paredis-Helle-TMS2012-ModelicaML-ValueBindings-ModelComposition.pdf">pdf</a>&nbsp;]
+<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">http</a>&nbsp;]
 
 </td>
 </tr>

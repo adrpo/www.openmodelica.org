@@ -1898,7 +1898,7 @@ title: "openmodelica.bib"
   author = {Gustaf Thorslund and Mahder Gebremedhin and Peter Fritzson},
   title = {Parallel Simulation of {PDE}-based {Modelica} Models using {ParModelica}},
   crossref = {<a href="#eurosim2016">eurosim2016</a>},
-  pdf = {https://www.openmodelica.org/images/docs/PDEParModelicaLiuPress.pdf}
+  doi = {10.3384/ecp17142660}
 }
 </pre>
 
@@ -2181,7 +2181,7 @@ title: "openmodelica.bib"
   author = {Martin Sjölund and Mahder Gebremedhin and Peter Fritzson},
   title = {Parallelizing Equation-Based Models for Simulation on Multi-Core Platforms by Utilizing Model Structure},
   crossref = {<a href="#cpc2013">cpc2013</a>},
-  pdf = {https://openmodelica.org/publications/CPC2013-sjoelund.pdf}
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110322</a>}
 }
 </pre>
 
@@ -2345,7 +2345,7 @@ title: "openmodelica.bib"
   author = {Wladimir Schamai and Peter Fritzson and Christiaan Paredis and Philipp Helle},
   title = {{ModelicaML} Value Bindings for Automated Model Composition},
   crossref = {<a href="#TMS/DEVS2012">TMS/DEVS2012</a>},
-  pdf = {https://www.openmodelica.org/images/docs/2012-03-Schamai-Fritzson-Paredis-Helle-TMS2012-ModelicaML-ValueBindings-ModelComposition.pdf}
+  url = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110308</a>}
 }
 </pre>
 
