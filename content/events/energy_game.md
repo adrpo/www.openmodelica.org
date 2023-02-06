@@ -9,7 +9,7 @@ qrcodejs: true
 
 ## How does the simulation process work?
 
-In order to provide a degree of realism and project the impact of the decisions taken in the game, we use simulation support. [OpenModelica](openmodelica.org) is the tool used to generate the simulation results for the game. The input data (solar irradiance, wind speed, hydropower production capacity and nuclear power production capacity for the region, household demand and amount of different types of vehicles) is collected for the Östergotland region.
+In order to provide a degree of realism and project the impact of the decisions taken in the game, we use simulation support. [OpenModelica](https://openmodelica.org) is the tool used to generate the simulation results for the game. The input data (solar irradiance, wind speed, hydropower production capacity and nuclear power production capacity for the region, household demand and amount of different types of vehicles) is collected for the Östergotland region.
 This data is pre-processed in Python based on the decisions taken in the game and provided to the physical models in Modelica to then obtain the CO2 production, total energy production and other KPIs. The data is then again processed in Python to generate the result graphs.
 
 Example of energy usage projections based on current trends, the blue line marks the current year:
