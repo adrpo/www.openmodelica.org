@@ -19,3 +19,6 @@ theme = 'openmodelica'
 extensions = [
     "DefinitionLists",
 ]
+
+[markup.highlight]
+  noClasses=false

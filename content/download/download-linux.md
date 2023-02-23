@@ -24,16 +24,97 @@ Nightly Build
 
 ## Debian / Ubuntu Packages
 
+<script>
+var getJSON = function(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.responseType = 'json';
+  xhr.onload = function() {
+  var status = xhr.status;
+  if (status === 200) {
+    callback(null, xhr.response);
+  } else {
+    callback(status, xhr.response);
+  }
+  };
+  xhr.send();
+};
+var omLinuxAPIData;
+var selectedDebArch = function() {
+  var archSelect = document.getElementById("deb-arch-select");
+  document.getElementById("deb-arch").innerHTML = archSelect.value;
+  var codenameSelect = ['<option value="$(lsb_release -cs)" selected>(auto)</option>',
+    '<option value="$(grep DISTRIB_CODENAME /etc/upstream-release/lsb-release | cut -d= -f2)">(mint)</option>'
+  ];
+  var value = archSelect.value;
+  if (value.startsWith("$")) {
+    value = "amd64";
+  }
+  codenameSelect = codenameSelect.concat(omLinuxAPIData.deb[value].map(key => '<option value="'+key+'">'+key+'</option>'));
+  document.getElementById("deb-codename-select").innerHTML=codenameSelect.join("\n");
+};
+var detectedArch = function(debArch) {
+  var debArchSelect = ['<option value="$(dpkg --print-architecture)">(auto)</option>'];
+  debArchSelect = debArchSelect.concat(Object.keys(omLinuxAPIData.deb).map(function (key) {
+    return '<option value="'+key+(key==debArch ? '" selected' : '"')+'>'+key+'</option>'
+  }));
+  document.getElementById("deb-arch-select").innerHTML=debArchSelect.join("\n");
+  selectedDebArch();
+}
+var selectedDebCodename = function() {
+  var codenameSelect = document.getElementById("deb-codename-select");
+  document.getElementById("deb-codename").innerHTML=codenameSelect.value;
+};
+var selectedBranch = function() {
+  var branchSelect = document.getElementById("deb-branch-select");
+  document.getElementById("deb-branch").innerHTML=branchSelect.value;
+}
+getJSON('/api/linux.json', function(err, data) {
+  omLinuxAPIData = data;
+  var debOSNames = "";
+  if (err !== null) {
+    debOSNames = "Failed to load list of OSes: " + err;
+  } else {
+    debOSNames = omLinuxAPIData["deb"]["amd64"].join(", ");
+    try {
+      var arch = navigator.userAgentData.getHighEntropyValues([ "architecture", "bitness" ]);
+      arch.then(function (arch) {
+        console.log(arch);
+        var debArch = "amd64";
+        if (arch.architecture == 'x86') {
+          if (arch.bitness == 64) {
+            debArch = "amd64";
+          }
+          if (arch.bitness == 32) {
+            debArch = "i386";
+          }
+        } else if (arch.architecture == 'arm') {
+          if (arch.bitness == 64) {
+            debArch = "arm64";
+          }
+          if (arch.bitness == 32) {
+            debArch = "armhf";
+          }
+        }
+        detectedArch(debArch);
+      });
+    } catch (error) {
+      console.error(error);
+      detectedArch("amd64");
+    }
+  }
+  document.getElementById("debian-os-names").innerHTML=debOSNames;
+});
+</script>
+
 <p><img style="vertical-align: baseline;" src="/images/ubuntu-logo.gif" alt="" width="80" height="80" border="0" /><img style="vertical-align: baseline;" src="/images/debian_splash.png" alt="" width="80" height="80" border="0" /></p>
 
-We provide .deb packages compiled on Ubuntu and Debian:
-**jessie, stretch, bionic, focal, jammy** (x86, amd64, and armv7), and usually the most recent non-LTS Ubuntu versions. You can also check the <a href="https://build.openmodelica.org/apt/dists/">full list including latest update</a>.
+We provide .deb packages for the following Debian and Ubuntu versions:
+<span id="debian-os-names">LTS versions of both and non-LTS versions of the latest Ubuntu (x86, amd64, and armv7). You can also check the <a href="https://build.openmodelica.org/apt/dists/">full list including latest update</a></span>.
 
 Source packages are also provided if your distribution is too old (or still not released yet) for the binary packages. Older distributions may not have all build dependencies used by omc, but can still be built. Some older distributions still have binary packages, but are no longer maintained. Note that armhf packages are only available for more recent versions of Ubuntu (and not Debian at all).
 
-Use the following lines in a shell to update your sources.list (you might want to substitute your release name for the corresponding Debian or Ubuntu release if your OS is based on these and there is no symbolic link in the repository yet.
-The line below installs the **stable** version (as defined above); you can replace it with **release** or **nightly** as you prefer.
-Add the **deb-src** entry if you want to be able to install OpenModelica's build dependencies and compile it yourself from source code.
+Use the following lines in a shell to update your packages and install the certificate signing the OpenModelica packages:
 
 ```bash
 sudo apt-get update
@@ -41,12 +122,9 @@ sudo apt-get install \
   ca-certificates \
   curl \
   gnupg \
+  sudo \
   lsb-release
 curl -fsSL http://build.openmodelica.org/apt/openmodelica.asc | sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
-# Or replace stable with nightly or release
-echo \
- "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] https://build.openmodelica.org/apt \
- $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/openmodelica.list > /dev/null
 ```
 
 To verify that the correct key is installed (optional):
@@ -61,6 +139,27 @@ pub   rsa2048 2010-06-22 [SC]
 uid                      OpenModelica Build System <build@openmodelica.org>
 sub   rsa2048 2010-06-22 [E]
 ```
+
+Then update your sources.list using the lines below.
+Choose your CPU architecture, OS and preferred release branch to follow.
+If you are unsure, select the auto options (or mint if you are running Mint Linux) and the **stable** release branch.
+If your OS is not in the list, it is probably outdated and you might be able install an older version using the auto option, or it is a recent Debian/Ubuntu release not yet on the list (contact us to get it added once there is a release candidate for the OS).
+
+CPU architecture <select label="CPU architecture" id="deb-arch-select" onChange="selectedDebArch()"></select>
+OS <select id="deb-codename-select" onChange="selectedDebCodename()"></select>
+Release branch <select id="deb-branch-select" onChange="selectedBranch()">
+  <option value="release">release</option>
+  <option value="stable" selected>stable</option>
+  <option value="nigthly">nightly</option>
+</select>
+
+
+<div class="highlight"><pre tabindex="0" class="chroma">
+<code>echo "deb [arch=<span id="deb-arch">$(dpkg --print-architecture)</span> signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
+  https://build.openmodelica.org/apt <span id="deb-codename">$(lsb_release -cs)</span> <span id="deb-branch">stable</span>" | \
+  sudo tee /etc/apt/sources.list.d/openmodelica.list</code>
+</pre></div>
+
 
 Then update and install OpenModelica:
 
