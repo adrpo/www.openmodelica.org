@@ -261,7 +261,16 @@ sudo dpkg -i *.deb
 
 <p><img style="vertical-align: baseline;" src="/images/rpm-package.png" alt="" width="80" height="80" border="0" /></p>
 
-There are yum/dnf repositories (to be downloaded to `/etc/yum.repos.d/`) available for <a href="https://build.openmodelica.org/rpm/">CentOS/RHEL/Fedora</a>.
+Note that CentOS/RHEL requires the [EPEL](https://fedoraproject.org/wiki/EPEL) repository:
+
+```bash
+dnf install epel-release
+```
+
+EPEL includes the omniORB libraries (needed for OMPython and other OpenModelica clients).
+Only Fedora supports 3D visualization (it includes OpenSceneGraph in the repositories).
+
+To add the OpenModelica yum/dnf repository to your system, choose your OS below and run the command:
 
 CPU architecture <select label="CPU architecture" id="rpm-arch-select" onChange="selectedRpmArch()"></select>
 OS <select id="rpm-codename-select" onChange="selectedRpmCodename()"></select>
@@ -272,23 +281,20 @@ Release branch <select id="rpm-branch-select" onChange="selectedRpmBranch()">
 <code>dnf config-manager --add-repo https://build.openmodelica.org/rpm/<span id="rpm-os">ENTER-RPM-OS-VERSION-HERE</span>/omc.repo</code>
 </pre></div>
 
-Note that CentOS/RHEL requires the EPEL (all version) repository enabled (see the linked repo files for details).
-EPEL includes the omniORB libraries (needed for OMPython and other OpenModelica clients).
-Only Fedora supports 3D visualization (it includes OpenSceneGraph in the repositories).
-
 Once the repository has been enabled in the OS, install OpenModelica:
 
 <div class="highlight"><pre tabindex="0" class="chroma">
 <code>dnf install <span id="rpm-branch">openmodelica-nightly</span></code>
 </pre></div>
 
-It is possible to install multiple version of OpenModelica and then select which version /usr/bin/omc (and OMEdit, etc) should point to:
+It is possible to install multiple version of OpenModelica (although this use-case has mostly been replaced by using docker).
+You can then select which version /usr/bin/omc (and OMEdit, etc) should point to:
 
 ```bash
-sudo alternatives --config openmodelica
+alternatives --config openmodelica
 ```
 
-You can also use commands like `omc-{{< param current_version.release >}}` or `/opt/openmodelica-{{< param current_version.release >}}/bin/omc` directly if you want to try other OpenModelica versions (this use-case has mostly been replaced by using docker).
+You can also use commands like `omc-{{< param current_version.release >}}` or `/opt/openmodelica-{{< param current_version.release >}}/bin/omc` directly if you want to try other OpenModelica versions.
 
 To install libraries, see [above](#modelica-libraries).
 
