@@ -2,25 +2,24 @@
 title: "Download Linux"
 date: 2021-12-18
 donate: true
+toc: true
 ---
-
-## The OpenModelica Linux released software is classified as defined below:
 
 Official Release
 : * contains only validated new features
   * intended for productive usage
-  * latest official release **{{< param "current_version.release" >}}** (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.release" >}}">commit history</a>) (<a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/{{< param "current_version.release" >}}">release notes</a>)
+  * latest official release **<span id="omc-version-release">{{< param "current_version.release" >}}</span>** (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.release" >}}">commit history</a>) (<a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v{{< param "current_version.release" >}}">release notes</a>)
 
 Stable Development
 : * dev.xx versions are released during development when the performance is sufficiently stable; they contain bug fixes and some new features that still need to be validated
   * dev.beta.xx versions are released in preparation to official releases for testing; no new features are added to beta versions, only bug fixes
-  * latest stable release: **{{< param "current_version.stable" >}}** (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.stable" >}}">commit history</a>) (<a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/{{< param "current_version.stable" >}}">release notes</a>)
+  * latest stable release: **<span id="omc-version-stable">{{< param "current_version.stable" >}}** (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.stable" >}}">commit history</a>) (<a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v{{< param "current_version.stable" >}}">release notes</a>)
 
 Nightly Build
 : * built daily with the latest additions to the code base that pass the standard regression tests (<a href="https://github.com/OpenModelica/OpenModelica/commits/{{< param "current_branch.nightly" >}}">commit history</a>)
   * intended to make the latest developments and enhancements available for testers and developers, not for productive usage
   * features that are not subject to regression testing may get broken between one nightly build and the next
-  * current nightly builds **{{< param "current_version.nightly" >}}**
+  * current nightly builds **<span id="omc-version-nightly">{{< param "current_version.nightly" >}}**
 
 ## Debian / Ubuntu Packages
 
@@ -40,34 +39,70 @@ var getJSON = function(url, callback) {
   xhr.send();
 };
 var omLinuxAPIData;
+function escapeHtml(unsafe)
+{
+  return unsafe
+         .replace(/&/g, "&amp;")
+         .replace(/</g, "&lt;")
+         .replace(/>/g, "&gt;")
+         .replace(/"/g, "&quot;")
+         .replace(/\\/g, "&Backslash;")
+         .replace(/'/g, "&#039;");
+}
 var selectedDebArch = function() {
   var archSelect = document.getElementById("deb-arch-select");
   document.getElementById("deb-arch").innerHTML = archSelect.value;
-  var codenameSelect = ['<option value="$(lsb_release -cs)" selected>(auto)</option>',
-    '<option value="$(grep DISTRIB_CODENAME /etc/upstream-release/lsb-release | cut -d= -f2)">(mint)</option>'
-  ];
+  var codenameSelect = ['<option value="$('+escapeHtml('cat /etc/os-release | grep "\(UBUNTU\\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1')+')" selected>(auto)</option>'];
   var value = archSelect.value;
   if (value.startsWith("$")) {
     value = "amd64";
   }
   codenameSelect = codenameSelect.concat(omLinuxAPIData.deb[value].map(key => '<option value="'+key+'">'+key+'</option>'));
   document.getElementById("deb-codename-select").innerHTML=codenameSelect.join("\n");
+  selectedDebCodename();
+};
+var selectedRpmArch = function() {
+  var archSelect = document.getElementById("rpm-arch-select");
+  var codenameSelect = [];
+  var value = archSelect.value;
+  codenameSelect = codenameSelect.concat(Object.keys(omLinuxAPIData.rpm[value]).reverse().map(key => '<option value="'+key+'">'+key+'</option>'));
+  document.getElementById("rpm-codename-select").innerHTML=codenameSelect.join("\n");
+  selectedRpmCodename();
 };
 var detectedArch = function(debArch) {
   var debArchSelect = ['<option value="$(dpkg --print-architecture)">(auto)</option>'];
   debArchSelect = debArchSelect.concat(Object.keys(omLinuxAPIData.deb).map(function (key) {
     return '<option value="'+key+(key==debArch ? '" selected' : '"')+'>'+key+'</option>'
   }));
+  var rpmArchSelect = [];
+  rpmArchSelect = rpmArchSelect.concat(Object.keys(omLinuxAPIData.rpm).map(function (key) {
+    return '<option value="'+key+(key==debArch ? '" selected' : '"')+'>'+key+'</option>'
+  }));
   document.getElementById("deb-arch-select").innerHTML=debArchSelect.join("\n");
+  document.getElementById("rpm-arch-select").innerHTML=rpmArchSelect.join("\n");
   selectedDebArch();
+  selectedRpmArch();
 }
 var selectedDebCodename = function() {
   var codenameSelect = document.getElementById("deb-codename-select");
   document.getElementById("deb-codename").innerHTML=codenameSelect.value;
 };
+var selectedRpmCodename = function() {
+  var codeNameValue=document.getElementById("rpm-codename-select").value;
+  document.getElementById("rpm-os").innerHTML=codeNameValue;
+  var codenameSelect = [];
+  var archValue = document.getElementById("rpm-arch-select").value;
+  codenameSelect = codenameSelect.concat(omLinuxAPIData.rpm[archValue][codeNameValue].reverse().map(key => '<option value="'+key+'">'+key+'</option>'));
+  document.getElementById("rpm-branch-select").innerHTML=codenameSelect.join("\n");
+  selectedRpmBranch();
+};
 var selectedBranch = function() {
   var branchSelect = document.getElementById("deb-branch-select");
   document.getElementById("deb-branch").innerHTML=branchSelect.value;
+}
+var selectedRpmBranch = function() {
+  var branchSelect = document.getElementById("rpm-branch-select");
+  document.getElementById("rpm-branch").innerHTML=branchSelect.value;
 }
 getJSON('/api/linux.json', function(err, data) {
   omLinuxAPIData = data;
@@ -104,6 +139,9 @@ getJSON('/api/linux.json', function(err, data) {
     }
   }
   document.getElementById("debian-os-names").innerHTML=debOSNames;
+  document.getElementById("omc-version-release").innerHTML=omLinuxAPIData.version.release;
+  document.getElementById("omc-version-stable").innerHTML=omLinuxAPIData.version.stable;
+  document.getElementById("omc-version-nightly").innerHTML=omLinuxAPIData.version.nightly;
 });
 </script>
 
@@ -118,13 +156,9 @@ Use the following lines in a shell to update your packages and install the certi
 
 ```bash
 sudo apt-get update
-sudo apt-get install \
-  ca-certificates \
-  curl \
-  gnupg \
-  sudo \
-  lsb-release
-curl -fsSL http://build.openmodelica.org/apt/openmodelica.asc | sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
+sudo apt-get install ca-certificates curl gnupg sudo
+curl -fsSL http://build.openmodelica.org/apt/openmodelica.asc | \
+  sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
 ```
 
 To verify that the correct key is installed (optional):
@@ -142,7 +176,7 @@ sub   rsa2048 2010-06-22 [E]
 
 Then update your sources.list using the lines below.
 Choose your CPU architecture, OS and preferred release branch to follow.
-If you are unsure, select the auto options (or mint if you are running Mint Linux) and the **stable** release branch.
+If you are unsure, select the auto options and the **stable** release branch.
 If your OS is not in the list, it is probably outdated and you might be able install an older version using the auto option, or it is a recent Debian/Ubuntu release not yet on the list (contact us to get it added once there is a release candidate for the OS).
 
 CPU architecture <select label="CPU architecture" id="deb-arch-select" onChange="selectedDebArch()"></select>
@@ -156,8 +190,9 @@ Release branch <select id="deb-branch-select" onChange="selectedBranch()">
 
 <div class="highlight"><pre tabindex="0" class="chroma">
 <code>echo "deb [arch=<span id="deb-arch">$(dpkg --print-architecture)</span> signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
-  https://build.openmodelica.org/apt <span id="deb-codename">$(lsb_release -cs)</span> <span id="deb-branch">stable</span>" | \
-  sudo tee /etc/apt/sources.list.d/openmodelica.list</code>
+  https://build.openmodelica.org/apt \
+  <span id="deb-codename">$(cat /etc/os-release | grep "\(UBUNTU\\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1)</span> \
+  <span id="deb-branch">stable</span>" | sudo tee /etc/apt/sources.list.d/openmodelica.list</code>
 </pre></div>
 
 
@@ -168,11 +203,17 @@ sudo apt update
 sudo apt install openmodelica
 ```
 
-## Installing Modelica libraries
+For a smaller installation without graphical clients:
 
-There is a package manager for Modelica libraries built into the scripting interface and the OMEdit graphical user interface. See the <a href="/doc/OpenModelicaUsersGuide/latest/packagemanager.html" style="font-size: 10pt;">documentation</a> for details.
+```bash
+sudo apt install --no-install-recommends omc
+```
 
-### Install  Libraries for Offline Use
+### Modelica libraries
+
+There is a package manager for Modelica libraries built into the scripting interface and the OMEdit graphical user interface. See the [documentation](/doc/OpenModelicaUsersGuide/latest/packagemanager.html) for details.
+
+#### Offline Installation
 
 If you install OpenModelica from a USB stick in a place without Internet access, for example during a tutorial at a conference, it is still possible to install the Modelica Standard Library.
 
@@ -184,7 +225,7 @@ sudo apt install omlibrary
 This installs cached versions of the Modelica Standard library to the system directory.
 These libraries will be automatically installed by the package manager in the user's .openmodelica directory as soon as any OpenModelica tool tries to load any system library for the first time, e.g. when starting OMEdit.
 
-## Installing the C++ runtime
+### C++ runtime
 
 The C++ runtime is an alternative to the default C runtime. To install the C++ runtime run this command:
 
@@ -192,7 +233,7 @@ The C++ runtime is an alternative to the default C runtime. To install the C++ r
 sudo apt install libomccpp
 ```
 
-## Installing Older Releases
+### Older Releases
 
 Older releases are stored for some stable Debian/Ubuntu versions along with the libraries that existed at the time of the release.
 You can find the releases at <a href="https://build.openmodelica.org/omc/builds/linux/releases" style="font-size: 12.16px;">https://build.openmodelica.org/omc/builds/linux/releases</a>.
@@ -202,7 +243,7 @@ Starting with OpenModelica 1.9.4 you can use apt to download the packages using 
 deb https://build.openmodelica.org/omc/builds/linux/releases/1.13.0/ bionic release
 ```
 
-## Downloading source code from repository
+### Source build
 
 If your platform is too old for the pre-built packages, you can install them from any of the source repositories:
 
@@ -216,28 +257,44 @@ apt -b source openmodelica
 sudo dpkg -i *.deb
 ```
 
-## Virtual Machine Image
-
-If you do not have a Debian-based distribution and do not want to try the RPM packages or building from source code, there is also <a href="/download/virtual-machine">a pre-built virtual machine image available</a>.
-
 ## RPM packages
 
 <p><img style="vertical-align: baseline;" src="/images/rpm-package.png" alt="" width="80" height="80" border="0" /></p>
-<p><span style="font-size: 10pt;">There are yum repositories (to be downloaded to /etc/yum.repos.d/) available for <a href="https://build.openmodelica.org/rpm/">CentOS/RHEL/Fedora</a></span></p>
-<p><span style="font-size: 10pt;">Note that CentOS/RHEL requires the EPEL (all version) and devtoolset (CentOS/RHEL 6 only) repositories enabled (see the linked repo files for details). Devtoolset includes C++11 compilers (not available in the GCC 4.4 shipped in the 2010 OS). EPEL includes the omniORB libraries (needed for OMPython and other OpenModelica clients). Only Fedora supports 3D visualization (it includes OpenSceneGraph in the repositories).</span></p>
-<p><span style="font-size: 10pt;">Once the repository has been enabled in the OS, use for example:
 
-```bash
-sudo yum install openmodelica-1.14 openmodelica-1.16.1 openmodelica-nightly
-```
+There are yum/dnf repositories (to be downloaded to `/etc/yum.repos.d/`) available for <a href="https://build.openmodelica.org/rpm/">CentOS/RHEL/Fedora</a>.
 
-It is possible to select if /usr/bin/omc (and OMEdit, etc) should point to a different OpenModelica version using:
+CPU architecture <select label="CPU architecture" id="rpm-arch-select" onChange="selectedRpmArch()"></select>
+OS <select id="rpm-codename-select" onChange="selectedRpmCodename()"></select>
+Release branch <select id="rpm-branch-select" onChange="selectedRpmBranch()">
+</select>
+
+<div class="highlight"><pre tabindex="0" class="chroma">
+<code>dnf config-manager --add-repo https://build.openmodelica.org/rpm/<span id="rpm-os">ENTER-RPM-OS-VERSION-HERE</span>/omc.repo</code>
+</pre></div>
+
+Note that CentOS/RHEL requires the EPEL (all version) repository enabled (see the linked repo files for details).
+EPEL includes the omniORB libraries (needed for OMPython and other OpenModelica clients).
+Only Fedora supports 3D visualization (it includes OpenSceneGraph in the repositories).
+
+Once the repository has been enabled in the OS, install OpenModelica:
+
+<div class="highlight"><pre tabindex="0" class="chroma">
+<code>dnf install <span id="rpm-branch">openmodelica-nightly</span></code>
+</pre></div>
+
+It is possible to install multiple version of OpenModelica and then select which version /usr/bin/omc (and OMEdit, etc) should point to:
 
 ```bash
 sudo alternatives --config openmodelica
 ```
 
-You can also use commands like `omc-1.13` or `/opt/openmodelica-1.13/bin/omc` directly if you to try your model using a particular OpenModelica version.
+You can also use commands like `omc-{{< param current_version.release >}}` or `/opt/openmodelica-{{< param current_version.release >}}/bin/omc` directly if you want to try other OpenModelica versions (this use-case has mostly been replaced by using docker).
+
+To install libraries, see [above](#modelica-libraries).
+
+## Docker
+
+It is also possible to install OpenModelica using [our docker images](https://hub.docker.com/r/openmodelica/openmodelica/tags) (or by creating your own, perhaps based on our [recipes](https://github.com/OpenModelica/OpenModelicaDockerImages/branches)).
 
 ## Source Code
 
