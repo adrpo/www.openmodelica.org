@@ -46,13 +46,13 @@ function escapeHtml(unsafe)
          .replace(/</g, "&lt;")
          .replace(/>/g, "&gt;")
          .replace(/"/g, "&quot;")
-         .replace(/\\/g, "&Backslash;")
+         .replace(/\\/g, "&bsol;")
          .replace(/'/g, "&#039;");
 }
 var selectedDebArch = function() {
   var archSelect = document.getElementById("deb-arch-select");
   document.getElementById("deb-arch").innerHTML = archSelect.value;
-  var codenameSelect = ['<option value="$('+escapeHtml('cat /etc/os-release | grep "\(UBUNTU\\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1')+')" selected>(auto)</option>'];
+  var codenameSelect = ['<option value="$('+escapeHtml('cat /etc/os-release | grep "\\(UBUNTU\\\\|DEBIAN\\\\|VERSION\\)_CODENAME" | sort | cut -d= -f 2 | head -1')+')" selected>(auto)</option>'];
   var value = archSelect.value;
   if (value.startsWith("$")) {
     value = "amd64";
@@ -161,23 +161,10 @@ curl -fsSL http://build.openmodelica.org/apt/openmodelica.asc | \
   sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
 ```
 
-To verify that the correct key is installed (optional):
-
-```bash
-gpg --show-keys /usr/share/keyrings/openmodelica-keyring.gpg
-```
-
-```text
-pub   rsa2048 2010-06-22 [SC]
-      D229AF1CE5AED74E5F59DF303A59B53664970947
-uid                      OpenModelica Build System <build@openmodelica.org>
-sub   rsa2048 2010-06-22 [E]
-```
-
 Then update your sources.list using the lines below.
 Choose your CPU architecture, OS and preferred release branch to follow.
 If you are unsure, select the auto options and the **stable** release branch.
-If your OS is not in the list, it is probably outdated and you might be able install an older version using the auto option, or it is a recent Debian/Ubuntu release not yet on the list (contact us to get it added once there is a release candidate for the OS).
+If your OS is not in the list, it is probably outdated and you might be able install an older version using the auto option, or it is a recent Debian/Ubuntu release not yet on the list (contact us to get it added once there is a release candidate for the OS), or you are running Mint Linux (use the corresponding Debian/Ubuntu upstream release; check /etc/os-release to see which one or use the auto option).
 
 CPU architecture <select label="CPU architecture" id="deb-arch-select" onChange="selectedDebArch()"></select>
 OS <select id="deb-codename-select" onChange="selectedDebCodename()"></select>
@@ -191,7 +178,7 @@ Release branch <select id="deb-branch-select" onChange="selectedBranch()">
 <div class="highlight"><pre tabindex="0" class="chroma">
 <code>echo "deb [arch=<span id="deb-arch">$(dpkg --print-architecture)</span> signed-by=/usr/share/keyrings/openmodelica-keyring.gpg] \
   https://build.openmodelica.org/apt \
-  <span id="deb-codename">$(cat /etc/os-release | grep "\(UBUNTU\\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1)</span> \
+  <span id="deb-codename">$(cat /etc/os-release | grep "\(UBUNTU\\|DEBIAN\\|VERSION\)_CODENAME" | sort | cut -d= -f 2 | head -1)</span> \
   <span id="deb-branch">stable</span>" | sudo tee /etc/apt/sources.list.d/openmodelica.list</code>
 </pre></div>
 
@@ -236,25 +223,12 @@ sudo apt install libomccpp
 ### Older Releases
 
 Older releases are stored for some stable Debian/Ubuntu versions along with the libraries that existed at the time of the release.
-You can find the releases at <a href="https://build.openmodelica.org/omc/builds/linux/releases" style="font-size: 12.16px;">https://build.openmodelica.org/omc/builds/linux/releases</a>.
+You can find the releases at https://build.openmodelica.org/omc/builds/linux/releases.
+
 Starting with OpenModelica 1.9.4 you can use apt to download the packages using a deb-line such as the one below; make sure all existing OpenModelica packages have been uninstalled (so you do not end up with mismatching versions of dependencies):
 
 ```text
 deb https://build.openmodelica.org/omc/builds/linux/releases/1.13.0/ bionic release
-```
-
-### Source build
-
-If your platform is too old for the pre-built packages, you can install them from any of the source repositories:
-
-```bash
-sudo apt install devscripts debhelper
-mkdir ~/tmp
-cd ~/tmp
-sudo apt build-dep openmodelica
-sudo apt install libsundials-kinsol1 libqtwebkit-dev # Might be needed depending on platform
-apt -b source openmodelica
-sudo dpkg -i *.deb
 ```
 
 ## RPM packages
@@ -305,7 +279,3 @@ It is also possible to install OpenModelica using [our docker images](https://hu
 ## Source Code
 
 If you can't use deb packages at all, we recommended installing OpenModelica from <a href="/developersresources/source-code">source code</a>.
-
-## Contact
-
-If you have any questions about the installation, feel free to ask either <a href="http://www.ida.liu.se/%7Emarsj/">Martin</a> or the <a href="https://github.com/OpenModelica/OpenModelica">bug tracker</a>.
