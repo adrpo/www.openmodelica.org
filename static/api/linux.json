@@ -2,7 +2,7 @@
     "version": {
         "release": "1.20.0",
         "stable": "1.20.0~1-g2faf7aa",
-        "nightly": "1.21.0~dev-284-g5957aaa"
+        "nightly": "1.21.0~dev-293-g0542679"
     },
     "deb": {
         "i386": [
@@ -60,17 +60,17 @@
                 "openmodelica-1.20",
                 "openmodelica-nightly"
             ],
+            "fc37": [
+                "openmodelica-1.19",
+                "openmodelica-1.20",
+                "openmodelica-nightly"
+            ],
             "fc35": [
                 "openmodelica-1.19",
                 "openmodelica-1.20",
                 "openmodelica-nightly"
             ],
             "fc36": [
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
-            "fc37": [
-                "openmodelica-1.19",
                 "openmodelica-1.20",
                 "openmodelica-nightly"
             ]
