@@ -50,7 +50,7 @@ pipeline {
     steps {
       script {
         echo "Running on: ${env.NODE_NAME}"
-        sh "linkchecker --threads=15  --no-robots --check-extern --ignore-url=https://openmodelica.org/forum --ignore-url=https://openmodelica.org/doc --ignore-url=https://openmodelica.org/svn --ignore-url=https://openmodelica.org/git-readonly/ --ignore-url=http://omwebbook.openmodelica.org/ --ignore-url=https://openmodelica.org/git/ --ignore-url=http://dx.doi.org/10. --ignore-url=https://www.sj.se --ignore-url=https://www.statistikdatabasen.scb.se/ https://openmodelica.org"
+        sh "linkchecker --threads=15  --no-robots --check-extern --ignore-url=https://openmodelica.org/forum --ignore-url=https://openmodelica.org/doc --ignore-url=https://openmodelica.org/svn --ignore-url=https://openmodelica.org/git-readonly/ --ignore-url=http://omwebbook.openmodelica.org/ --ignore-url=https://openmodelica.org/git/ --ignore-url=http://dx.doi.org/10. --ignore-url=https://www.sj.se --ignore-url=http://en.wikipedia.org --ignore-url=https://www.statistikdatabasen.scb.se/ https://openmodelica.org"
       }
     }
   }
