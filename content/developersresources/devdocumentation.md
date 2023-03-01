@@ -56,25 +56,6 @@ getJSON('/api/linux.json', function(err, data) {
   console.log(content);
   document.getElementById("linux-supported-systems").innerHTML=content;
 });
-function naturalSorter(as, bs){
-    var a, b, a1, b1, i= 0, n, L,
-    rx=/(\.\d+)|(\d+(\.\d+)?)|([^\d.]+)|(\.\D+)|(\.$)/g;
-    if(as=== bs) return 0;
-    a= as.toLowerCase().match(rx);
-    b= bs.toLowerCase().match(rx);
-    L= a.length;
-    while(i<L){
-        if(!b[i]) return 1;
-        a1= a[i],
-        b1= b[i++];
-        if(a1!== b1){
-            n= a1-b1;
-            if(!isNaN(n)) return n;
-            return a1>b1? 1:-1;
-        }
-    }
-    return b[i]? -1:0;
-};
 function sortTable(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
   table = document.getElementById("linux-supported-systems");
