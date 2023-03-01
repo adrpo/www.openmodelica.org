@@ -2,33 +2,25 @@
     "version": {
         "release": "1.20.0",
         "stable": "1.20.0~1-g2faf7aa",
-        "nightly": "1.21.0~dev-293-g0542679"
+        "nightly": "1.21.0~dev-299-gcda3f7a"
     },
     "deb": {
-        "i386": [
-            "bionic",
-            "buster"
-        ],
         "amd64": [
-            "bionic",
-            "focal",
-            "impish",
-            "jammy",
-            "kinetic",
-            "buster",
-            "bullseye"
-        ],
-        "armhf": [
+            "bullseye",
             "focal",
             "jammy",
-            "buster",
-            "bullseye"
+            "kinetic"
         ],
         "arm64": [
             "focal",
-            "jammy",
-            "buster",
-            "bullseye"
+            "jammy"
+        ],
+        "armhf": [
+            "focal",
+            "jammy"
+        ],
+        "i386": [
+            
         ]
     },
     "rpm": {
@@ -36,7 +28,6 @@
             "el7": [
                 "openmodelica-1.11",
                 "openmodelica-1.12",
-                "openmodelica-1.13",
                 "openmodelica-1.14",
                 "openmodelica-1.16",
                 "openmodelica-1.17",
@@ -60,20 +51,60 @@
                 "openmodelica-1.20",
                 "openmodelica-nightly"
             ],
-            "fc37": [
-                "openmodelica-1.19",
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
-            "fc35": [
-                "openmodelica-1.19",
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
             "fc36": [
                 "openmodelica-1.20",
                 "openmodelica-nightly"
+            ],
+            "fc37": [
+                "openmodelica-1.20",
+                "openmodelica-nightly"
             ]
+        }
+    },
+    "eol": {
+        "bullseye": "2024-07-01",
+        "el7": "2024-06-30",
+        "el8": "2029-03-01",
+        "el9": "2032-05-31",
+        "fc36": "2023-05-16",
+        "fc37": "2023-12-15",
+        "focal": "2025-04-02",
+        "jammy": "2027-04-01",
+        "kinetic": "2023-07-20"
+    },
+    "pkg": {
+        "clang": {
+            "bullseye": "11.0",
+            "el7": "-",
+            "el8": "-",
+            "el9": "-",
+            "fc36": "-",
+            "fc37": "-",
+            "focal": "10.0",
+            "jammy": "14.0",
+            "kinetic": "15.0"
+        },
+        "cmake": {
+            "bullseye": "3.18.4",
+            "el7": "3.17.5",
+            "el8": "3.20.2",
+            "el9": "3.20.2",
+            "fc36": "3.22.2",
+            "fc37": "3.26.0",
+            "focal": "3.16.3",
+            "jammy": "3.22.1",
+            "kinetic": "3.24.2"
+        },
+        "gcc": {
+            "bullseye": "10.2.1",
+            "el7": "8.3.1",
+            "el8": "8.5.0",
+            "el9": "11.2.1",
+            "fc36": "12.2.1",
+            "fc37": "12.2.1",
+            "focal": "9.3.0",
+            "jammy": "11.2.0",
+            "kinetic": "12.2.0"
         }
     }
 }
