@@ -48,7 +48,7 @@ getJSON('/api/linux.json', function(err, data) {
   } else {
     console.log(data);
     allOS = [...data.deb.amd64].concat(Object.keys(data.rpm.amd64))
-    content += ['<tr><th onclick="sortTable(0)">OS</th><th onclick="sortTable(1)">EOL</th><th onclick="sortTable(2)">cmake</th><th onclick="sortTable(3)">gcc</th><th onclick="sortTable(4)">clang</th></tr>']
+    content += ['<tr style="cursor: pointer;"><th onclick="sortTable(0)">OS</th><th onclick="sortTable(1)">EOL</th><th onclick="sortTable(2)">cmake</th><th onclick="sortTable(3)">gcc</th><th onclick="sortTable(4)">clang</th></tr>']
     for (const os of allOS) {
         content += ["<tr><td>" + os + "</td><td>" + data.eol[os] + "</td><td>"+data.pkg.cmake[os]+"</td><td>"+data.pkg.gcc[os]+"</td><td>"+data.pkg.clang[os]+"</td></tr>"];
     }
