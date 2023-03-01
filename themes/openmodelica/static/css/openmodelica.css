@@ -289,7 +289,15 @@ dd {
     padding: 0;
     margin: 0.5em 0 0.5em 0;
 }
-    
+
+th.headerSort {
+    background-image: url(/images/sort_both.svg);
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-right: 21px;
+}
+
 .space-left {
     padding-left: 10pt;
 }
