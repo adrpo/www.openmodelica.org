@@ -92,7 +92,9 @@ var selectedRpmCodename = function() {
   document.getElementById("rpm-os").innerHTML=codeNameValue;
   var codenameSelect = [];
   var archValue = document.getElementById("rpm-arch-select").value;
-  codenameSelect = codenameSelect.concat(omLinuxAPIData.rpm[archValue][codeNameValue].reverse().map(key => '<option value="'+key+'">'+key+'</option>'));
+  var collator = new Intl.Collator(undefined, {numeric: true, sensitivity: 'base'});
+  var branches = omLinuxAPIData.rpm[archValue][codeNameValue].sort(collator.compare).reverse();
+  codenameSelect = codenameSelect.concat(branches.map(key => '<option value="'+key+'">'+key+'</option>'));
   var specifics = document.getElementById(codeNameValue+"-specifics");
   document.getElementById("el-specifics-container").innerHTML=specifics ? specifics.innerHTML : "";
   document.getElementById("rpm-branch-select").innerHTML=codenameSelect.join("\n");
