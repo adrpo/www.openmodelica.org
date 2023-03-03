@@ -93,6 +93,8 @@ var selectedRpmCodename = function() {
   var codenameSelect = [];
   var archValue = document.getElementById("rpm-arch-select").value;
   codenameSelect = codenameSelect.concat(omLinuxAPIData.rpm[archValue][codeNameValue].reverse().map(key => '<option value="'+key+'">'+key+'</option>'));
+  var specifics = document.getElementById(codeNameValue+"-specifics");
+  document.getElementById("el-specifics-container").innerHTML=specifics ? specifics.innerHTML : "";
   document.getElementById("rpm-branch-select").innerHTML=codenameSelect.join("\n");
   selectedRpmBranch();
 };
@@ -235,21 +237,50 @@ deb https://build.openmodelica.org/omc/builds/linux/releases/1.13.0/ bionic rele
 
 <p><img style="vertical-align: baseline;" src="/images/rpm-package.png" alt="" width="80" height="80" border="0" /></p>
 
-Note that CentOS/RHEL requires the [EPEL](https://fedoraproject.org/wiki/EPEL) repository:
-
-```bash
-dnf install epel-release
-```
-
-EPEL includes the omniORB libraries (needed for OMPython and other OpenModelica clients).
-Only Fedora supports 3D visualization (it includes OpenSceneGraph in the repositories).
-
-To add the OpenModelica yum/dnf repository to your system, choose your OS below and run the command:
+To add the OpenModelica yum/dnf repository to your system, choose your OS below and run the command(s):
 
 CPU architecture <select label="CPU architecture" id="rpm-arch-select" onChange="selectedRpmArch()"></select>
 OS <select id="rpm-codename-select" onChange="selectedRpmCodename()"></select>
 Release branch <select id="rpm-branch-select" onChange="selectedRpmBranch()">
 </select>
+
+<noscript id="el7-specifics">
+
+```bash
+yum install centos-release-scl-rh
+yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+```
+
+</noscript>
+<noscript id="el8-specifics">
+
+AlmaLinux 8:
+
+```bash
+dnf install epel-release
+dnf config-manager --set-enabled powertools
+```
+
+RHEL 8 (see [#10292](https://github.com/OpenModelica/OpenModelica/issues/10292) for details; postgis30_12 might fail to install):
+
+```bash
+subscription-manager repos --enable codeready-builder-for-rhel-8-x86_64-rpms
+dnf install postgis30_12
+```
+
+Then for both:
+
+</noscript>
+<noscript id="el9-specifics">
+
+```bash
+dnf install epel-release
+dnf config-manager --set-enabled crb
+```
+
+</noscript>
+
+<div id="el-specifics-container"></div>
 
 <div class="highlight"><pre tabindex="0" class="chroma">
 <code>dnf config-manager --add-repo https://build.openmodelica.org/rpm/<span id="rpm-os">ENTER-RPM-OS-VERSION-HERE</span>/omc.repo</code>
