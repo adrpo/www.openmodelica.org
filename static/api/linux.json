@@ -2,7 +2,7 @@
     "version": {
         "release": "1.20.0",
         "stable": "1.20.0~1-g2faf7aa",
-        "nightly": "1.21.0~dev-357-g567163d"
+        "nightly": "1.21.0~dev-360-gdc27243"
     },
     "deb": {
         "amd64": [
@@ -26,21 +26,11 @@
     "rpm": {
         "amd64": {
             "el7": [
-                "openmodelica-1.11",
-                "openmodelica-1.12",
-                "openmodelica-1.14",
-                "openmodelica-1.16",
-                "openmodelica-1.17",
                 "openmodelica-1.19",
                 "openmodelica-1.20",
-                "openmodelica-1.9",
                 "openmodelica-nightly"
             ],
             "el8": [
-                "openmodelica-1.13",
-                "openmodelica-1.14",
-                "openmodelica-1.16",
-                "openmodelica-1.17",
                 "openmodelica-1.18",
                 "openmodelica-1.19",
                 "openmodelica-1.20",
