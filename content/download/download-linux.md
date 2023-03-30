@@ -175,7 +175,7 @@ OS <select id="deb-codename-select" onChange="selectedDebCodename()"></select>
 Release branch <select id="deb-branch-select" onChange="selectedBranch()">
   <option value="release">release</option>
   <option value="stable" selected>stable</option>
-  <option value="nigthly">nightly</option>
+  <option value="nightly">nightly</option>
 </select>
 
 
