@@ -1,8 +1,8 @@
 {
     "version": {
         "release": "1.20.0",
-        "stable": "1.20.0~1-g2faf7aa",
-        "nightly": "1.21.0~dev-397-ga7cd739"
+        "stable": "1.21.0~dev.beta.1-1-g5bce9f8",
+        "nightly": "1.22.0~dev-3-ga510dec"
     },
     "deb": {
         "amd64": [
@@ -80,7 +80,7 @@
             "el8": "3.20.2",
             "el9": "3.20.2",
             "fc36": "3.25.2",
-            "fc37": "3.26.0",
+            "fc37": "3.26.1",
             "focal": "3.16.3",
             "jammy": "3.22.1",
             "kinetic": "3.24.2"
