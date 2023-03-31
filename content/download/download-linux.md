@@ -305,10 +305,6 @@ You can also use commands like `omc-{{< param current_version.release >}}` or `/
 
 To install libraries, see [above](#modelica-libraries).
 
-## Docker
-
-It is also possible to install OpenModelica using [our docker images](https://hub.docker.com/r/openmodelica/openmodelica/tags) (or by creating your own, perhaps based on our [recipes](https://github.com/OpenModelica/OpenModelicaDockerImages/branches)).
-
 ## Source Code
 
 If you can't use deb packages at all, we recommended installing OpenModelica from <a href="/developersresources/source-code">source code</a>.

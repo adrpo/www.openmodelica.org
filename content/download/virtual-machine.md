@@ -2,8 +2,10 @@
 title: "Download Virtual Machines"
 donate: true
 ---
-<p>For faster installation on operating systems where there is no pre-built binary (<span style="line-height: 19.7999992370605px;">RPM-based Linux releases,&nbsp;</span>older OSX releases, or if you are unable to install the latest XCode on OSX), it is possible to install OpenModelica on a virtual machine. We provide a <a href="https://build.openmodelica.org/omc/builds/virtual_machines/">pre-built VM</a>&nbsp;that contains all libraries and clients that come with OpenModelica. You will need a virtualization engine such as <a href="https://virtualbox.org">VirtualBox</a>&nbsp;to run the virtual machine (remember to edit the machine settings to add more CPU cores than the default of 1, but allocate fewer than the number of physical processors in the machine to make everything feel smooth).</p>
-<p>The VM version uses 64-bit Linux, which means it can be used to run OMNotebook on OSX machines (where OMNotebook is normally not available). The "openmodelica" user has password "openmodelica".</p>
-<p>Pre-build Docker images of installed OpenModelica for different purposes are available on DockerHub, see <a class="ext-link" href="https://hub.docker.com/u/openmodelica">https://hub.docker.com/u/openmodelica.</a></p>
-<p>&nbsp;</p>
-<p>OpenModelica includes SystemDynamics library with World modeling. <a href="/images/docs/systemdynamics-world3-simulation-with-openmodelica-131023.pdf">Instructions for systemdynamics World3 simulations.</a></p>
+
+For faster installation on operating systems where there is no pre-built binary (RPM-based Linux releases, older OSX releases, or if you are unable to install the latest XCode on OSX), it is possible to install OpenModelica on a virtual machine.
+We provide a <a href="https://build.openmodelica.org/omc/builds/virtual_machines/">pre-built VM</a>&nbsp;that contains all libraries and clients that come with OpenModelica.
+You will need a virtualization engine such as <a href="https://virtualbox.org">VirtualBox</a> to run the virtual machine (remember to edit the machine settings to add more CPU cores than the default of 1, but allocate fewer than the number of physical processors in the machine to make everything feel smooth).
+
+The VM version uses (x86) 64-bit Linux, which means it can be used to run OMNotebook on OSX machines (where OMNotebook is normally not available).
+The "openmodelica" user has password "openmodelica".
