@@ -50,7 +50,7 @@ Install either [Docker Desktop](https://docs.docker.com/desktop/install/linux-in
 The following code when executed will add an alias to make launching OpenModelica easier.
 
 ```zsh
-echo 'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=$DISPLAY" --user $UID openmodelica/openmodelica:{{< param "current_version.release" >}}-gui\'' >> "$HOME/.profile
+echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=$DISPLAY" --user $UID openmodelica/openmodelica:{{< param "current_version.release" >}}-gui\'' >> "$HOME/.profile"
 ```
 
 What it does is create a command `docker-om` which will run a the given docker container and mount your home directory inside the docker container, set the network to the host adapter and the X11 DISPLAY variable so graphical clients can connect (optional for the command-line `omc`), set the UNIX user ID to your own user so files in your home directory are still owned by you.
