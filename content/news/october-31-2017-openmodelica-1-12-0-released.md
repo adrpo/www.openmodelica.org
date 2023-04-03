@@ -1,7 +1,7 @@
 ---
 title: "October 31, 2017: OpenModelica 1.12.0 released"
 ---
-<p>The OpenModelica 1.12.0 has been released. You can find the Windows builds&nbsp;<a href="/download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above. Release notes in Trac including all the <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0">bug fixes</a>.</p>
+<p>The OpenModelica 1.12.0 has been released. You can find the Windows builds&nbsp;<a href="/download/download-windows" target="_blank">here</a>. The Linux and MacOS builds are available via the Download menu above. Release notes in Trac including all the <a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.12.0">bug fixes</a>.</p>
 <p><strong style="color: #222222; line-height: 1.2;"><span style="font-size: 14pt;">OpenModelica 1.12.0 release, October 31, 2017</span></strong></p>
 <ul style="font-family: Verdana, Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; font-size: 13px;">
 <li>A new (stand-alone) FMI- and TLM-based simulation tool OMSimulator, first version for connected FMUs, TLM objects, Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models</li>
@@ -14,7 +14,7 @@ title: "October 31, 2017: OpenModelica 1.12.0 released"
 <li>Further enhanced OMPython including linearization, now also working with Python 3</li>
 <li>Support for RedHat/Fedora binary builds of OpenModelica</li>
 </ul>
-<h2 id="OpenModelicaCompilerOMC" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">OpenModelica Compiler (OMC)<a class="anchor" href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0#OpenModelicaCompilerOMC" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
+<h2 id="OpenModelicaCompilerOMC" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">OpenModelica Compiler (OMC)<a class="anchor" href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.12.0#OpenModelicaCompilerOMC" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
 <ul style="font-family: Verdana, Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; font-size: 13px;">
 <li>Faster lookup processing</li>
 <li>Initializing external objects together with parameters</li>
@@ -40,7 +40,7 @@ title: "October 31, 2017: OpenModelica 1.12.0 released"
 <li>Global homotopy method for initialization</li>
 <li>Scripting API to compute accumulated errors (1-norm, 2-norm, max. error) of 2 time series</li>
 </ul>
-<h2 id="GraphicEditorOMEdit" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">Graphic Editor OMEdit<a class="anchor" href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0#GraphicEditorOMEdit" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
+<h2 id="GraphicEditorOMEdit" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">Graphic Editor OMEdit<a class="anchor" href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.12.0#GraphicEditorOMEdit" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
 <ul style="font-family: Verdana, Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; font-size: 13px;">
 <li>Additional advanced visualization features for multibody animation (transparency, textures, change colours by dialog)</li>
 <li>An HTML WYSIWYG Editor, e.g. useful for documentation</li>
@@ -55,13 +55,13 @@ title: "October 31, 2017: OpenModelica 1.12.0 released"
 <li>Basic graphic editing support for state machines and transitions (not yet support for showing state internals on diagram layer)</li>
 <li>Interactive state manipulation for FMU-based animations</li>
 </ul>
-<h2 id="FMISupport" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">FMI Support<a class="anchor" href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0#FMISupport" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
+<h2 id="FMISupport" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">FMI Support<a class="anchor" href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.12.0#FMISupport" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
 <ul style="font-family: Verdana, Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; font-size: 13px;">
 <li>A new (stand-alone) FMI- and TLM-based simulation tool OMSimulator, first version (a main deliverable of the OPENCPS project, significant contributions and code donations from SKF)</li>
 <li>Graphic configuration editing of composite models consisting of FMUs</li>
 <li>Co-simulation/simulation of connected FMUs, TLM objects, Simulink models (via wrappers), Adams models (via wrappers), BEAST models (via wrappers), Modelica models.</li>
 </ul>
-<h2 id="Otherthings" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">Other things<a class="anchor" href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.12.0#Otherthings" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
+<h2 id="Otherthings" style="font-family: Arial, Verdana, 'Bitstream Vera Sans', Helvetica, sans-serif; font-weight: bold; letter-spacing: -0.018em; break-after: avoid; font-size: 16px; margin-left: -18px; border-bottom: 1px solid #dddddd; box-shadow: #f2f2f2 0.1em 0.4em 0.7em 0px; padding: 0.2em 0.3em 0.1em; color: #000000;">Other things<a class="anchor" href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.12.0#Otherthings" title="Link to this section" style="color: #d7d7d7; border: none; font-size: 0.8em; vertical-align: text-top; visibility: hidden;"></a></h2>
 <p>&nbsp;</p>
 <ul style="font-family: Verdana, Arial, 'Bitstream Vera Sans', Helvetica, sans-serif; font-size: 13px;">
 <li>Increased OpenModelica tool interoperability by adding the ZeroMQ communications protocol in addition to the previously available Corba. This also enables Python 3 usage in OMPython on all platforms.</li>

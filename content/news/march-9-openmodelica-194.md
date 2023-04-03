@@ -26,7 +26,7 @@ title: "March 9, 2016: OpenModelica 1.9.4 released"
 <li>Improved simulation speed for many models. simulation speed went up for 80% of the models. The compiler frontend became faster for almost all models, average about 40% faster.</li>
 <li>Initial support for synchronous models with clocked equations as defined in the Modelica 3.3 standard</li>
 <li>Support for homotopy operator</li>
-<li><a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.9.4">Bug fixes</a></li>
+<li><a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.9.4">Bug fixes</a></li>
 </ul>
 <p>Improvements in the OpenModelica FMI 2.0 support</p>
 <ul>

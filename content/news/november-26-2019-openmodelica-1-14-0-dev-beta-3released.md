@@ -7,7 +7,7 @@ title: "November 26, 2019: OpenModelica 1.14.0-dev.beta3 released"
 <hr />
 <p>The most dramatic enhancement of the OpenModelica Compiler is the New Frontend, which on the average gives a factor of 10-20 speed improvement in the flattening phase of compilation. The new frontend is default in this release, but a feature is implemented that allows the user to switch to the old frontend if problems appear for a specific model.</p>
 <p>The speed of the OMEdit GUI has only slightly increased in this version, since it is still dependent mostly on the old frontend. Further GUI speed increases are available in the coming OpenModelica.1.15.0.</p>
-<p>About <a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.14.0">200 issues have been fixed</a>, including enhancements, compared to the previous 1.13.2 release. The bug fixes are on trac.</p>
+<p>About <a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.14.0">200 issues have been fixed</a>, including enhancements, compared to the previous 1.13.2 release. The bug fixes are on trac.</p>
 <p class="BulletItem"><i>OpenModelica Compiler New Frontend news:</i></p>
 <ul>
 <li>Implementation of expandable connectors completed, a rather large piece of work.</li>

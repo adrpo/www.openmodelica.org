@@ -19,6 +19,6 @@ title: "December 10, 2018: OpenModelica 1.13.0-dev.beta1 released"
 <li>A version of the new fast compiler frontend available for testing, can be enabled by a flag Currently (December 10), simulates about 84% of MSL 3.2.2</li>
 </ul>
 <p>Note: the replaceable GUI support has been moved to OpenModelica 1.14.0 and will be available in nightly builds.</p>
-<p><span style="font-size: 10pt;">The bug fixes for version 1.13.0 can be found in </span><a href="https://trac.openmodelica.org/OpenModelica/wiki/ReleaseNotes/1.13.0" style="font-size: 10pt;">Trac</a><span style="font-size: 10pt;">.&nbsp;</span></p>
+<p><span style="font-size: 10pt;">The bug fixes for version 1.13.0 can be found in </span><a href="https://github.com/OpenModelica/OpenModelica/releases/tag/v1.13.0" style="font-size: 10pt;">Trac</a><span style="font-size: 10pt;">.&nbsp;</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
