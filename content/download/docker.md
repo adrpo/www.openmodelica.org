@@ -8,9 +8,9 @@ We have images available for the major CPU architectures: amd64, arm64, and armv
 
 The images have 3 variants:
 
-* `openmodelica/openmodelica:{{< param "current_version.release" >}}-minimal` contains everything necessary to start command-line `omc`.
-* `openmodelica/openmodelica:{{< param "current_version.release" >}}-ompython` contains everything in minimal and also has the Python package OMPython installed.
-* `openmodelica/openmodelica:{{< param "current_version.release" >}}-gui` contains everything in the ompython package and also contains all graphical clients such as `OMEdit`.
+* `openmodelica/openmodelica:v{{< param "current_version.release" >}}-minimal` contains everything necessary to start command-line `omc`.
+* `openmodelica/openmodelica:v{{< param "current_version.release" >}}-ompython` contains everything in minimal and also has the Python package OMPython installed.
+* `openmodelica/openmodelica:v{{< param "current_version.release" >}}-gui` contains everything in the ompython package and also contains all graphical clients such as `OMEdit`.
 
 The images do not come with Modelica libraries installed.
 These are installed in your home directory which can be forwarded to docker and kept between sessions.
@@ -38,7 +38,7 @@ Pre-requisities:
 The following code when executed will add an alias to make launching OpenModelica easier.
 
 ```zsh
-echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=`ifconfig | grep -o "inet [0-9.]*" | grep -Eo "[0-9.]{7,}" | grep -Fv 127.0.0.1 | head -1`:0" --user $UID openmodelica/openmodelica:{{< param "current_version.release" >}}-gui\'' >> "$HOME/.zshrc"
+echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=`ifconfig | grep -o "inet [0-9.]*" | grep -Eo "[0-9.]{7,}" | grep -Fv 127.0.0.1 | head -1`:0" --user $UID openmodelica/openmodelica:v{{< param "current_version.release" >}}-gui\'' >> "$HOME/.zshrc"
 ```
 
 What it does is create a command `docker-om` which will run a the given docker container and mount your home directory inside the docker container, set the X11 DISPLAY variable so graphical clients can connect (optional for the command-line `omc`), set the UNIX user ID to your own user so files in your home directory are still owned by you.
@@ -50,7 +50,7 @@ Install either [Docker Desktop](https://docs.docker.com/desktop/install/linux-in
 The following code when executed will add an alias to make launching OpenModelica easier. The alias will be activated after the next login.
 
 ```zsh
-echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=$DISPLAY" --user $UID openmodelica/openmodelica:{{< param "current_version.release" >}}-gui\'' >> "$HOME/.profile"
+echo $'alias docker-om=\'docker run -it --rm -v "$HOME:$HOME" -e "HOME=$HOME" -w "$PWD" -e "DISPLAY=$DISPLAY" --user $UID openmodelica/openmodelica:v{{< param "current_version.release" >}}-gui\'' >> "$HOME/.profile"
 ```
 
 What it does is create a command `docker-om` which will run a the given docker container and mount your home directory inside the docker container, set the network to the host adapter and the X11 DISPLAY variable so graphical clients can connect (optional for the command-line `omc`), set the UNIX user ID to your own user so files in your home directory are still owned by you.
