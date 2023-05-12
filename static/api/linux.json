@@ -2,7 +2,7 @@
     "version": {
         "release": "1.21.0",
         "stable": "1.21.0~1-g4ef5d27",
-        "nightly": "1.22.0~dev-91-gc254033"
+        "nightly": "1.22.0~dev-107-gf50ec1c"
     },
     "deb": {
         "amd64": [
@@ -53,7 +53,7 @@
                 "openmodelica-nightly"
             ],
             "fc38": [
-                
+                "openmodelica-nightly"
             ]
         }
     },
