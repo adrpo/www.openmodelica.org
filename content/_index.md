@@ -12,7 +12,7 @@ We invite researchers and students, or any interested developer to participate i
 
 Join the OpenModelicaInterest [mailing list](/useresresources/mailing-list) to get information about new releases.
 
-Help us: get the latest [source code or nightly-build](/developersresources/source-code) and report [bugs]({{< param "bugreporting" >}}).
+Help us: get the latest [source code or nightly-build](/developersresources/sourcecode) and report [bugs]({{< param "bugreporting" >}}).
 
 To learn about Modelica, read a [book](/research/booksproceedings) or a [tutorial](images/M_images/200204-ModelicaTutorial-slides-PeterFritzson-AdrianPop-MODPROD2020.pdf) about [Modelica](http://www.modelica.org).
 

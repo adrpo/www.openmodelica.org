@@ -24,7 +24,7 @@ weight: 2
 <p>Participate in the <a href="/forum">OpenModelicaInterest</a> discussion forum.</p>
 </li>
 <li>
-<p>Help us: get the latest <a href="/developersresources/source-code">source code</a> or <a href="/developersresources/source-code">nightly-build</a> and <a href="https://github.com/OpenModelica/OpenModelica/issues/new/choose">report bugs!</a></p>
+<p>Help us: get the latest <a href="/developersresources/sourcecode">source code or nightly build</a> and <a href="https://github.com/OpenModelica/OpenModelica/issues/new/choose">report bugs!</a></p>
 </li>
 <li>
 <p>To learn about Modelica, read a <a href="/research/booksproceedings#books">book</a> or a <a href="/images/docs/userdocs/modprod2012-tutorial1-Peter-Fritzson-ModelicaTutorial.pdf">tutorial</a> about Modelica</p>

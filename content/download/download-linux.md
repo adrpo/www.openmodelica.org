@@ -306,4 +306,4 @@ To install libraries, see [above](#modelica-libraries).
 
 ## Source Code
 
-If you can't use deb packages at all, we recommended installing OpenModelica from <a href="/developersresources/source-code">source code</a>.
+If you can't use deb packages at all, we recommended installing OpenModelica from <a href="/developersresources/sourcecode">source code</a>.

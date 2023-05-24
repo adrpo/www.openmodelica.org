@@ -1,5 +1,6 @@
 ---
 title: "Source Code"
+aliases: ["developersresources/source-code"]
 ---
 
 Source code can be fetched from:
