@@ -2,10 +2,11 @@
     "version": {
         "release": "1.21.0",
         "stable": "1.21.0~2-g0bc3d29",
-        "nightly": "1.22.0~dev-161-g8eff86a"
+        "nightly": "1.22.0~dev-165-ge55bfd2"
     },
     "deb": {
         "amd64": [
+            "bookworm",
             "bullseye",
             "focal",
             "jammy",
@@ -13,11 +14,13 @@
             "lunar"
         ],
         "arm64": [
+            "bookworm",
             "bullseye",
             "focal",
             "jammy"
         ],
         "armhf": [
+            "bookworm",
             "bullseye",
             "focal",
             "jammy"
@@ -54,6 +57,7 @@
         }
     },
     "eol": {
+        "bookworm": "2026-06-10",
         "bullseye": "2024-07-01",
         "el7": "2024-06-30",
         "el8": "2029-03-01",
@@ -67,6 +71,7 @@
     },
     "pkg": {
         "clang": {
+            "bookworm": "14.0",
             "bullseye": "11.0",
             "el7": "-",
             "el8": "-",
@@ -79,6 +84,7 @@
             "lunar": "15.0"
         },
         "cmake": {
+            "bookworm": "3.25.1",
             "bullseye": "3.18.4",
             "el7": "3.17.5",
             "el8": "3.20.2",
@@ -91,6 +97,7 @@
             "lunar": "3.25.1"
         },
         "gcc": {
+            "bookworm": "12.2.0",
             "bullseye": "10.2.1",
             "el7": "11.2.1",
             "el8": "8.5.0",
