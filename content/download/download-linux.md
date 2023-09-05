@@ -159,8 +159,8 @@ Use the following lines in a shell to update your packages and install the certi
 
 ```bash
 sudo apt-get update
-sudo apt-get install ca-certificates curl gnupg sudo
-curl -fsSL http://build.openmodelica.org/apt/openmodelica.asc | \
+sudo apt-get install ca-certificates curl gnupg
+sudo curl -fsSL http://build.openmodelica.org/apt/openmodelica.asc | \
   sudo gpg --dearmor -o /usr/share/keyrings/openmodelica-keyring.gpg
 ```
 
