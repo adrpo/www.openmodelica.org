@@ -26,24 +26,7 @@ John Tinnerholm.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Anders:phd:2019">1</a>]
-</td>
-<td class="bibtexitem">
-Anders Andersson.
- <em>Distributed Moving Base Driving Simulators: Technology,
-  Performance, and Requirements</em>.
- Doctoral thesis No 1984, Linköping University, Department of
-  Computer and Information Science, 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Anders:phd:2019">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-156537">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:alachew:lic:2019">2</a>]
+[<a name="openmodelica.org:alachew:lic:2019">1</a>]
 </td>
 <td class="bibtexitem">
 Alachew Mengist.
@@ -53,6 +36,23 @@ Alachew Mengist.
   Computer and Information Science, 2019.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:alachew:lic:2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3384/lic.diva-156690">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Anders:phd:2019">2</a>]
+</td>
+<td class="bibtexitem">
+Anders Andersson.
+ <em>Distributed Moving Base Driving Simulators: Technology,
+  Performance, and Requirements</em>.
+ Doctoral thesis No 1984, Linköping University, Department of
+  Computer and Information Science, 2019.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Anders:phd:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-156537">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -100,16 +100,16 @@ Lennart Ochel.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Stavaker:phd:2015">1</a>]
+[<a name="openmodelica.org:Roland:phd:2015">1</a>]
 </td>
 <td class="bibtexitem">
-Kristian Stavåker.
- <em>Contributions to Simulation of Modelica Models on Data-Parallel
-  Multi-Core Architectures</em>.
- Doctoral thesis No 1666, Linköping University, Department of
+Roland Samlaus.
+ <em>An Integrated Development Environment with Enhanced
+  Domain-Specific Interactive Model Validation</em>.
+ Doctoral thesis No 1652, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Stavaker:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-116338">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Roland:phd:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-114838">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -117,24 +117,7 @@ Kristian Stavåker.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Mahder:lic:2015">2</a>]
-</td>
-<td class="bibtexitem">
-Mahder Gebremedhin.
- <em>Automatic and Explicit Parallelization Approaches for
-  Mathematical Simulation Models</em>.
- Licentiate Thesis No 1716, Linköping University, Department of
-  Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mahder:lic:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/lic.diva-117346">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:sjoelund:phd:2015">3</a>]
+[<a name="openmodelica.org:sjoelund:phd:2015">2</a>]
 </td>
 <td class="bibtexitem">
 Martin Sjölund.
@@ -151,16 +134,33 @@ Martin Sjölund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Roland:phd:2015">4</a>]
+[<a name="openmodelica.org:Mahder:lic:2015">3</a>]
 </td>
 <td class="bibtexitem">
-Roland Samlaus.
- <em>An Integrated Development Environment with Enhanced
-  Domain-Specific Interactive Model Validation</em>.
- Doctoral thesis No 1652, Linköping University, Department of
+Mahder Gebremedhin.
+ <em>Automatic and Explicit Parallelization Approaches for
+  Mathematical Simulation Models</em>.
+ Licentiate Thesis No 1716, Linköping University, Department of
   Computer and Information Science, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Roland:phd:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-114838">DOI</a>&nbsp;]
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Mahder:lic:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/lic.diva-117346">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Stavaker:phd:2015">4</a>]
+</td>
+<td class="bibtexitem">
+Kristian Stavåker.
+ <em>Contributions to Simulation of Modelica Models on Data-Parallel
+  Multi-Core Architectures</em>.
+ Doctoral thesis No 1666, Linköping University, Department of
+  Computer and Information Science, 2015.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Stavaker:phd:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-116338">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -170,24 +170,7 @@ Roland Samlaus.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Wladimir:phd:2013">1</a>]
-</td>
-<td class="bibtexitem">
-Wladimir Schamai.
- <em>Model-Based Verification of Dynamic System Behavior against
-  Requirements: Method, Language, and Tool</em>.
- Doctoral thesis No 1547, Linköping University, Department of
-  Computer and Information Science, 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Wladimir:phd:2013">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.3384/diss.diva-98107">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:sjoelund:lic:2013">2</a>]
+[<a name="openmodelica.org:sjoelund:lic:2013">1</a>]
 </td>
 <td class="bibtexitem">
 Martin Sjölund.
@@ -197,6 +180,23 @@ Martin Sjölund.
   Computer and Information Science, 2013.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sjoelund:lic:2013">bib</a>&nbsp;| 
 <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-90096">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Wladimir:phd:2013">2</a>]
+</td>
+<td class="bibtexitem">
+Wladimir Schamai.
+ <em>Model-Based Verification of Dynamic System Behavior against
+  Requirements: Method, Language, and Tool</em>.
+ Doctoral thesis No 1547, Linköping University, Department of
+  Computer and Information Science, 2013.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Wladimir:phd:2013">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.3384/diss.diva-98107">DOI</a>&nbsp;]
 
 </td>
 </tr>

@@ -927,7 +927,7 @@ Rodrigo Castro, Peter Fritzson, François Cellier, Safa Motesharrei, and Jorge
 [<a name="eoolt2011">59</a>]
 </td>
 <td class="bibtexitem">
-Fran&ccedil;ois Cellier, David Broman, Peter Fritzson, and Edward Lee, editors.
+Fran&#x00E7;ois Cellier, David Broman, Peter Fritzson, and Edward Lee, editors.
  <em>Proceedings of the 4th International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, September 2011.
@@ -1791,7 +1791,7 @@ Peter Fritzson and Karl-Fredrik Berggren.
 [<a name="eoolt2007">114</a>]
 </td>
 <td class="bibtexitem">
-Peter Fritzson, Fran&ccedil;ois Cellier, and Christoph Nytsch-Geusen, editors.
+Peter Fritzson, Fran&#x00E7;ois Cellier, and Christoph Nytsch-Geusen, editors.
  <em>Proceedings of the 1st International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, July 2007.
@@ -1932,7 +1932,7 @@ Peter Fritzson and David Kågedal.
 [<a name="eoolt2010">123</a>]
 </td>
 <td class="bibtexitem">
-Peter Fritzson, Edward Lee, Fran&ccedil;ois Cellier, and David Broman, editors.
+Peter Fritzson, Edward Lee, Fran&#x00E7;ois Cellier, and David Broman, editors.
  <em>Proceedings of the 3rd International Workshop on
   Equation-Based Object-Oriented Modeling Languages and Tools</em>.
   Linköping University Electronic Press, October 2010.

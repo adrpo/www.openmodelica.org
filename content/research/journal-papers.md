@@ -25,23 +25,7 @@ John Tinnerholm, Adrian Pop, and Martin Sjölund.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:brinkrolf:biosystems:2021">1</a>]
-</td>
-<td class="bibtexitem">
-Christoph Brinkrolf, Lennart Ochel, and Ralf Hofestädt.
- Vanesa: An open-source hybrid functional petri net modeling and
-  simulation environment in systems biology.
- <em>Biosystems</em>, 210:104531, 2021.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:brinkrolf:biosystems:2021">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/j.biosystems.2021.104531">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:buffoni:electronics:2021">2</a>]
+[<a name="openmodelica.org:buffoni:electronics:2021">1</a>]
 </td>
 <td class="bibtexitem">
 Lena Buffoni, Lennart Ochel, Adrian Pop, Peter Fritzson, Niklas Fors, Görel
@@ -51,6 +35,22 @@ Lena Buffoni, Lennart Ochel, Adrian Pop, Peter Fritzson, Niklas Fors, Görel
  <em>Electronics</em>, 10(8), 2021.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:buffoni:electronics:2021">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.3390/electronics10080902">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:brinkrolf:biosystems:2021">2</a>]
+</td>
+<td class="bibtexitem">
+Christoph Brinkrolf, Lennart Ochel, and Ralf Hofestädt.
+ Vanesa: An open-source hybrid functional petri net modeling and
+  simulation environment in systems biology.
+ <em>Biosystems</em>, 210:104531, 2021.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:brinkrolf:biosystems:2021">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/j.biosystems.2021.104531">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -83,24 +83,7 @@ Peter Fritzson, Adrian Pop, Karim Abdelhak, Adeel Ashgar, Bernhard Bachmann,
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:nayak:iec:2019">1</a>]
-</td>
-<td class="bibtexitem">
-Priyam Nayak, Pravin Dalve, Rahul&nbsp;Anandi Sai, Rahul Jain, Kannan&nbsp;M. Moudgalya,
-  P.&nbsp;R. Naren, Peter Fritzson, and Daniel Wagner.
- Chemical process simulation using openmodelica.
- <em>Industrial and Engineering Chemistry Research</em>,
-  58(26):11164--11174, 2019.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:nayak:iec:2019">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1021/acs.iecr.9b00104">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:jain:iec:2019">2</a>]
+[<a name="openmodelica.org:jain:iec:2019">1</a>]
 </td>
 <td class="bibtexitem">
 Rahul Jain, Priyam Nayak, Rahul A.&nbsp;S, Pravin Dalve, Kannan&nbsp;M. Moudgalya, P.&nbsp;R.
@@ -111,6 +94,23 @@ Rahul Jain, Priyam Nayak, Rahul A.&nbsp;S, Pravin Dalve, Kannan&nbsp;M. Moudgaly
   58(18):7551--7560, 2019.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jain:iec:2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1021/acs.iecr.8b05147">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:nayak:iec:2019">2</a>]
+</td>
+<td class="bibtexitem">
+Priyam Nayak, Pravin Dalve, Rahul&nbsp;Anandi Sai, Rahul Jain, Kannan&nbsp;M. Moudgalya,
+  P.&nbsp;R. Naren, Peter Fritzson, and Daniel Wagner.
+ Chemical process simulation using openmodelica.
+ <em>Industrial and Engineering Chemistry Research</em>,
+  58(26):11164--11174, 2019.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:nayak:iec:2019">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1021/acs.iecr.9b00104">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -156,23 +156,7 @@ Andrea Tundis, Lena Buffoni, Peter Fritzson, and Alfredo Garro.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:kinnander:mic:2016">1</a>]
-</td>
-<td class="bibtexitem">
-Åke Kinnander, Martin Sjölund, and Adrian Pop.
- Industrial Evaluation of Integrated Performance Analysis and
-  Equation Model Debugging for Equation-Based Models.
- <em>Modeling, Identification and Control</em>, 37(4):225--236, 2016.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kinnander:mic:2016">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.4173/mic.2016.4.3">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:qin:amc:2016">2</a>]
+[<a name="openmodelica.org:qin:amc:2016">1</a>]
 </td>
 <td class="bibtexitem">
 Xiaolin Qin, Juan Tang, Yong Feng, Bernhard Bachmann, and Peter Fritzson.
@@ -184,29 +168,29 @@ Xiaolin Qin, Juan Tang, Yong Feng, Bernhard Bachmann, and Peter Fritzson.
 
 </td>
 </tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:kinnander:mic:2016">2</a>]
+</td>
+<td class="bibtexitem">
+Åke Kinnander, Martin Sjölund, and Adrian Pop.
+ Industrial Evaluation of Integrated Performance Analysis and
+  Equation Model Debugging for Equation-Based Models.
+ <em>Modeling, Identification and Control</em>, 37(4):225--236, 2016.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:kinnander:mic:2016">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.4173/mic.2016.4.3">DOI</a>&nbsp;]
+
+</td>
+</tr>
 </table><h3>2015</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:samlaus:tsms:2015">1</a>]
-</td>
-<td class="bibtexitem">
-Roland Samlaus and Peter Fritzson.
- Semantic validation of physical models using role models.
- <em>Transactions of The Society for Modeling and Simulation
-  International</em>, 91(4):383--399, 2015.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:samlaus:tsms:2015">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1177/0037549715580174">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:thiele:mic:2015">2</a>]
+[<a name="openmodelica.org:thiele:mic:2015">1</a>]
 </td>
 <td class="bibtexitem">
 Bernhard Thiele, Alois Knoll, and Peter Fritzson.
@@ -218,21 +202,37 @@ Bernhard Thiele, Alois Knoll, and Peter Fritzson.
 
 </td>
 </tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:samlaus:tsms:2015">2</a>]
+</td>
+<td class="bibtexitem">
+Roland Samlaus and Peter Fritzson.
+ Semantic validation of physical models using role models.
+ <em>Transactions of The Society for Modeling and Simulation
+  International</em>, 91(4):383--399, 2015.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:samlaus:tsms:2015">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1177/0037549715580174">DOI</a>&nbsp;]
+
+</td>
+</tr>
 </table><h3>2014</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:schamai:mic:2014">1</a>]
+[<a name="openmodelica.org:Arash:cep:2014">1</a>]
 </td>
 <td class="bibtexitem">
-Wladimir Schamai, Lena Buffoni, and Peter Fritzson.
- An Approach to Automated Model Composition Illustrated in the
-  Context of Design Verification.
- <em>Modeling, Identification and Control</em>, 35(2):79--91, 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:schamai:mic:2014">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.4173/mic.2014.2.2">DOI</a>&nbsp;]
+Arash Disqah, Alireza Maheri, Krishna Busawon, and Peter Fritzson.
+ Standalone DC Microgrids as Complementarity Dynamical Systems:
+  Modeling and Applications.
+ <em>Control Engineering Practice</em>, 35(10):102--112, 2014.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Arash:cep:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/j.conengprac.2014.10.006">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -240,23 +240,7 @@ Wladimir Schamai, Lena Buffoni, and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:pop:mic:2014">2</a>]
-</td>
-<td class="bibtexitem">
-Adrian Pop, Martin Sjölund, Adeel Ashgar, Peter Fritzson, and Francesco
-  Casella.
- Integrated Debugging of Modelica Models.
- <em>Modeling, Identification and Control</em>, 35(2):93--107, 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:mic:2014">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.4173/mic.2014.2.3">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:sjoelund:mic:2014">3</a>]
+[<a name="openmodelica.org:sjoelund:mic:2014">2</a>]
 </td>
 <td class="bibtexitem">
 Martin Sjölund, Peter Fritzson, and Adrian Pop.
@@ -272,15 +256,31 @@ Martin Sjölund, Peter Fritzson, and Adrian Pop.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Arash:cep:2014">4</a>]
+[<a name="openmodelica.org:pop:mic:2014">3</a>]
 </td>
 <td class="bibtexitem">
-Arash Disqah, Alireza Maheri, Krishna Busawon, and Peter Fritzson.
- Standalone DC Microgrids as Complementarity Dynamical Systems:
-  Modeling and Applications.
- <em>Control Engineering Practice</em>, 35(10):102--112, 2014.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Arash:cep:2014">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/j.conengprac.2014.10.006">DOI</a>&nbsp;]
+Adrian Pop, Martin Sjölund, Adeel Ashgar, Peter Fritzson, and Francesco
+  Casella.
+ Integrated Debugging of Modelica Models.
+ <em>Modeling, Identification and Control</em>, 35(2):93--107, 2014.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:mic:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.4173/mic.2014.2.3">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:schamai:mic:2014">4</a>]
+</td>
+<td class="bibtexitem">
+Wladimir Schamai, Lena Buffoni, and Peter Fritzson.
+ An Approach to Automated Model Composition Illustrated in the
+  Context of Design Verification.
+ <em>Modeling, Identification and Control</em>, 35(2):79--91, 2014.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:schamai:mic:2014">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.4173/mic.2014.2.2">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -290,7 +290,23 @@ Arash Disqah, Alireza Maheri, Krishna Busawon, and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:schamai:smsi:2013">1</a>]
+[<a name="openmodelica.org:rogovchenko:jcc:2013">1</a>]
+</td>
+<td class="bibtexitem">
+Lena Rogovchenko-Buffoni, Andrea Tundis, Muhammed&nbsp;Zoheb Hossain, Mattias
+  Nyberg, and Peter Fritzson.
+ An integrated toolchain for model based functional safety analysis.
+ <em>Journal of Computational Science</em>, 5(3):408--414, 2013.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:rogovchenko:jcc:2013">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/j.jocs.2013.08.009">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:schamai:smsi:2013">2</a>]
 </td>
 <td class="bibtexitem">
 Wladimir Schamai, Peter Fritzson, and Chris&nbsp;JJ Paredis.
@@ -303,29 +319,28 @@ Wladimir Schamai, Peter Fritzson, and Chris&nbsp;JJ Paredis.
 
 </td>
 </tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:rogovchenko:jcc:2013">2</a>]
-</td>
-<td class="bibtexitem">
-Lena Rogovchenko-Buffoni, Andrea Tundis, Muhammed&nbsp;Zoheb Hossain, Mattias
-  Nyberg, and Peter Fritzson.
- An integrated toolchain for model based functional safety analysis.
- <em>Journal of Computational Science</em>, 5(3):408--414, 2013.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:rogovchenko:jcc:2013">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/j.jocs.2013.08.009">DOI</a>&nbsp;]
-
-</td>
-</tr>
 </table><h3>2011</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:myers:ieee:2011">1</a>]
+[<a name="openmodelica.org:krish:math:2011">1</a>]
+</td>
+<td class="bibtexitem">
+Krishnamurthy Sheshadri and Peter Fritzson.
+ Mathpde: A package to solve pdes by finite differences.
+ <em>Mathematica Journal</em>, 13, 2011.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:krish:math:2011">bib</a>&nbsp;| 
+<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:myers:ieee:2011">2</a>]
 </td>
 <td class="bibtexitem">
 Toby Myers, Peter Fritzson, and Geoff Dromey.
@@ -334,21 +349,6 @@ Toby Myers, Peter Fritzson, and Geoff Dromey.
  <em>IEEE Computer</em>, 44:62--70, 2011.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:myers:ieee:2011">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1109/MC.2010.270">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:krish:math:2011">2</a>]
-</td>
-<td class="bibtexitem">
-Krishnamurthy Sheshadri and Peter Fritzson.
- Mathpde: A package to solve pdes by finite differences.
- <em>Mathematica Journal</em>, 13, 2011.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:krish:math:2011">bib</a>&nbsp;| 
-<a href="http://www.mathematica-journal.com/2011/12/mathpde-a-package-to-solve-pdes-by-finite-differences/">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -374,15 +374,15 @@ David Broman and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:edelfeldt:smpt:2008">1</a>]
+[<a name="openmodelica.org:peter:math:2008">1</a>]
 </td>
 <td class="bibtexitem">
-Stina Edelfeldt and Peter Fritzson.
- Evaluation and comparison of models and modelling tools simulating
-  nitrogen processes in treatment wetlands.
- <em>Simulation Modelling Practice and Theory</em>, 16(1):26--49, 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:edelfeldt:smpt:2008">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/j.simpat.2007.08.010">DOI</a>&nbsp;]
+Peter Fritzson, Vadim Engelson, and Krishnamurthy Sheshadri.
+ Mathcode: A system for c++ or fortran code generation from
+  mathematica.
+ <em>Mathematica Journal</em>, 10(4), 2008.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2008">bib</a>&nbsp;| 
+<a href="http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -405,15 +405,15 @@ Håkan Lundvall, Kristian Stavåker, Peter Fritzson, and Christoph Kessler.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:peter:math:2008">3</a>]
+[<a name="openmodelica.org:edelfeldt:smpt:2008">3</a>]
 </td>
 <td class="bibtexitem">
-Peter Fritzson, Vadim Engelson, and Krishnamurthy Sheshadri.
- Mathcode: A system for c++ or fortran code generation from
-  mathematica.
- <em>Mathematica Journal</em>, 10(4), 2008.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:math:2008">bib</a>&nbsp;| 
-<a href="http://www.mathematica-journal.com/2008/11/mathcode-a-system-for-c-or-fortran-code-generation-from-mathematica/">http</a>&nbsp;]
+Stina Edelfeldt and Peter Fritzson.
+ Evaluation and comparison of models and modelling tools simulating
+  nitrogen processes in treatment wetlands.
+ <em>Simulation Modelling Practice and Theory</em>, 16(1):26--49, 2008.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:edelfeldt:smpt:2008">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/j.simpat.2007.08.010">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -524,23 +524,7 @@ Adrian Pop, Ilie Savga, Uwe Assmann, and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:bunus:TSMS:2004">1</a>]
-</td>
-<td class="bibtexitem">
-Peter Bunus and Peter Fritzson.
- Automated static analysis of equation-based components.
- <em>Transactions of The Society for Modeling and Simulation
-  International</em>, 80(7-8):321--345, 2004.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:TSMS:2004">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1177/0037549704046340">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:todd:SIMPRA:2004">2</a>]
+[<a name="openmodelica.org:todd:SIMPRA:2004">1</a>]
 </td>
 <td class="bibtexitem">
 Todd&nbsp;R. Reed, Nancy&nbsp;E. Reed, and Peter Fritzson.
@@ -550,6 +534,22 @@ Todd&nbsp;R. Reed, Nancy&nbsp;E. Reed, and Peter Fritzson.
   12(2):129--146, 2004.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:todd:SIMPRA:2004">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1016/j.simpat.2003.11.005">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:bunus:TSMS:2004">2</a>]
+</td>
+<td class="bibtexitem">
+Peter Bunus and Peter Fritzson.
+ Automated static analysis of equation-based components.
+ <em>Transactions of The Society for Modeling and Simulation
+  International</em>, 80(7-8):321--345, 2004.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:bunus:TSMS:2004">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1177/0037549704046340">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -594,7 +594,22 @@ Dag Fritzson, Peter Fritzson, Patrik Nordling, and Tommy Persson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Michail:SEKE:1996">1</a>]
+[<a name="openmodelica.org:niclas:JSS:1996">1</a>]
+</td>
+<td class="bibtexitem">
+Niclas Andersson and Peter Fritzson.
+ Overview and industrial application of code generator generators.
+ <em>In Journal of Systems and Software</em>, 32(3):185--214, 1996.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:niclas:JSS:1996">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/0164-1212(95)00124-7">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Michail:SEKE:1996">2</a>]
 </td>
 <td class="bibtexitem">
 Michail Auguston and Peter Fritzson.
@@ -607,28 +622,28 @@ Michail Auguston and Peter Fritzson.
 
 </td>
 </tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:niclas:JSS:1996">2</a>]
-</td>
-<td class="bibtexitem">
-Niclas Andersson and Peter Fritzson.
- Overview and industrial application of code generator generators.
- <em>In Journal of Systems and Software</em>, 32(3):185--214, 1996.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:niclas:JSS:1996">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/0164-1212(95)00124-7">DOI</a>&nbsp;]
-
-</td>
-</tr>
 </table><h3>1995</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Peter:IEEE:1995">1</a>]
+[<a name="openmodelica.org:Lars:SP:1995">1</a>]
+</td>
+<td class="bibtexitem">
+Lars Viklund and Peter Fritzson.
+ Objectmath – an object-oriented language and environment for
+  symbolic and numerical processing in scientific computing.
+ <em>Scientific Programming</em>, 4(4):229--250, 1995.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Lars:SP:1995">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:Peter:IEEE:1995">2</a>]
 </td>
 <td class="bibtexitem">
 Peter Fritzson, Lars Viklund, Dag Fritzson, and Johan Herber.
@@ -640,36 +655,21 @@ Peter Fritzson, Lars Viklund, Dag Fritzson, and Johan Herber.
 
 </td>
 </tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:Lars:SP:1995">2</a>]
-</td>
-<td class="bibtexitem">
-Lars Viklund and Peter Fritzson.
- Objectmath – an object-oriented language and environment for
-  symbolic and numerical processing in scientific computing.
- <em>Scientific Programming</em>, 4(4):229--250, 1995.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Lars:SP:1995">bib</a>&nbsp;]
-
-</td>
-</tr>
 </table><h3>1994</h3>
 
 <table>
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:dag:CS:1994">1</a>]
+[<a name="openmodelica.org:peter:SAS:1994">1</a>]
 </td>
 <td class="bibtexitem">
-Dag Fritzson, Peter Fritzson, Lars Viklund, and Johan Herber.
- Object-oriented mathematical modelling – applied to machine
-  elements.
- <em>Computers and Structures</em>, 51(3):241--253, 1994.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:dag:CS:1994">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/0045-7949(94)90332-8">DOI</a>&nbsp;]
+Peter Fritzson, Mikhail Auguston, and Nahid Shahmehri.
+ Using assertions in declarative and operational models for automated
+  debugging.
+ <em>In Journal of Systems and Software</em>, 25(3):223--229, 1994.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:SAS:1994">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/0164-1212(94)90032-9">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -692,15 +692,15 @@ Henrik Nilsson and Peter Fritzson.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:peter:SAS:1994">3</a>]
+[<a name="openmodelica.org:dag:CS:1994">3</a>]
 </td>
 <td class="bibtexitem">
-Peter Fritzson, Mikhail Auguston, and Nahid Shahmehri.
- Using assertions in declarative and operational models for automated
-  debugging.
- <em>In Journal of Systems and Software</em>, 25(3):223--229, 1994.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:SAS:1994">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1016/0164-1212(94)90032-9">DOI</a>&nbsp;]
+Dag Fritzson, Peter Fritzson, Lars Viklund, and Johan Herber.
+ Object-oriented mathematical modelling – applied to machine
+  elements.
+ <em>Computers and Structures</em>, 51(3):241--253, 1994.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:dag:CS:1994">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1016/0045-7949(94)90332-8">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -710,23 +710,7 @@ Peter Fritzson, Mikhail Auguston, and Nahid Shahmehri.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:peter:LOPLAS:1992">1</a>]
-</td>
-<td class="bibtexitem">
-Peter Fritzson, Nahid Shahmehri, Mariam Kamkar, and Tibor Gyimothy.
- Generalized algorithmic debugging and testing.
- <em>In ACM LOPLAS - Letters of Programming Languages and Systems</em>,
-  1(4):303--322, 1992.
-[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:LOPLAS:1992">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1145/161494.161498">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="openmodelica.org:peter:CAS:1992">2</a>]
+[<a name="openmodelica.org:peter:CAS:1992">1</a>]
 </td>
 <td class="bibtexitem">
 Peter Fritzson and Dag Fritzson.
@@ -735,6 +719,22 @@ Peter Fritzson and Dag Fritzson.
  <em>Computers and Structures</em>, 45(2):387--395, 1992.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:CAS:1992">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1016/0045-7949(92)90422-V">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="openmodelica.org:peter:LOPLAS:1992">2</a>]
+</td>
+<td class="bibtexitem">
+Peter Fritzson, Nahid Shahmehri, Mariam Kamkar, and Tibor Gyimothy.
+ Generalized algorithmic debugging and testing.
+ <em>In ACM LOPLAS - Letters of Programming Languages and Systems</em>,
+  1(4):303--322, 1992.
+[&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:peter:LOPLAS:1992">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/161494.161498">DOI</a>&nbsp;]
 
 </td>
 </tr>
