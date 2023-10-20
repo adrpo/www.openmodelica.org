@@ -1,8 +1,8 @@
 {
     "version": {
-        "release": "1.21.0",
-        "stable": "1.22.0~dev.beta.4",
-        "nightly": "1.23.0~dev-59-g7a41456"
+        "release": "1.21.2",
+        "stable": "1.22.0~dev.beta.4-2-g40037fe",
+        "nightly": "1.23.0~dev-73-g7545fec"
     },
     "deb": {
         "amd64": [
@@ -10,7 +10,8 @@
             "bullseye",
             "focal",
             "jammy",
-            "lunar"
+            "lunar",
+            "mantic"
         ],
         "arm64": [
             "bookworm",
@@ -65,7 +66,8 @@
         "fc38": "2024-05-18",
         "focal": "2025-04-02",
         "jammy": "2027-04-01",
-        "lunar": "2024-01-20"
+        "lunar": "2024-01-20",
+        "mantic": "2024-07-01"
     },
     "pkg": {
         "clang": {
@@ -78,7 +80,8 @@
             "fc38": "-",
             "focal": "10.0",
             "jammy": "14.0",
-            "lunar": "15.0"
+            "lunar": "15.0",
+            "mantic": "16.0"
         },
         "cmake": {
             "bookworm": "3.25.1",
@@ -90,7 +93,8 @@
             "fc38": "3.27.4",
             "focal": "3.16.3",
             "jammy": "3.22.1",
-            "lunar": "3.25.1"
+            "lunar": "3.25.1",
+            "mantic": "3.27.4"
         },
         "gcc": {
             "bookworm": "12.2.0",
@@ -102,7 +106,8 @@
             "fc38": "13.2.1",
             "focal": "9.3.0",
             "jammy": "11.2.0",
-            "lunar": "12.2.0"
+            "lunar": "12.2.0",
+            "mantic": "13.2.0"
         }
     }
 }
