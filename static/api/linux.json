@@ -1,7 +1,7 @@
 {
     "version": {
         "release": "1.21.2",
-        "stable": "1.22.0~dev.beta.6-4-g2036284",
+        "stable": "1.22.0~dev.beta.6-5-g65a01d6",
         "nightly": "1.23.0~dev-99-g4d4dbc7"
     },
     "deb": {
