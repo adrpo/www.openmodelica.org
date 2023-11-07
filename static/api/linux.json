@@ -1,8 +1,8 @@
 {
     "version": {
-        "release": "1.21.2",
-        "stable": "1.22.0~dev.beta.6-7-g2997235",
-        "nightly": "1.23.0~dev-113-g1e7fc0a"
+        "release": "1.22.0",
+        "stable": "1.22.0",
+        "nightly": "1.23.0~dev-116-gc944281"
     },
     "deb": {
         "amd64": [
