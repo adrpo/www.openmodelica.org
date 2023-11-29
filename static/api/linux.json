@@ -30,34 +30,7 @@
         ]
     },
     "rpm": {
-        "amd64": {
-            "el7": [
-                "openmodelica-1.19",
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
-            "el8": [
-                "openmodelica-1.18",
-                "openmodelica-1.19",
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
-            "el9": [
-                "openmodelica-1.19",
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
-            "fc37": [
-                "openmodelica-1.20",
-                "openmodelica-nightly"
-            ],
-            "fc38": [
-                "openmodelica-nightly"
-            ],
-            "fc39": [
-                "openmodelica-nightly"
-            ]
-        }
+        
     },
     "eol": {
         "bookworm": "2026-06-10",
