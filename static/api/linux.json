@@ -1,6 +1,6 @@
 {
     "version": {
-        "release": "1.22.0",
+        "release": "1.22.1",
         "stable": "1.22.1",
         "nightly": "1.23.0~dev-196-g0f5b149"
     },
