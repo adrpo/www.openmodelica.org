@@ -2,7 +2,7 @@
     "version": {
         "release": "1.22.1",
         "stable": "1.22.1",
-        "nightly": "1.23.0~dev-196-g0f5b149"
+        "nightly": "1.23.0~dev-203-g5904d1e"
     },
     "deb": {
         "amd64": [
@@ -30,7 +30,30 @@
         ]
     },
     "rpm": {
-        
+        "amd64": {
+            "el7": [
+                "openmodelica-1.19",
+                "openmodelica-1.20",
+                "openmodelica-nightly"
+            ],
+            "el8": [
+                "openmodelica-1.18",
+                "openmodelica-1.19",
+                "openmodelica-1.20",
+                "openmodelica-nightly"
+            ],
+            "el9": [
+                "openmodelica-1.19",
+                "openmodelica-1.20",
+                "openmodelica-nightly"
+            ],
+            "fc38": [
+                "openmodelica-nightly"
+            ],
+            "fc39": [
+                "openmodelica-nightly"
+            ]
+        }
     },
     "eol": {
         "bookworm": "2026-06-10",
@@ -65,7 +88,7 @@
             "el7": "3.17.5",
             "el8": "3.20.2",
             "el9": "3.20.2",
-            "fc38": "3.27.4",
+            "fc38": "3.27.7",
             "fc39": "3.27.7",
             "focal": "3.16.3",
             "jammy": "3.22.1",
@@ -77,7 +100,7 @@
             "bullseye": "10.2.1",
             "el7": "11.2.1",
             "el8": "8.5.0",
-            "el9": "11.3.1",
+            "el9": "11.4.1",
             "fc38": "13.2.1",
             "fc39": "13.2.1",
             "focal": "9.3.0",
