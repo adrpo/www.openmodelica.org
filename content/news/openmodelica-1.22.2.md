@@ -1,5 +1,5 @@
 ---
-title: "Openmodelica v1.22.1 released!"
+title: "Openmodelica v1.22.2 released!"
 date: "2024-02-21T09:00:00+01:00"
 conference_end_date: null
 rss_ignore: false
