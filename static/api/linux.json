@@ -1,8 +1,8 @@
 {
     "version": {
         "release": "1.22.4",
-        "stable": "1.23.0~dev.beta.0-1-g0519250",
-        "nightly": "1.24.0~dev-70-g9bc1350"
+        "stable": "1.23.0~dev.beta.1-1-g379f714",
+        "nightly": "1.24.0~dev-83-g26c8457"
     },
     "deb": {
         "amd64": [
@@ -17,13 +17,15 @@
             "bookworm",
             "bullseye",
             "focal",
-            "jammy"
+            "jammy",
+            "noble"
         ],
         "armhf": [
             "bookworm",
             "bullseye",
             "focal",
-            "jammy"
+            "jammy",
+            "noble"
         ],
         "i386": [
             
@@ -64,13 +66,13 @@
         "el7": "2024-06-30",
         "el8": "2029-03-01",
         "el9": "2032-05-31",
-        "fc38": "2024-05-14",
+        "fc38": "2024-05-21",
         "fc39": "2024-11-12",
         "fc40": "2025-05-13",
         "focal": "2025-04-02",
         "jammy": "2027-04-01",
         "mantic": "2024-07-01",
-        "noble": "2036-04-25"
+        "noble": "2029-04-25"
     },
     "pkg": {
         "clang": {
