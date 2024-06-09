@@ -35,7 +35,7 @@ The initial Master Simulation Tool (MST) framework from OMSimulator 1.0 has been
 <hr />
 <h2><strong>Publications</strong></h2>
 <ul>
-<li>Lennart Ochel et al.<a href="https://modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper1C1.pdf"><em>OMSimulator - Integrated FMI and TLM-based Co-simulation with Composite Model Editing and SSP</em></a>. Proceedings of the 13th International Modelica Conference, March 4-6, 2019, Regensburg, Germany.</li>
+<li>Lennart Ochel et al.<a href="https://2019.international.conference.modelica.org/proceedings/html/papers/Modelica2019paper1C1.pdf"><em>OMSimulator - Integrated FMI and TLM-based Co-simulation with Composite Model Editing and SSP</em></a>. Proceedings of the 13th International Modelica Conference, March 4-6, 2019, Regensburg, Germany.</li>
 <li>Alachew Mengist, Adeel Asghar, Adrian Pop, Peter Fritzson, Willi Braun, Alexander Siemers, Dag Fritzson. <a href="http://dx.doi.org/10.3384/ecp1915769"><em>An Open-Source Graphical Composite Modeling Editor and Simulation Tool Based on FMI and TLM Co-Simulation</em></a>. Proceedings of the 11th International Modelica Conference, Versailles, France, September 21-23, 2015.</li>
 <li>Dag Fritzson, Robert Braun, Jan Hartford. <em>Composite modelling in 3-D mechanics utilizing Transmission Line Modelling (TLM) and Functional Mock-up Interface (FMI)</em>. <a href="http://www.mic-journal.no/">Modeling, Identification and Control</a>, Vol. 39, No. 3, 2018, pp. 179-190, ISSN 1890-1328.</li>
 </ul>
