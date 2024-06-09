@@ -10,7 +10,7 @@ OpenModelica provides a convenient way to download open source libraries using t
 
 If any library is missing from that list, open a [ticket](https://github.com/OpenModelica/OMPackageManager/issues/new).
 
-The Modelica association provides a [list of open-source and commercial libraries](https://modelica.org/libraries.html).
+The Modelica association provides a [list of open-source and commercial libraries](https://modelica.org/libraries).
 
 ## Modelica Models Examples
 
