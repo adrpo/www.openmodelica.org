@@ -1366,7 +1366,7 @@ Anders Fernström, Ingemar Axelsson, Peter Fritzson, Anders Sandholm, and
  In <em>In Proc. of the Workshop on Developing Computer Science
   Education – How Can It Be Done?, Linkoping, Sweden</em>, March 2006.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:pop:Anders:DCSE:2006">bib</a>&nbsp;| 
-<a href="https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
+<a href="https://modelica.org/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -1411,7 +1411,7 @@ Martin Fransson, Peter Fritzson, Malin Lindqvist, and Curt Peterson.
   dosage - azathioprine on inflammatory bowel disease.
  In SIMS'2006 [<a href="#sims2006">286</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:fransson:sims:2006">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf">.pdf</a>&nbsp;]
+<a href="https://modelica.org/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -2396,7 +2396,7 @@ Elmir Jagudin, Andreas Remar, Adrian Pop, and Peter Fritzson.
   browsing, and simulation.
  In SIMS'2006 [<a href="#sims2006">286</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jagudin:sims:2006">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf">.pdf</a>&nbsp;]
+<a href="https://modelica.org/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -3499,7 +3499,7 @@ Christjaan Paredis, Yves Bernard, Roger Burkhart, Hans-Peter de&nbsp;Koning, San
  In <em>Proceedings of International Workshop and Model-Based Systems
   Engineering (MBSE) Workshop</em>, July 2010.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:Christjaan:INCOSE:2010">bib</a>&nbsp;| 
-<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">http</a>&nbsp;]
+<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -4132,7 +4132,7 @@ Anders Sandholm, Peter Fritzson, Gunilla Nilsson, and Göran Petersson.
   modelica.
  In SIMS'2006 [<a href="#sims2006">286</a>].
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:sandholm:sims:2006">bib</a>&nbsp;| 
-<a href="https://www.modelica.org/publications/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf">.pdf</a>&nbsp;]
+<a href="https://modelica.org/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -4245,7 +4245,7 @@ Wladimir Schamai, Philipp Helle, Peter Fritzson, and Christiaan Paredis.
  Virtual verification of system designs against system requirements.
  In ACES'2010 [<a href="#ACES2010">1</a>], pages 75--89.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:wladimir:ACES:2010">bib</a>&nbsp;| 
-<a href="http://dl.acm.org/citation.cfm?id=2008503.2008514">http</a>&nbsp;| 
+<a href="https://dl.acm.org/doi/10.5555/2008503.2008514">http</a>&nbsp;| 
 <a href="http://ceur-ws.org/Vol-644/paper05.pdf">.pdf</a>&nbsp;]
 
 </td>
