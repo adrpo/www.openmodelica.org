@@ -2546,7 +2546,7 @@ title: "openmodelica.bib"
   month = jul,
   year = {2010},
   location = {Chicago, USA},
-  pdf = {<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236</a>}
+  pdf = {<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236">https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-110236</a>}
 }
 </pre>
 
@@ -2556,7 +2556,7 @@ title: "openmodelica.bib"
   title = {Platform-independent modeling of explicitly parallel programs},
   pages = {83--94},
   crossref = {<a href="#ARCS2010">ARCS2010</a>},
-  url = {<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5758990&amp;tag=1">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5758990&tag=1</a>}
+  url = {<a href="https://ieeexplore.ieee.org/document/5758990">https://ieeexplore.ieee.org/document/5758990</a>}
 }
 </pre>
 
@@ -2594,7 +2594,7 @@ title: "openmodelica.bib"
   title = {Virtual Verification of System Designs against System Requirements},
   crossref = {<a href="#ACES2010">ACES2010</a>},
   pdf = {<a href="http://ceur-ws.org/Vol-644/paper05.pdf">http://ceur-ws.org/Vol-644/paper05.pdf</a>},
-  http = {<a href="http://dl.acm.org/citation.cfm?id=2008503.2008514">http://dl.acm.org/citation.cfm?id=2008503.2008514</a>}
+  http = {<a href="https://dl.acm.org/doi/10.5555/2008503.2008514">https://dl.acm.org/doi/10.5555/2008503.2008514</a>}
 }
 </pre>
 
@@ -2986,7 +2986,7 @@ title: "openmodelica.bib"
   author = {Elmir Jagudin and Andreas Remar and Adrian Pop and Peter Fritzson},
   title = {OpenModelica MDT Eclipse Plugin for Modelica Development, Code Browsing, and Simulation},
   crossref = {<a href="#sims2006">sims2006</a>},
-  pdf = {https://www.modelica.org/publications/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf}
+  pdf = {https://modelica.org/papers/2006-09-Jagudin-Remar-Pop-Fritzson-SIMS06-MDTEclipse.pdf}
 }
 </pre>
 
@@ -2995,7 +2995,7 @@ title: "openmodelica.bib"
   author = {Martin Fransson and Peter Fritzson and Malin Lindqvist and Curt Peterson},
   title = {A Preliminary Study of Modeling and Simulation in Individualized Drug Dosage - Azathioprine on Inflammatory Bowel Disease},
   crossref = {<a href="#sims2006">sims2006</a>},
-  pdf = {https://www.modelica.org/publications/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf}
+  pdf = {https://modelica.org/papers/2006-09-Fransson-Fritzson-Lindqvist-Peterson-SIMS06-drugdosage.pdf}
 }
 </pre>
 
@@ -3004,7 +3004,7 @@ title: "openmodelica.bib"
   author = {Anders Sandholm and Peter Fritzson and Gunilla Nilsson and Göran Petersson},
   title = {Towards a Flexible General Training Simulator Platform Based on Modelica},
   crossref = {<a href="#sims2006">sims2006</a>},
-  pdf = {https://www.modelica.org/publications/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf}
+  pdf = {https://modelica.org/papers/2006-09-30-Sandholm-Fritzson-etal-SIMS06-training-sim.pdf}
 }
 </pre>
 
@@ -3023,7 +3023,7 @@ title: "openmodelica.bib"
   booktitle = {In Proc. of the Workshop on Developing Computer Science Education – How Can It Be Done?, Linkoping, Sweden},
   month = {March},
   year = {2006},
-  url = {https://modelica.org/publications/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf}
+  url = {https://modelica.org/papers/2006-03-10-Fernstrom-etal-TeachingWorkshop-NotebookTeaching.pdf}
 }
 </pre>
 

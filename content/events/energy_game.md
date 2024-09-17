@@ -25,7 +25,7 @@ The models used in the game are from the TransportationModel and [ThermalAndPowe
 
 ## How is the data generated?
 
-At the beginning the models are parametrised based on the current data from Sweden and from Östergötland, and future trends are extrapolated based on current plans (eg: [32 new turbines planned](https://www.holmen.com/sv/energi/vindkraft/pagaende-projekt2/klintaberget/) in Östergötland expected to [double energy production](https://rvno.se/vindkraftsprojektet/)) and trends based on previous history (eg: growth in energy demand over previous years for all of Sweden are used to estimate the growth in demand for Östergötland).
+At the beginning the models are parametrised based on the current data from Sweden and from Östergötland, and future trends are extrapolated based on current plans (eg: [32 new turbines planned](https://www.holmen.com/en/newsroom/press/news/holmen-applies-to-develop-wind-power-in-ostergotland/) in Östergötland expected to [double energy production](https://rvno.se/vindkraftsprojektet/)) and trends based on previous history (eg: growth in energy demand over previous years for all of Sweden are used to estimate the growth in demand for Östergötland).
 
 The data used is taken from different sources, some data is not available in the exact format needed for the simulation, so some approximations are made (eg: wind speed and solar irradiation are calculated as an average based on several location points from the [Nasa](https://power.larc.nasa.gov/data-access-viewer/) site because there is no single value available for the whole region).
 

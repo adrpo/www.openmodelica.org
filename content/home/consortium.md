@@ -226,7 +226,7 @@ weight: 1
 <li><a href="https://www.jsol.co.jp/english/index.html">JSOL Corporation, Tokyo, Japan</a></li>
 <li><a href="https://www.maplesoft.com">Maplesoft, Canada</a></li>
 <li><a href="https://metroscope.tech/">Metroscope, Paris, France</a></li>
-<li><a href="https://www.zaubacorp.com/company/MODELICON-INFOTECH-LLP/AAI-6193">ModeliCon InfoTech, Bangalore, India</a></li>
+<li><a href="https://www.modelicon.in/">ModeliCon InfoTech, Bangalore, India</a></li>
 <li><a href="https://www.reusecompany.com/office-spain">REUSE company, Madrid, Spain</a></li>
 <li><a href="http://www.rte-france.com">RTE France, Paris, France</a></li>
 <li><a href="http://tongyuan.cc/">Suzhou Tongyuan Software &amp; Control Technology Co., Ltd., China</a></li>
