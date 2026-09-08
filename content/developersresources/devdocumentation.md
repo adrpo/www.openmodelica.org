@@ -47,7 +47,9 @@ getJSON('/api/linux.json', function(err, data) {
     content = "Failed to load JSON-file: " + err;
   } else {
     console.log(data);
-    allOS = [...data.deb.amd64].concat(Object.keys(data.rpm.amd64))
+    var debOS = (data.deb && data.deb.amd64) ? data.deb.amd64 : [];
+    var rpmOS = (data.rpm && data.rpm.amd64) ? Object.keys(data.rpm.amd64) : [];
+    allOS = [...debOS].concat(rpmOS)
     content += ['<tr><th class="headerSort" onclick="sortTable(0)">OS</th><th class="headerSort" onclick="sortTable(1)">EOL</th><th class="headerSort" onclick="sortTable(2)">cmake</th><th class="headerSort" onclick="sortTable(3)">gcc</th><th class="headerSort" onclick="sortTable(4)">clang</th></tr>']
     for (const os of allOS) {
         content += ["<tr><td>" + os + "</td><td>" + data.eol[os] + "</td><td>"+data.pkg.cmake[os]+"</td><td>"+data.pkg.gcc[os]+"</td><td>"+data.pkg.clang[os]+"</td></tr>"];
