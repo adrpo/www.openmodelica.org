@@ -156,7 +156,7 @@ James&nbsp;Jizhi Li.
   Information Science, June 2015.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:James:msc:2015">bib</a>&nbsp;]
 <blockquote><font size="-1">
-Supervisor: Lena Buffoni
+Supervisors: Lena Buffoni, Lars Ake Larsson
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
@@ -386,7 +386,7 @@ Jhansi&nbsp;Reddy Remala.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:jhansi:msc:2012">bib</a>&nbsp;| 
 <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-74474">http</a>&nbsp;]
 <blockquote><font size="-1">
-Supervisor: Mohsen Torabzadeh-Tari
+Supervisors: Mohsen Torabzadeh-Tari, Olena Rogovchenko
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
@@ -500,7 +500,7 @@ Haris Kapidzic.
 [&nbsp;<a href="/research/openmodelica_bib#openmodelica.org:haris:msc:2011">bib</a>&nbsp;| 
 <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-67955">http</a>&nbsp;]
 <blockquote><font size="-1">
-Supervisor: Mohsen Torabzadeh-Tari
+Supervisors: Mohsen Torabzadeh-Tari, Adeel Asghar
 </font></blockquote>
 <blockquote><font size="-1">
 Examiner: Peter Fritzson
